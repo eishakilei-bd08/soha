@@ -1697,4 +1697,66 @@ https://livestream5.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_i
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="SR News" tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png",Jamuna TV AkashGO
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg",BTV HD (AKDTH)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="SR documentary" tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png",Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7TJ7dxWFjs3y0sMCduzNOXTbuZQO1dRtmo0exiK_6isDkiahYjP9XeNU&s=10",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png",Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/rkmsTgZ/20240817-133855.png",Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/1fkFvQL/20240817-133908.png",My Tv
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://i.ibb.co/vvNk9vL/20240817-153116.png",RDC Movies
+https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
+#EXTINF:-1 group-title="SR Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFRYLs_eqxFj6EsdH7yN7S53yVu3BzUpWLgHRdnDJvvKYNufcKBRiLih9&s=10",ZEE Cinema HD
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+#EXTINF:-1 group-title="SR Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkygJiW7UmSzVB63h8f4nosh66egVsmnMVlA3Js7DCwLXHuurrXx853gf&s=10",9x jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
+#EXTINF:-1 group-title="SR Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYObFkB-69LQgND4IXb4c0kn0c6XAITvCdcvMS2fYPos-yViRvQKqtCko&s=10",Mastiii
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
+#EXTINF:-1 group-title="SR Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTat9kpBLOlEBpw0BAhgGaW4hwDKcvhB7VPCClMdZvb9Oa5Xiq5T-qIa_c6&s=10",YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/5e60e1a9-c796-4bf2-ab37-a1d9c98ca0b3/4.m3u8
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://i.ibb.co/dskDj8L3/20250522-110533.jpg",Hawa (2022) 1080p iscreen
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/CineFreak.ME%20-%20Hawa%20(2022)%20Bengali%20WEB-DL%201080p.mkv
+#EXTINF:-1 group-title="SR BDIX South" tvg-logo="https://i.ibb.co.com/q78cRFW/20241121-200931.jpg",Narappa (2021) HD
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Narappa%202021%20Dual%20Audio%20Hindi%20ORG%20SouthFreak.com%201080p%20WEB-DL%20x264%20ESubs.mkv
+#EXTINF:-1 group-title="SR BDIX Bangladesh" tvg-logo="https://i.ibb.co/yT4Bxbg/20250531-202326.jpg",Meyeti Ekhon Kothay Jabe (2017)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/CINEFREAK.TOP%20-%20Meyeti%20Ekhon%20Kothay%20Jabe%20(2017)%20WEB-DL%20[Bengali]%20BongoBD%201080p.mkv
+#EXTINF:-1 group-title="SR BDIX Bollywood" tvg-logo="https://i.ibb.co/Rp6kpv91/20250601-205919.jpg",Coolie No. 1 (1995) 1080p
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Coolie%20No.%201%201995%20WebRip%201080p%20Hindi%20DD%202.0%20x264%20ESub%20-%20TG:%20@SR_PREMIUM.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/VcvhM2C1/20250601-131802.png",Hungama 2 (2021)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Hungama.2.2021.2160p.HDR.DSNP.WEB-DL.DD+5.1.x265-TG:%20@SR_PREMIUM-Telly.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/5WGWd7gS/20250601-131809.jpg",Jawan (2023) EXTENDED CUT
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Jawan.Extended.Cut.2023.2160p.NF.WEB-DL.DDP5.1.HEVC-TG:%20@SR_PREMIUM_Telly.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/r21RQ9M5/20250601-131815.png",Retro (2025)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Retro.2025.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TG:%20@SR_PREMIUM.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/0yj8BLB7/20250601-131823.jpg",HIT: The Third Case (2025)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/HIT.The.Third.Case.2025.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TG:%20@SR_PREMIUM.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/MkHfktJy/20250601-131925.jpg",Govinda Naam Mera (2022)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Govinda.Naam.Mera.2022.2160p.DSNP.WEB-DL.Hindi.DD+5.1.Atmos.TG:%20@SR_PREMIUM%20-.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/LdYPhswp/20250601-131916.jpg",Chhatriwali (2023)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Chhatriwali.2023.2160p.ZEE5.WEB-DL.DDP5.1.H.265-TG:%20@SR_PREMIUM%20-Telly.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/ynGD9WBq/20250601-131902.jpg",Mere Husband Ki Biwi (2025)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/TG:%20@SR_PREMIUM-Mere.Husband.Ki.Biwi.2025.2160p.HS.WEB-DL.DDP5.1.H.265-Telly.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/CKn9Q1m6/20250601-131852.png",Pushpa 2: The Rule (2025) EXTENDED
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Pushpa%202%20-%20The%20Rule%20Reloaded%20Version%20(2025)%20NF%20WEB-DL%20[Hin-Mal-Tam-Tel]%20TG:%20@SR_PREMIUM%202160p%20DDP%205.1.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/bMQXrwK9/20250601-131838.jpg",Bhool Bhulaiyaa 2 (2022)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Bhool%20Bhulaiyaa%202%20%E2%80%93%202022%20Hindi%20Movie%20NF%20WebRip%20@SR_PREMIUM%202160p.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/PsSf16tf/20250601-131829.jpg",Sikandar (2025)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/TG:%20@SR_PREMIUM%20-Sikandar%20(2025)%20WEB-DL%20[Hindi]%20NF%202160p%20HEVC%20DDP5.1%20HDR%20Esub.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/Xfcyfr67/20250601-131756.jpg",Tiger 3 (2023)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/Tiger%203%20(2023)%20WEB-DL%20[Hindi]%20AMZN%202160p%20HEVC%20TG:%20@SR_PREMIUM%20SDR%20ESub.mkv
+#EXTINF:-1 group-title="SR BDIX 4K Zone" tvg-logo="https://i.ibb.co/Nn3BsvW5/20250601-131751.jpg",How Sweet (2025)
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/TG:%20@SR_PREMIUM%20-%20How%20Sweet%20(2025)%20WEB-DL%20[Bengali]%20BongoBD%202160p.mkv
+#EXTINF:-1 group-title="SR BDIX Bangla Web" tvg-logo="https://i.ibb.co.com/w6jYhmz/20241005-085318.jpg",Female 720p
+https://pub-01c40ff5657b429fa6c8cb74903caf8e.r2.dev/CINEFREAK.NET%20-%20Female%204%20(2024)%20WEB-DL%20[Bengali]%20BongoBD%20720p.mkv
+
 
