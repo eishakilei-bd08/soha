@@ -167,3 +167,101 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1 group-title="FM-Radio" tvg-logo="https://spicefmbd.com/logospice.png", Spice FM
 https://stream.spicefmbd.com/stream.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U
+
+############ RADIO ############
+#EXTINF:-1 group-title="RADIO",Radio Foorti
+https://node-11.zeno.fm/f0bfdkw34zuv
+
+#EXTINF:-1 group-title="RADIO",Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv
+
+#EXTINF:-1 group-title="RADIO",Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+
+#EXTINF:-1 group-title="RADIO",Radio Wow
+https://stream-41.zeno.fm/d22wrdbst5quv
+
+#EXTINF:-1 group-title="RADIO",ABC Radio (89.2)
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+
+#EXTINF:-1 group-title="RADIO",Saudi Quran
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 group-title="RADIO",Jago FM (94.4)
+http://128.199.184.111:12496/stream
+
+#EXTINF:-1 group-title="RADIO",Bangladesh Betar (88.8)
+http://as3.digitalysnapsed.com:8263/stream.mp3
+
+#EXTINF:-1 group-title="RADIO",Al Quran Radio
+http://66.45.232.131:9994/stream.mp3
+
+#EXTINF:-1 group-title="RADIO",Big FM (92.7)
+http://sc-bb.1.fm:8017/?listen
+
+############ INDIAN TV ############
+#EXTINF:-1 group-title="INDIAN TV",Star Gold
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Star Plus
+http://103.99.249.139/starplus/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Star Jalsha
+http://103.99.249.139/starjalsha/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Jalsha Movies
+http://103.99.249.139/jalshamovies/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",And Pictures
+http://103.99.249.139/andpictures/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Sony Max
+http://103.99.249.139/sonymax/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Sony Sab
+http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Zee TV
+http://103.99.249.139/zeetv/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Zee Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN TV",Cartoon Network India
+http://163.61.227.29:8000/play/a064/index.m3u8
+
+############ AKASH GO ############
+#EXTINF:-1 group-title="AKASH GO",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 group-title="AKASH GO",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 group-title="AKASH GO",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="AKASH GO",HUM TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 group-title="AKASH GO",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 group-title="AKASH GO",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 group-title="AKASH GO",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 group-title="AKASH GO",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+
