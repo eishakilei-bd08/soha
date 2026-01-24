@@ -5395,52 +5395,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 
 
-
-#EXTM3U
-
-#######E.I. Special🇧🇩#######
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Hindi Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Dubbed Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Bangla Waz
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Bangla Kirtan
-https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Bantul The Great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF:-1 group-title=" E.I. Special🇧🇩",
-24/7 Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-
-
-
-
-
-
 #EXTM3U
 
 #EXTINF:-1 group-title="Movies",24/7 Hindi Movies
@@ -5997,4 +5951,56 @@ http://pl.online24.pm/play/4225/C0D18CDEC14EAF8/video.m3u8
 http://pl.online24.pm/play/4226/C0D18CDEC14EAF8/video.m3u8
 #EXTINF:0 tvg-name="BOX SportCast Live 4 HD" group-title="Спорт",BOX SportCast Live 4 HD
 http://pl.online24.pm/play/4227/C0D18CDEC14EAF8/video.m3u8
-#EXTINF:0 tvg-name="BOX SportCast Live 5 HD" group-
+
+
+
+
+
+#EXTM3U
+
+#########E.I. Special🇧🇩#########
+
+
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Bangla Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1, group-title=" E.I. Special🇧🇩",
+Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+
+
+
+
+
+
