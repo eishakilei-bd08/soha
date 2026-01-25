@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Akash Go" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Akash%20Go.jpg?raw=true" group-title="All-In-One~ENT🧩",Akash Go
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true" group-title="All-In-One~ENT🧩",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:1 tvg-name="BTV News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_News.jpg?raw=true" group-title="All-In-One~ENT🧩",BTV News
@@ -169,10 +171,6 @@ https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 https://www.tbn24.com/live-tv-stream/20201_.m3u8
 #EXTINF:1 tvg-name="Discovery kids" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Kids.jpg?raw=true" group-title="All-In-One~ENT🧩",Discovery kids
 http://cdnd.sonyplex.com:8090/hls/DiscoveryKids.m3u8
-
-#EXTINF:-1 tvg-id="1145" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/MTV%20HD.jpg?raw=true" group-title="All-In-One~ENT🧩",mtv_hd
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6582/index.m3u8
-
 #EXTINF:1 tvg-name="Pogo" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Pogo.jpg?raw=true" group-title="All-In-One~ENT🧩",Pogo
 
 #EXTINF:1 tvg-name="Gubbare" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" group-title="All-In-One~ENT🧩",Gubbare
@@ -250,65 +248,76 @@ http://cdnd.sonyplex.com:8090/hls/SonyHD.m3u8
 #EXTINF:-1 group-title="All-In-One~ENT🧩" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD VIP
 
 #EXTINF:1 tvg-id="1341" tvg-name="Nick bangla" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20Bangla.jpg?raw=true" group-title="All-In-One~ENT🧩",Nick Bangla
-http://103.140.254.2:3500/live/1341.m3u8
+
 #EXTINF:1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20Hindi.jpg?raw=true" group-title="All-In-One~ENT🧩",Nick Hindi
-http://103.140.254.2:3500/live/545.m3u8
+http://imnoob.site/new.php?id=JC_NickSD/JCHLS/JC_NickSD-audio_108041_hin=108000-video=662800.m3u8
+http://163.61.227.29:8000/play/a013/index.m3u8
 #EXTINF:1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sonic%20Bangla.jpg?raw=true" group-title="All-In-One~ENT🧩",Sonic Bangla
-http://103.140.254.2:3500/live/1345.m3u8
+
 #EXTINF:1 tvg-id="515" tvg-name="Sonic Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sonic%20Hindi.jpg?raw=true" group-title="All-In-One~ENT🧩",Sonic Hindi
-http://103.140.254.2:3500/live/815.m3u8
+http://imnoob.site/new.php?id=JC_SonicNick/JCHLS/JC_SonicNick-audio_108041_hin=108000-video=662800.m3u8
+https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/2.No%20Signal%20Apps%20change.mp4
 #EXTINF:1 tvg-id="548" tvg-name="nickjr hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20jr.jpg?raw=true" group-title="All-In-One~ENT🧩",NickJr
-http://103.140.254.2:3500/live/548.m3u8
+http://imnoob.site/new.php?id=JC_NickJr/JCHLS/JC_NickJr-audio_98836_eng=98800-video=658800.m3u8
+http://103.229.254.25:7001/play/a0di/index.m3u8
 #EXTINF:1 tvg-id="550" tvg-name="Discovery kids" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Kids.jpg?raw=true" group-title="All-In-One~ENT🧩",Discovery kids
-http://103.140.254.2:3500/live/550.m3u8
+http://103.229.254.25:7001/play/a0dg/index.m3u8
 #EXTINF:1 tvg-id="559" tvg-name="Pogo" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Pogo.jpg?raw=true" group-title="All-In-One~ENT🧩",Pogo
-http://103.140.254.2:3500/live/559.m3u8
+http://103.229.254.25:7001/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-id="573" tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="All-In-One~ENT🧩",Discovery Bangla
-http://103.140.254.2:3500/live/573.m3u8
+http://163.61.227.29:8000/play/a01i/index.m3u8
 #EXTINF:1 tvg-id="571" tvg-name="TLC Hindi 📺" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TLC.jpg?raw=true" group-title="All-In-One~ENT🧩",TLC
-http://103.140.254.2:3500/live/571.m3u8
+
 #EXTINF:1 tvg-id="562" tvg-name="Travelxp hindi 📺" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tavelxp.jpg?raw=true" group-title="All-In-One~ENT🧩",Travelxp
-http://103.140.254.2:3500/live/562.m3u8
+
 #EXTINF:1 tvg-id="566" tvg-name="Animal planet Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" group-title="All-In-One~ENT🧩",Animal planet
-http://103.140.254.2:3500/live/566.m3u8
+
 #EXTINF:1 tvg-id="578" tvg-name="History TV18 HD (HINDI)" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/History%20Tv.jpg?raw=true" group-title="All-In-One~ENT🧩",History TV18
-http://103.140.254.2:3500/live/578.m3u8
+
 #EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20HD.jpg?raw=true" group-title="All-In-One~ENT🧩",colors_hd
-http://103.140.254.2:3500/live/144.m3u8
+http://imnoob.site/new.php?id=JC_ColorsHD/JCHLS/JC_ColorsHD-audio_98835_hin=98800-video=658800.m3u8
+http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="1368" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20sd.jpg?raw=true" group-title="All-In-One~ENT🧩",colors_sd
-http://103.140.254.2:3500/live/1368.m3u8
+
 #EXTINF:-1 tvg-id="756" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20Bangla%20HD.jpg?raw=true" group-title="All-In-One~ENT🧩",colors_bangla_hd
-http://103.140.254.2:3500/live/756.m3u8
+http://imnoob.site/new.php?id=JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD-audio_108035_ben=108000-video=662800.m3u8
+http://cdnd.sonyplex.com:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-id="1369" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20bangla%20sd.jpg?raw=true" group-title="All-In-One~ENT🧩",colors_bangla_sd
-http://103.140.254.2:3500/live/1369.m3u8
+
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20Bangla%20cinema.jpg?raw=true" group-title="All-In-One~ENT🧩",colors_bangla_cinema
-http://103.140.254.2:3500/live/1657.m3u8
+
 #EXTINF:-1 tvg-id="279" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rishtey.jpg?raw=true" group-title="All-In-One~ENT🧩",rishtey
-http://103.140.254.2:3500/live/279.m3u8
+http://imnoob.site/new.php?id=JC_ColorsRishtey/JCHLS/JC_ColorsRishtey-audio_98835_hin=98800-video=658800.m3u8
+https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/2.No%20Signal%20Apps%20change.mp4
 #EXTINF:-1 tvg-id="1777" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20Hd.jpg?raw=true" group-title="All-In-One~ENT🧩",cineplex_hd
-http://103.140.254.2:3500/live/1777.m3u8
+http://imnoob.site/new.php?id=JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD-audio_98835_hin=98800-video=658800.m3u8
+http://cdnd.sonyplex.com:8090/hls/ColorsCineplexHD.m3u8
 #EXTINF:-1 tvg-id="482" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20Cineplex%20sd.jpg?raw=true" group-title="All-In-One~ENT🧩",cineplex_sd
-http://103.140.254.2:3500/live/482.m3u8
+
 #EXTINF:-1 tvg-id="1763" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20Bollywood.jpg?raw=true" group-title="All-In-One~ENT🧩",cineplex_bollywood
-http://103.140.254.2:3500/live/1763.m3u8
+http://imnoob.site/new.php?id=JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood-audio_98835_hin=98800-video=658800.m3u8
+https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/2.No%20Signal%20Apps%20change.mp4
 #EXTINF:-1 tvg-id="1450" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20superhit.jpg?raw=true" group-title="All-In-One~ENT🧩",cineplex_superhits
-http://103.140.254.2:3500/live/1450.m3u8
+http://imnoob.site/new.php?id=JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit-audio_98835_hin=98800-video=658800.m3u8
+https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/2.No%20Signal%20Apps%20change.mp4
 #EXTINF:1 tvg-id="3074" tvg-name="Shemaroo Filmy Gaane" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Semaro%20filmi%20gaana.jpg?raw=true" group-title="All-In-One~ENT🧩",Shemaroo Filmy Gaane
-http://103.140.254.2:3500/live/3074.m3u8
+
 #EXTINF:1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Semaroo%20Bollywood.jpg?raw=true" group-title="All-In-One~ENT🧩",Shemaroo Bollywood
-http://103.140.254.2:3500/live/3075.m3u8
+
 #EXTINF:-1 tvg-id="1145" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/MTV%20HD.jpg?raw=true" group-title="All-In-One~ENT🧩",mtv_hd
-http://103.140.254.2:3500/live/1145.m3u8
+http://imnoob.site/new.php?id=JC_MTVHD/JCHLS/JC_MTVHD-audio_98835_eng=98800-video=658800.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6582/index.m3u8
 #EXTINF:-1 tvg-id="248" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/MTV%20sd.jpg?raw=true" group-title="All-In-One~ENT🧩",mtv_sd
-http://103.140.254.2:3500/live/248.m3u8
+
 #EXTINF:-1 tvg-id="592" tvg-id="zoom1" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zoom.jpg?raw=true" tvg-chno="zoom" group-title="All-In-One~ENT🧩",Zoom
-http://103.140.254.2:3500/live/592.m3u8
+
 #EXTINF:1 tvg-id="464" tvg-name="ZEE 24 Ghonta" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%2024%20ghonta.jpg?raw=true" group-title="All-In-One~ENT🧩",ZEE 24 Ghonta
-http://103.140.254.2:3500/live/464.m3u8
+
 #EXTINF:1 tvg-id="1662" tvg-name="Tara Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tara%20Tv.jpg?raw=true" group-title="All-In-One~ENT🧩",Tara Tv
-http://103.140.254.2:3500/live/1662.m3u8
+
 #EXTINF:1 tvg-id="1998" tvg-name="Star Sports" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Sports.jpg?raw=true" group-title="All-In-One~ENT🧩",Star Sports
-http://103.140.254.2:3500/live/1998.m3u8
+http://imnoob.site/new.php?id=2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0-audio_98838_hin=98800-video=658800.m3u8
+http://103.229.254.25:7001/play/a0dn/index.m3u8
 
 #EXTINF:1 tvg-name="Sony Aath" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Aath.jpg?raw=true" group-title="All-In-One~ENT🧩",Sony Aath
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
@@ -328,7 +337,7 @@ https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tra
 #EXTINF:1 tvg-name="Star Bharat" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Bharat.jpg?raw=true" group-title="All-In-One~ENT🧩",Star Bharat
 
 #EXTINF:1 tvg-name="Star Gold" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Gold.jpg?raw=true" group-title="All-In-One~ENT🧩",Star Gold
-
+http://103.229.254.25:7001/play/a0df/index.m3u8
 #EXTINF:1 tvg-name="Star Plus" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Plus.jpg?raw=true" group-title="All-In-One~ENT🧩",Star Plus
 
 #EXTINF:-1 tvg-name="Hindi movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Movie.jpg?raw=true" group-title="All-In-One~ENT🧩",Hindi movies
@@ -460,7 +469,6 @@ http://103.99.249.139/zeecinema/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
 #EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zing.jpg?raw=true" group-title="All-In-One~ENT🧩",Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/970.ts
 #EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
@@ -473,7 +481,7 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6582/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
 #EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Bollywood.jpg?raw=true" group-title="All-In-One~ENT🧩",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/966.ts
+http://103.229.254.25:7001/play/a0dk/index.m3u8
 #EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
@@ -500,6 +508,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://163.61.227.29:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/National%20Geographic.jpg?raw=true" group-title="All-In-One~ENT🧩",National Geographic Hindi
 http://163.61.227.29:8000/play/a01d/index.m3u8
+
+
 
 
 
