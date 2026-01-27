@@ -29,14 +29,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg" group-title="Live Event", Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131031_5427_VAL_ESL_fc-Web.png" group-title="Live Event", Valencia CF vs RCD Espanyol (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/131031_english_hls_73acf677f537413_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ChinaPRU23_vs_JapanU23_fc-web.jpg" group-title="Live Event", China PR U23 vs Japan U23 (AFC U23 Asian Cup- 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" group-title="Live Event", Main Feed - Day 3 vs LA Quinta- CA- USA (The American Express 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
