@@ -91,7 +91,7 @@ http://178.23.88.55/Arena_sport/index.m3u8
 http://178.23.88.55/Sport1/index.m3u8
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Cbeebies" group-title="Kids",BBC Cbeebies
+#EXTINF:-1 tvg-name="Motu Zio" group-title="Kids",Motu Zio
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 tvg-name="Live Quran TV" group-title="Cricket ",Live Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
