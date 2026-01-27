@@ -7097,10 +7097,12 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1, group-title=" E.I. Special🇧🇩",
 Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",
+RongeenTv
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",
+ZB Cartoon 
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",
+SNB Cinema 
+https://live-stream.utkalbongo.com/utkalbongo/stream11/hls/snbcinemalive.m3u8
