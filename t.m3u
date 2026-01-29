@@ -6782,18 +6782,17 @@ T Play Special https://tplay.live/playlist/music/tplay-special/index.m3u8
 T Series Songs https://tplay.live/playlist/music/t-series/index.m3u8
 #EXTINF:-1, group-title= " E.I. Special🇧🇩",
 Dance Performance https://tplay.live/playlist/music/dance-performance/index.m3u8
-#EXTINF:-1, group-title= " E.I. Special🇧🇩",
-Coke Studio Bangla https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
-#EXTINF:-1, group-title= " E.I. Special🇧🇩",
-Bhojpuri Songs https://tplay.live/playlist/music/bhojpuri/index.m3u8
-#EXTINF:-1, group-title= " E.I. Special🇧🇩",
-Adnan Sami https://tplay.live/playlist/music/adnan-sami/index.m3u8
-#EXTINF:-1, group-title= " E.I. Special🇧🇩",
-Bangla Kirtan https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
-#EXTINF:-1, group-title= " E.I. Special🇧🇩",
-Zibo http://ziboflow.ott-king.top:8080/zibo/index.m3u8
-#EXTINF:-1, group-title= " E.I. Special🇧🇩",
-SRKTV 
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",Coke Studio Bangla 
+https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",Bhojpuri Songs 
+https://tplay.live/playlist/music/bhojpuri/index.m3u8
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",Adnan Sami 
+https://tplay.live/playlist/music/adnan-sami/index.m3u8
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",Bangla Kirtan 
+https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",Zibo
+https://ziboflow.ott-king.top:8080/zibo/index.m3u8
+#EXTINF:-1, group-title= " E.I. Special🇧🇩",SRKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
