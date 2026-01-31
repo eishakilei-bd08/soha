@@ -6,6 +6,47 @@ http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1,  group-title="SRKTV",SRKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1, group-title="24/7",24/7 Grizzy&The Lemming
+https://tigerhub-bd.vercel.app/Kidz-Zone/Grizzy-and-the-Lemmings/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Larva
+https://tigerhub-bd.vercel.app/Kidz-Zone/Larva/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Marsha & the Bear
+https://tigerhub-bd.vercel.app/Kidz-Zone/Marsha-and-the-Bear/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Angry Bird
+https://tigerhub-bd.vercel.app/Kidz-Zone/Angry-Bird/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Angry Bird Blue
+https://tigerhub-bd.vercel.app/Kidz-Zone/Angry-Bird-Blue/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Micky Mouse
+https://tigerhub-bd.vercel.app/Kidz-Zone/Micky-Mouse/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Mighty Little Beam
+https://tigerhub-bd.vercel.app/Kidz-Zone/Mighty-little-Beam/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Mr Bean Animation
+https://tigerhub-bd.vercel.app/Kidz-Zone/MrBean-Animation/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Tom&Jerry
+https://tigerhub-bd.vercel.app/Kidz-Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Shaun the Sheep
+https://tigerhub-bd.vercel.app/Kidz-Zone/Shaun-the-Sheep/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Pink panther
+https://tigerhub-bd.vercel.app/Kidz-Zone/Pink-panther/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 oggy and the Cockroaches
+https://tigerhub-bd.vercel.app/Kidz-Zone/Oggy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Oddboods
+https://tigerhub-bd.vercel.app/Kidz-Zone/Oddboods/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Popeye
+https://tigerhub-bd.vercel.app/Kidz-Zone/Popeye/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Spiderman
+https://tigerhub-bd.vercel.app/Kidz-Zone/Spiderman/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Looney Tunes
+https://tigerhub-bd.vercel.app/Kidz-Zone/Looney-Tunes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, group-title="24/7", 24/7 Smurfs
+https://tigerhub-bd.vercel.app/Kidz-Zone/Smurfs/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
 #EXTM3U 
 ############ AKASH GO ############
 #EXTINF:-1, group-title="AKASH GO",Deepto TV HD
