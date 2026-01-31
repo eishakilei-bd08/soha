@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, group-title="jio tv", jio tv
-http://103.180.212.191:3500/
+#EXTINF:-1, group-title="NICK BANGLA",NICK BANGLA,
+http://103.180.212.191:3500/live/1341.m3u8
+
+
 #EXTM3U 
 #EXTINF:-1,  group-title="SRKTV",SRKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
