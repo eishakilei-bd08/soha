@@ -39,28 +39,6 @@ http://ziboflow.ott-king.top:8080/STARGOLDHD/video.m3u8?token=NO_IP_CHECK
 
 
 
-EXTM3U
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="None",NATIONAL GEOGRAPHIC HD
-http://rolexott.pro:80/live/56564322/56564323/269836.ts
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="None",Nat Geo Wild HD
-http://rolexott.pro:80/live/56564322/56564323/269837.ts
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="None",Animal Planet HD
-http://rolexott.pro:80/live/56564322/56564323/269838.ts
-#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="None",Discovery HD
-http://rolexott.pro:80/live/56564322/56564323/269839.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="None",Discovery Science
-http://rolexott.pro:80/live/56564322/56564323/269840.ts
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="None",Discovery Turbo
-http://rolexott.pro:80/live/56564322/56564323/269841.ts
-#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="None",History TV18 HD
-http://rolexott.pro:80/live/56564322/56564323/269842.ts
-#EXTINF:-1 tvg-id="TLC HD" tvg-logo="None",TLC HD
-http://rolexott.pro:80/live/56564322/56564323/269843.ts
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrW_D7ba2ObxQYIQG8YEiF9MMNdFHN_4_0DQ&s",Zee Zest HD
-http://rolexott.pro:80/live/56564322/56564323/269844.ts
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="None",SONY BBC EARTH HD
-http://rolexott.pro:80/live/56564322/56564323/269863.ts
-
 
 #EXTM3U
 #EXTINF:-1, group-title="NICK BANGLA",NICK BANGLA,
