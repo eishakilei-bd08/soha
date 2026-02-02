@@ -166,6 +166,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 
 
 
+
 #EXTM3U
 #EXTINF:-1 tvg-name="Akash Go" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Akash%20Go.jpg?raw=true" group-title="Bangla🇧🇩",Akash Go
 https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
@@ -258,7 +259,8 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:1 tvg-name="T Sports" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Sports.jpg?raw=true" group-title="Bangla🇧🇩",T Sports
-https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
+#https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
+http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-name="Ekhusjey TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Ekushetv.jpg?raw=true" group-title="Bangla🇧🇩",Ekhusjey TV
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -285,10 +287,20 @@ http://103.175.73.12:8080/live/31/31_0.m3u8
 http://103.175.73.12:8080/live/194/194_0.m3u8
 #EXTINF:1 tvg-name="Star jalsha" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Jalsha.jpg?raw=true" group-title="India🇮🇳",Star Jalsha SD
 http://103.175.73.12:8080/live/195/195_0.m3u8
+#EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie
+http://103.175.73.12:8080/live/374/374_0.m3u8
 #EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX SD
 http://103.175.73.12:8080/live/32/32_0.m3u8
 #EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX HD
 http://103.175.73.12:8080/live/33/33_0.m3u8
+#EXTINF:-1 tvg-name="Sony Max1" tvg-logo="https://i.postimg.cc/mgyLRVFf/Sony-Max-1.png" group-title="India🇮🇳",Sony Max1
+http://103.175.73.12:8080/live/581/581_0.m3u8
+#EXTINF:-1 tvg-name="Sony Max2" tvg-logo="https://i.postimg.cc/rwpjyM8K/Sony-max2.png" group-title="India🇮🇳",Sony Max2
+http://103.175.73.12:8080/live/39/39_0.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony_Entertainment_HD.jpg?raw=true",SONY HD
+http://103.175.73.12:8080/live/250/250_0.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony_Entertainment.jpg?raw=true",SONY SD
+http://103.175.73.12:8080/live/251/251_0.m3u8
 #EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
 http://103.175.73.12:8080/live/5/5_0.m3u8
 #EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB SD
@@ -298,14 +310,29 @@ http://103.175.73.12:8080/live/6/6_0.m3u8
 http://103.175.73.12:8080/live/11/11_0.m3u8
 #EXTINF:1 tvg-name="Sony Yay" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Yay.jpg?raw=true" group-title="India🇮🇳",Sony Yay
 http://103.175.73.12:8080/live/122/122_0.m3u8
-#EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie
-http://103.175.73.12:8080/live/374/374_0.m3u8
+#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://i.postimg.cc/76hmB4Rh/Sony-Wah.png" group-title="India🇮🇳",Sony Wah
+http://103.175.73.12:8080/live/38/38_0.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Disney%20Channel.jpg?raw=true" group-title="India🇮🇳",Disney Channel
+http://103.175.73.12:8080/live/126/126_0.m3u8
+#EXTINF:-1 tvg-id="573" tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="India🇮🇳",Discovery HD
+http://103.175.73.12:8080/live/135/135_0.m3u8
+#EXTINF:-1 tvg-id="573" tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="India🇮🇳",Discovery SD
+http://103.175.73.12:8080/live/136/136_0.m3u8
+#EXTINF:1 tvg-name="TLC Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TLC.jpg?raw=true" group-title="India🇮🇳",TLC Hindi HD
+http://103.175.73.12:8080/live/138/138_0.m3u8
+#EXTINF:1 tvg-name="TLC Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TLC.jpg?raw=true" group-title="India🇮🇳",TLC Hindi SD
+http://103.175.73.12:8080/live/139/139_0.m3u8
+#EXTINF:-1 tvg-name="Star MoviesHD" tvg-logo="https://i.postimg.cc/9F01CcX7/Star-Movies.png" group-title="India🇮🇳",Star Movies HD
+http://103.175.73.12:8080/live/56/56_0.m3u8
+#EXTINF:-1 tvg-name="Star MoviesSD" tvg-logo="https://i.postimg.cc/9F01CcX7/Star-Movies.png" group-title="India🇮🇳",Star Movies SD
+http://103.175.73.12:8080/live/57/57_0.m3u8
+#EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zoom.jpg?raw=true" tvg-chno="zoom" group-title="India🇮🇳",Zoom
+http://103.175.73.12:8080/live/153/153_0.m3u8
+#EXTINF:-1
 #EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Aath.jpg?raw=true",Sony Aat VIP
-
-#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony_Entertainment_HD.jpg?raw=true",SONY HD
-
-#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony_Entertainment.jpg?raw=true",SONY sd
-
+http://cdnd.sonyplex.com:8090/hls/SonyAtth.m3u8
+#EXTINF:1 tvg-name="Travelxp" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tavelxp.jpg?raw=true" group-title="India🇮🇳",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
 http://103.99.249.139/sonysab/index.m3u8
 #EXTINF:1 tvg-name="Sony Aath" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Aath.jpg?raw=true" group-title="India🇮🇳",Sony Aath
@@ -316,7 +343,7 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 #https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/375336.ts
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie
-
+http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
 #EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie (Singapore ip)
 https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
 
@@ -331,15 +358,14 @@ http://imnoob.site/new.php?id=JC_SonicNick/JCHLS/JC_SonicNick-audio_108041_hin=1
 http://103.175.73.12:8080/live/124/124_0.m3u8
 #EXTINF:1 tvg-id="548" tvg-name="nickjr hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20jr.jpg?raw=true" group-title="India🇮🇳",NickJr
 http://imnoob.site/new.php?id=JC_NickJr/JCHLS/JC_NickJr-audio_98836_eng=98800-video=658800.m3u8
+http://103.175.73.12:8080/live/125/125_0.m3u8
 http://103.229.254.25:7001/play/a0di/index.m3u8
 #EXTINF:1 tvg-id="550" tvg-name="Discovery kids" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Kids.jpg?raw=true" group-title="India🇮🇳",Discovery kids
 http://103.229.254.25:7001/play/a0dg/index.m3u8
 #EXTINF:1 tvg-id="559" tvg-name="Pogo" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Pogo.jpg?raw=true" group-title="India🇮🇳",Pogo
 http://103.229.254.25:7001/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-id="573" tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="India🇮🇳",Discovery Bangla
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhd/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Disney%20Channel.jpg?raw=true" group-title="India🇮🇳",Disney Channel
-http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
+http://cdnd.sonyplex.com:8090/hls/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20HD.jpg?raw=true" group-title="India🇮🇳",colors_hd
 http://imnoob.site/new.php?id=JC_ColorsHD/JCHLS/JC_ColorsHD-audio_98835_hin=98800-video=658800.m3u8
 http://217.20.112.199:8888/ColorsHD/index.m3u8
@@ -711,11 +737,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/2.No%20Signal%20Apps%20change.mp4
 #EXTINF:-1
-#EXTINF:1 tvg-name="Travelxp" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tavelxp.jpg?raw=true" group-title="All-In-One~ENT🧩",Travelxp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:1 tvg-name="TLC Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TLC.jpg?raw=true" group-title="All-In-One~ENT🧩",TLC Hindi
-
 #EXTINF:-1 tvg-name="National Geographic Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/National%20Geographic.jpg?raw=true" group-title="All-In-One~ENT🧩",National Geographic Hindi
+
 
 
 
