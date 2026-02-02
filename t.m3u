@@ -17,8 +17,6 @@ http://ziboflow.ott-king.top:8080/sunbangla/video.m3u8?token=NO_IP_CHECK
 http://ziboflow.ott-king.top:8080/sony8/video.m3u8?token=NO_IP_CHECK
 #EXTINF:-1 tvg-name="gtv" tvg-id="gtv",gtv
 http://ziboflow.ott-king.top:8080/gtv/video.m3u8?token=NO_IP_CHECK
-#EXTINF:-1 tvg-name="starplus" tvg-id="starplus",starplus
-http://ziboflow.ott-king.top:8080/starplus/video.m3u8?token=NO_IP_CHECK
 #EXTINF:-1 tvg-name="NAT_GEO" tvg-id="NAT_GEO",NAT_GEO
 http://ziboflow.ott-king.top:8080/NAT_GEO/video.m3u8?token=NO_IP_CHECK
 #EXTINF:-1 tvg-name="JALSHA_sD" tvg-id="JALSHA_sD",JALSHA_sD
@@ -35,9 +33,26 @@ http://ziboflow.ott-king.top:8080/SONYSPORTS1/video.m3u8?token=NO_IP_CHECK
 http://ziboflow.ott-king.top:8080/ZEETVHD/video.m3u8?token=NO_IP_CHECK
 #EXTINF:-1 tvg-name="STARGOLDHD" tvg-id="STARGOLDHD",STARGOLDHD
 http://ziboflow.ott-king.top:8080/STARGOLDHD/video.m3u8?token=NO_IP_CHECK
-
-
-
+#EXTINF:-1 tvg-name="E10_BAN" tvg-id="E10_BAN",E10_BAN
+http://ziboflow.ott-king.top:8080/E10_BAN/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="zeecinema" tvg-id="zeecinema",zeecinema
+http://ziboflow.ott-king.top:8080/zeecinema/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="nagorik" tvg-id="nagorik",nagorik
+http://ziboflow.ott-king.top:8080/nagorik/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="star_plus" tvg-id="star_plus",star_plus
+http://ziboflow.ott-king.top:8080/star_plus/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="banglavision" tvg-id="banglavision",banglavision
+http://ziboflow.ott-king.top:8080/banglavision/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="somoytv" tvg-id="somoytv",somoytv
+http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="independent" tvg-id="independent",independent
+http://ziboflow.ott-king.top:8080/independent/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="jamuna" tvg-id="jamuna",jamuna
+http://ziboflow.ott-king.top:8080/jamuna/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="depto" tvg-id="depto",depto
+http://ziboflow.ott-king.top:8080/depto/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 tvg-name="ntv" tvg-id="ntv",ntv
+http://ziboflow.ott-king.top:8080/ntv/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTM3U
