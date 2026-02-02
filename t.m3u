@@ -56,6 +56,9 @@ http://ziboflow.ott-king.top:8080/ntv/video.m3u8?token=NO_IP_CHECK
 
 
 #EXTM3U
+
+#EXTINF:-1,group-title="Motu Patlu", Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1, group-title="NICK BANGLA",NICK BANGLA,
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1, group-title="SONICK BANGLA",SONICK BANGLA
