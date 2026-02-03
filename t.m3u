@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NICK/BAN" tvg-id="NICK/BAN",NICK/BAN
-http://ziboflow.ott-king.top:8080/NICK/BAN/video.m3u8?token=NO_IP_CHECK
+#EXTINF:-1 group-title"Cartoon-Box", Cartoon Box
+https://tigerhub-bd.vercel.app/Kidz-Zone/Cartoon-Box/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="SONIC/BAN" tvg-id="SONIC/BAN",SONIC/BAN
 http://ziboflow.ott-king.top:8080/SONIC/BAN/video.m3u8?token=NO_IP_CHECK
 #EXTINF:-1 tvg-name="SONY_MAX_1" tvg-id="SONY_MAX_1",SONY_MAX_1
