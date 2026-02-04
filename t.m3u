@@ -502,8 +502,6 @@ http://103.229.254.25:7001/play/a0bx/index.m3u8
 http://103.229.254.25:7001/play/a0cy/index.m3u8
 #EXTINF:-1 group-title="Ip",VARZESH
 http://103.229.254.25:7001/play/a0ey/index.m3u8
-#EXTINF:-1 group-title="lp",WILD EARTH
-http://103.229.254.25:7001/play/a0ev/index.m3u8
 #EXTINF:-1 group-title="Ip",ZEE BANGLA
 http://103.229.254.25:7001/play/a06o/index.m3u8
 #EXTINF:-1 group-title="Ip",ZEE BANGLA CINEMA
