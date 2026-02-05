@@ -1,15 +1,15 @@
 #EXTM3U
 #########E.I.🇧🇩###########
 #EXTM3U
-#EXTINF:-1,group-title="E.I.🇧🇩", Motu Patlu
+#EXTINF:-1,group-title="E.I.🇧🇩",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",NICK BANGLA
+#EXTINF:-1,group-title="E.I.🇧🇩",NICK BANGLA
 http://103.180.212.191:3500/live/1341.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",SONICK BANGLA
+#EXTINF:-1,group-title="E.I.🇧🇩",SONICK BANGLA
 http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1,  group-title"E.I.🇧🇩", Cartoon Box
+#EXTINF:-1, group-title"E.I.🇧🇩",Cartoon Box
 https://tigerhub-bd.vercel.app/Kidz-Zone/Cartoon-Box/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩, SRKTV
+#EXTINF:-1,group-title="E.I.🇧🇩,SRKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1, group-title="E.I.🇧🇩", SONY ATH
 http://103.151.60.204/ZAHIR_EN8_90_110_P6/video.m3u8
