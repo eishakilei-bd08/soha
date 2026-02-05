@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, group-title="T-Sports" T-Sports 
+https://playztv-apps.pages.dev/tsports/index.m3u8
+
+
+#EXTM3U
 #EXTINF:-1,group-title="Motu Patlu", Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1, group-title="NICK BANGLA",NICK BANGLA
