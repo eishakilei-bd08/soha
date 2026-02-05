@@ -551,12 +551,6 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/pla
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="4f059328-a08e-41c0-aa0e-fb11eb69da7e" tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5" group-title="News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="369ffecf-00a9-49a9-864d-a8f45c7ef6db" tvg-logo="https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549" group-title="News",NHK World
-https://tvsen6.aynascope.net/nhkworld/index.m3u8?e=1770107422&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a1efc7cac1f36ec85914a2e8d7546544
-#EXTINF:-1 tvg-id="fb22d339-2a01-4d88-b2af-8d5c9999bbe5" tvg-logo="https://s3.aynaott.com/storage/9986b93889fa38761834ed021e75bf8f" group-title="News",BBC America
-https://fifabangladesh.site/?id=fb22d339-2a01-4d88-b2af-8d5c9999bbe5
-#EXTINF:-1 tvg-id="93475856-6996-4ebd-9b1e-b39fefadfe9f" tvg-logo="https://s3.aynaott.com/storage/ac895381cfc9452384656cdfb4fbf5e4" group-title="News",Finans Turk
-https://fifabangladesh.site/?id=93475856-6996-4ebd-9b1e-b39fefadfe9f
 #EXTINF:-1 tvg-id="6b66f133-9d9b-44c6-870a-8441c8b99fe1" tvg-logo="https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2" group-title="News",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="2b78b6b0-5711-438d-b2ec-33313b1806f4" tvg-logo="https://s3.aynaott.com/storage/4ec06dcab54cbbf5b204f797555e6b31" group-title="News",ANB News
