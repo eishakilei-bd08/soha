@@ -83,29 +83,7 @@ http://103.151.60.204/ZAHIR_EN8_90_110_P4/video.m3u8
 #EXTINF:-1, group-title="E.I.🇧🇩", Colors Bangla HD
 http://103.151.60.204/ZAHIR_EN8_90_110_P5/video.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-name="SONIC/BAN" tvg-id="SONIC/BAN",SONIC/BAN
-http://banglaboxtv.top:8080/SONIC/BAN/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="SONY_MAX_1" tvg-id="SONY_MAX_1",SONY_MAX_1
-http://banglaboxtv.top:8080/SONY_MAX_1/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="MAX_HD" tvg-id="MAX_HD",MAX_HD
-http://banglaboxtv.top:8080/MAX_HD/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="banglavision" tvg-id="banglavision",banglavision
-http://banglaboxtv.top:8080/banglavision/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="somoytv" tvg-id="somoytv",somoytv
-http://banglaboxtv.top:8080/somoytv/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="independent" tvg-id="independent",independent
-http://banglaboxtv.top:8080/independent/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="jamuna" tvg-id="jamuna",jamuna
-http://banglaboxtv.top:8080/jamuna/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="depto" tvg-id="depto",depto
-http://banglaboxtv.top:8080/depto/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="ntv" tvg-id="ntv",ntv
-http://banglaboxtv.top:8080/ntv/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="tsports" tvg-id="tsports",tsports
-http://banglaboxtv.top:8080/tsports/video.m3u8?token=_8r-gg_l29Pt70
-#EXTINF:-1 tvg-name="NICK/BAN1" tvg-id="NICK/BAN1",NICK/BAN1
-http://banglaboxtv.top:8080/NICK/BAN1/video.m3u8?token=_8r-gg_l29Pt70
+
 
 
 
