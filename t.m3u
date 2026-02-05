@@ -545,38 +545,8 @@ http://103.229.254.25:7001/play/a063/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="c7b00628-bc52-4609-be0a-ad02a16e4c04" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="Bangla",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-id="63b750d3-73e9-4e8a-b04b-6c79bbcd4f13" tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89" group-title="News",ABC 7 Bay
-https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:-1 tvg-id="50e2fe7f-fa1d-40ee-b37d-c19a992ed97c" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News",ABC News
-https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1770107419&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=751869ad21ef20444111605abb3fd9e7
-#EXTINF:-1 tvg-id="5031a2f5-324e-4e3d-91b2-d16385052dd2" tvg-logo="https://s3.aynaott.com/storage/9c204bbb29e7c73684fb5b047a75fea0" group-title="News",ABC News NY
-https://fifabangladesh.site/?id=5031a2f5-324e-4e3d-91b2-d16385052dd2
-#EXTINF:-1 tvg-id="12467e84-4c98-4a15-841d-61852f4a8a42" tvg-logo="https://s3.aynaott.com/storage/369efaefbc7b97f959725922707f8c00" group-title="News",Amiricans Voice News
-https://fifabangladesh.site/?id=12467e84-4c98-4a15-841d-61852f4a8a42
-#EXTINF:-1 tvg-id="62d06278-50b4-48a1-b200-5a148e53fdbc" tvg-logo="https://s3.aynaott.com/storage/abb5e2004f0fac10f6c74ecaa1c90da2" group-title="News",BBC News AP
-https://fifabangladesh.site/?id=62d06278-50b4-48a1-b200-5a148e53fdbc
 #EXTINF:-1 tvg-id="140905b7-dfdf-4e51-aaf5-6fd132773fbe" tvg-logo="https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2" group-title="News",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="News",Somoy News TV
-https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1770107420&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=db2633936839dc040027fa8929a5e872
-#EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55" group-title="News",Channel 24
-https://tvsen6.aynascope.net/channel24/index.m3u8?e=1770107420&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=fecb084c2bb7185c2fb8899f9ee0c985
-#EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-logo="https://s3.aynaott.com/storage/8a3c5215dc0b943dc0a80333c0ab21ce" group-title="News",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697" group-title="News",Independent TV
-https://tvsen6.aynascope.net/independenttv/index.m3u8?e=1770107421&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=fde5a1d9cd08af62a6615ef2f3c0faa3
-#EXTINF:-1 tvg-id="0875f2c8-2043-499b-9472-2872412a6340" tvg-logo="https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545" group-title="News",DBC News
-https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1770107421&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f4927d400ba77c7ada5915766ac9f82b
-#EXTINF:-1 tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="News",Ekhon TV
-https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1770107421&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=842960d1933339af35d2b6a28b8cfcd7
-#EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-logo="https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b" group-title="News",News 24 BD
-https://tvsen6.aynascope.net/news24/index.m3u8?e=1770107421&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=549d3104d914cd86e6d90fc0c4e7a61a
-#EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="News",Ekattor TV
-https://tvsen6.aynascope.net/ekattorbdtv/index.m3u8?e=1770107421&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=fe2a4f877465b8c7ece6981b49bd5893
-#EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8" group-title="News",Jamuna TV
-https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1770107422&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=73b44cb7cd3ca7c67221e959f2ed9e2c
-#EXTINF:-1 tvg-id="2be13775-7176-4b90-98d7-04c90ffe3b5a" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546" group-title="News",CNN
-https://tvsen6.aynascope.net/cnn/index.m3u8?e=1770107422&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=2d35d267bcbf7502f7489f394e329485
 #EXTINF:-1 tvg-id="cb26514c-8cfb-4224-80e5-62a778c1a006" tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf" group-title="News",AlJazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="4f059328-a08e-41c0-aa0e-fb11eb69da7e" tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5" group-title="News",DW News
