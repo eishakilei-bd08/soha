@@ -1,16 +1,31 @@
 #EXTM3U
-#EXTINF:-1,group-title="Motu Patlu", Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1, group-title="NICK BANGLA",NICK BANGLA
-http://103.180.212.191:3500/live/1341.m3u8
-#EXTINF:-1, group-title="SONICK BANGLA",SONICK BANGLA
-http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1,  group-title="SRKTV",SRKTV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
+#########E.I.🇧🇩###########
 #EXTM3U
-#EXTINF:-1 group-title"Cartoon-Box", Cartoon Box
+#EXTINF:-1,group-title="E.I.🇧🇩", Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",NICK BANGLA
+http://103.180.212.191:3500/live/1341.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",SONICK BANGLA
+http://103.180.212.191:3500/live/1345.m3u8
+#EXTINF:-1 group-title"E.I.🇧🇩", Cartoon Box
 https://tigerhub-bd.vercel.app/Kidz-Zone/Cartoon-Box/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,  group-title="E.I.🇧🇩,SRKTV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", SONY ATH
+http://103.151.60.204/ZAHIR_EN8_90_110_P6/video.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", National Geographic Bangla
+http://103.151.60.204/ZAHIR_EN8_90_110_P7/video.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", Star Jalsa Hd
+http://103.151.60.204/ZAHIR_EN8_90_110_P1/video.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", Animal Planet Hd
+http://103.151.60.204/ZAHIR_EN8_90_110_P2/video.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", Z Bangla
+http://103.151.60.204/ZAHIR_EN8_90_110_P3/video.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", Sun Bangla
+http://103.151.60.204/ZAHIR_EN8_90_110_P4/video.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", Colors Bangla HD
+http://103.151.60.204/ZAHIR_EN8_90_110_P5/video.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-name="SONIC/BAN" tvg-id="SONIC/BAN",SONIC/BAN
 http://banglaboxtv.top:8080/SONIC/BAN/video.m3u8?token=_8r-gg_l29Pt70
@@ -35,22 +50,7 @@ http://banglaboxtv.top:8080/tsports/video.m3u8?token=_8r-gg_l29Pt70
 #EXTINF:-1 tvg-name="NICK/BAN1" tvg-id="NICK/BAN1",NICK/BAN1
 http://banglaboxtv.top:8080/NICK/BAN1/video.m3u8?token=_8r-gg_l29Pt70
 
-#EXTM3U
-#########E.I.🇧🇩###########
-#EXTINF:-1, group-title="E.I.🇧🇩", SONY ATH
-http://103.151.60.204/ZAHIR_EN8_90_110_P6/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", National Geographic Bangla
-http://103.151.60.204/ZAHIR_EN8_90_110_P7/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Star Jalsa Hd
-http://103.151.60.204/ZAHIR_EN8_90_110_P1/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Animal Planet Hd
-http://103.151.60.204/ZAHIR_EN8_90_110_P2/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Z Bangla
-http://103.151.60.204/ZAHIR_EN8_90_110_P3/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Sun Bangla
-http://103.151.60.204/ZAHIR_EN8_90_110_P4/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Colors Bangla HD
-http://103.151.60.204/ZAHIR_EN8_90_110_P5/video.m3u8
+
 
 
 #EXTM3U
