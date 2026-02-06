@@ -63,18 +63,64 @@ https://ekusheyserver.com/etvlivesn.m3u8
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NICK HINDI 
 http://103.180.212.191:3500/live/545.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩"NICK TELEGU
+#EXTINF:-1, group-title="E.I.🇧🇩",NICK TELEGU
 http://103.180.212.191:3500/live/1342.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩"NICK MARATHI
+#EXTINF:-1,group-title="E.I.🇧🇩",NICK MARATHI
 http://103.180.212.191:3500/live/1340.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" SONICK BANGLA
+#EXTINF:-1,group-title="E.I.🇧🇩",SONICK BANGLA
 http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" SONICK TAMIL
+#EXTINF:-1,group-title="E.I.🇧🇩",SONICK
+http://103.180.212.191:3500/live/815.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",CN Hindi
+http://103.180.212.191:3500/live/816.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", SONICK TAMIL
 http://103.180.212.191:3500/live/1344.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" SONICK TELEGU
+#EXTINF:-1,group-title="E.I.🇧🇩", SONICK TELEGU
 http://103.180.212.191:3500/live/1346.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" SONICK HINDI
+#EXTINF:-1,group-title="E.I.🇧🇩", SONICK HINDI
 http://103.180.212.191:3500/live/1343.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",NICKJR HINDI 
+http://103.180.212.191:3500/live/544.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",POGO
+http://103.180.212.191:3500/live/542.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Discovery Turbo
+http://103.180.212.191:3500/live/541.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",DD Hindi
+http://103.180.212.191:3500/live/540.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",DD Tamil 
+http://103.180.212.191:3500/live/539.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",DD News
+http://103.180.212.191:3500/live/538.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Songit Bangla
+http://103.180.212.191:3500/live/740.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Bhojpuri
+http://103.180.212.191:3500/live/741.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", MH One
+http://103.180.212.191:3500/live/742.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Udaya Music
+http://103.180.212.191:3500/live/744.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",COLORS BANGALA HD
+http://103.180.212.191:3500/live/756.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩", ASAM BAGLA
+http://103.180.212.191:3500/live/765.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",COLORS SUPER
+http://103.180.212.191:3500/live/785.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Kanappa tv
+http://103.180.212.191:3500/live/785.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",JIO Sport 
+http://103.180.212.191:3500/live/889.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SUN Music
+http://103.180.212.191:3500/live/895.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SUN Tv
+http://103.180.212.191:3500/live/889.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SUN Music tamil
+http://103.180.212.191:3500/live/898.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SUN Movies
+http://103.180.212.191:3500/live/899.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Surya
+http://103.180.212.191:3500/live/900.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩,SANJHA TV
+http://103.180.212.191:3500/live/904.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1, group-title"E.I.🇧🇩",Cartoon Box
