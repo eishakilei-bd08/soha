@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1, group-title="Antarjal", Antarjal 
+http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1, group-title="👁️‍🗨️👁️‍🗨️👁️‍🗨️", SRKTV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
