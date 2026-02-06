@@ -63,10 +63,18 @@ https://ekusheyserver.com/etvlivesn.m3u8
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NICK HINDI 
 http://103.180.212.191:3500/live/545.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩"NICK TELEGU
+http://103.180.212.191:3500/live/1342.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"NICK MARATHI
+http://103.180.212.191:3500/live/1340.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩" SONICK BANGLA
 http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩" SONICK TAMIL
 http://103.180.212.191:3500/live/1344.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩" SONICK TELEGU
+http://103.180.212.191:3500/live/1346.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩" SONICK HINDI
+http://103.180.212.191:3500/live/1343.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1, group-title"E.I.🇧🇩",Cartoon Box
