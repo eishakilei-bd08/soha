@@ -157,46 +157,85 @@ http://103.151.60.204/ZAHIR_EN8_90_110_P3/video.m3u8
 http://103.151.60.204/ZAHIR_EN8_90_110_P4/video.m3u8
 #EXTINF:-1, group-title="E.I.🇧🇩", Colors Bangla HD
 http://103.151.60.204/ZAHIR_EN8_90_110_P5/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩", Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩", Moto Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩", Kid Screation
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩", ZB Kartun
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://i.imgur.com/swM1L4e.png", Hungama Kids
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Bangla Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
 
-#EXTM3U
-#EXTINF:-1, group-title="24/7",24/7 Grizzy&The Lemming
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",24/7 Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+#EXTINF:-1, group-title="E.I.🇧🇩",24/7 Grizzy&The Lemming
 https://tigerhub-bd.vercel.app/Kidz-Zone/Grizzy-and-the-Lemmings/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Larva
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Larva
 https://tigerhub-bd.vercel.app/Kidz-Zone/Larva/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Marsha & the Bear
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Marsha & the Bear
 https://tigerhub-bd.vercel.app/Kidz-Zone/Marsha-and-the-Bear/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Angry Bird
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Angry Bird
 https://tigerhub-bd.vercel.app/Kidz-Zone/Angry-Bird/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Angry Bird Blue
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Angry Bird Blue
 https://tigerhub-bd.vercel.app/Kidz-Zone/Angry-Bird-Blue/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Micky Mouse
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Micky Mouse
 https://tigerhub-bd.vercel.app/Kidz-Zone/Micky-Mouse/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Mighty Little Beam
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Mighty Little Beam
 https://tigerhub-bd.vercel.app/Kidz-Zone/Mighty-little-Beam/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Mr Bean Animation
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Mr Bean Animation
 https://tigerhub-bd.vercel.app/Kidz-Zone/MrBean-Animation/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Tom&Jerry
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Tom&Jerry
 https://tigerhub-bd.vercel.app/Kidz-Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Shaun the Sheep
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Shaun the Sheep
 https://tigerhub-bd.vercel.app/Kidz-Zone/Shaun-the-Sheep/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Pink panther
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Pink panther
 https://tigerhub-bd.vercel.app/Kidz-Zone/Pink-panther/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 oggy and the Cockroaches
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 oggy and the Cockroaches
 https://tigerhub-bd.vercel.app/Kidz-Zone/Oggy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Oddboods
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Oddboods
 https://tigerhub-bd.vercel.app/Kidz-Zone/Oddboods/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Popeye
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Popeye
 https://tigerhub-bd.vercel.app/Kidz-Zone/Popeye/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Spiderman
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Spiderman
 https://tigerhub-bd.vercel.app/Kidz-Zone/Spiderman/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Looney Tunes
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Looney Tunes
 https://tigerhub-bd.vercel.app/Kidz-Zone/Looney-Tunes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, group-title="24/7", 24/7 Smurfs
+#EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Smurfs
 https://tigerhub-bd.vercel.app/Kidz-Zone/Smurfs/tracks-v1a1/mono.ts.m3u8
 
 
@@ -7094,72 +7133,6 @@ https://tvsen6.aynascope.net/ytv/index.m3u8?e=1768752808&u=78be6644-0a65-48ec-81
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6" group-title="BYNA FREE",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-
-
-
-
-
-#EXTM3U
-
-######"Kids"#############
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Moto Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Kid Screation
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids", ZB Kartun
-https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png", Hungama Kids
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="Movies",24/7 Hindi Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-
-#EXTINF:-1 group-title="Movies",24/7 Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-
-#EXTINF:-1 group-title="Movies",24/7 Dubbed Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-
-#EXTINF:-1 group-title="Religious",24/7 Bangla Waz
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-
-#EXTINF:-1 group-title="Religious",24/7 Bangla Kirtan
-https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
-
-#EXTINF:-1 group-title="Kids",24/7 Bantul The Great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-
-#EXTINF:-1 group-title="Kids",24/7 Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-
-#EXTINF:-1 group-title="Kids",24/7 Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-
-#EXTINF:-1 group-title="Kids",24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-
-#EXTINF:-1 group-title="Kids",24/7 Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-
-#EXTINF:-1 group-title="Music",24/7 Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-
-#EXTINF:-1 group-title="Music",24/7 Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-
-
-
-
-
-
-
 
 
 
