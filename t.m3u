@@ -1,9 +1,4 @@
 #EXTM3U 
-#EXTINF:-1, group-title="SunNxt", Sun Bangla
-https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
-
-
-#EXTM3U 
 #EXTINF:-1, group-title="Antarjal", Antarjal 
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1, group-title="🇧🇩",SRKTV 
