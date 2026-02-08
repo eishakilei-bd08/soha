@@ -307,11 +307,11 @@ https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
 https://tplay.live/playlist/music/bhojpuri/index.m3u8
 #EXTINF:-1, group-title= "E.I.🇧🇩",Adnan Sami 
 https://tplay.live/playlist/music/adnan-sami/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Bangla Kirtan 
+#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Kirtan 
 https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Zibo
+#EXTINF:-1, group-title="E.I.🇧🇩",Zibo
 https://ziboflow.ott-king.top:8080/zibo/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",SRKTV
+#EXTINF:-1, group-title="E.I.🇧🇩",SRKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTM3U
