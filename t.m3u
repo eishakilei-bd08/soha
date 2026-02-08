@@ -1,80 +1,75 @@
-#EXTM3U 
-#EXTINF:-1, group-title="Antarjal", Antarjal 
-http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
-#EXTINF:-1, group-title="🇧🇩",SRKTV 
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTM3U 
-############ AKASH GO ############
-#EXTINF:-1, group-title="AKASH GO",Deepto TV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",HUM TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",Channel I HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1, group-title="AKASH GO",Deepto TV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",HUM TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",Channel I HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="AKASH GO",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Akash Go",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Akash Go",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Akash Go",SOMOY TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Akash Go",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Akash Go",INDEPENDENT TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Akash Go",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Akash Go",JAMUNA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Akash Go",ATN NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Akash Go",ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Akash Go",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Akash Go",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Akash Go",Deshi TV (720p)
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Duronto TV (720p)" group-title="Akash Go",Duronto TV (720p)
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Akash Go",Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
-
-
-
 #EXTM3U
 #########E.I.🇧🇩###########
-#EXTM3U
+
+#EXTINF:-1, group-title="E.I.🇧🇩", Antarjal 
+http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
+#EXTINF:-1, group-title=E.I."🇧🇩",SRKTV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",HUM TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",HUM TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="E.I.🇧🇩",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="E.I.🇧🇩",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="E.I.🇧🇩",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="E.I.🇧🇩",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="E.I.🇧🇩",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="E.I.🇧🇩",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="E.I.🇧🇩",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="E.I.🇧🇩",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="E.I.🇧🇩",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="E.I.🇧🇩",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="E.I.🇧🇩",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="E.I.🇧🇩
+",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="E.I.🇧🇩",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="E.I.🇧🇩",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Duronto TV (720p)" group-title="E.I.🇧🇩",Duronto TV (720p)
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="E.I.🇧🇩",Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NICK BANGLA
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NICK HINDI 
@@ -313,6 +308,34 @@ https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
 https://ziboflow.ott-king.top:8080/zibo/index.m3u8
 #EXTINF:-1, group-title="E.I.🇧🇩",SRKTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="E.I.🇧🇩",Star Gold
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",Star Plus
+http://103.99.249.139/starplus/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",Star Jalsha
+http://103.99.249.139/starjalsha/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",Jalsha Movies
+http://103.99.249.139/jalshamovies/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",And Pictures
+http://103.99.249.139/andpictures/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",Sony Max
+http://103.99.249.139/sonymax/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",Sony Sab
+http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",Zee TV
+http://103.99.249.139/zeetv/index.m3u8
+
+#EXTINF:-1 group-title="E.I.🇧🇩",Zee Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+
+
 
 #EXTM3U
 
@@ -2580,15 +2603,6 @@ https://edge2.roarzone.info:8444/roarzone/ext/bijoy-tv/index.m3u8?token=52144534
 
 
 
-
-
-
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/102.png",T Sports
 https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=fd78bbb10eea5f77768941859fb1fdf8c260cc3f-bf57716263dddcd6bd2f8ceeb85cd7b1-1769249673-1769238873
@@ -2993,37 +3007,6 @@ http://sc-bb.1.fm:8017/?listen
 
 
 
-
-#EXTM3U
-
-
-############ INDIAN TV ############
-#EXTINF:-1 group-title="INDIAN TV",Star Gold
-http://103.99.249.139/stargold/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",Star Plus
-http://103.99.249.139/starplus/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",Star Jalsha
-http://103.99.249.139/starjalsha/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",Jalsha Movies
-http://103.99.249.139/jalshamovies/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",And Pictures
-http://103.99.249.139/andpictures/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",Sony Max
-http://103.99.249.139/sonymax/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",Sony Sab
-http://103.99.249.139/sonysab/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",Zee TV
-http://103.99.249.139/zeetv/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN TV",Zee Cinema
-http://103.99.249.139/zeecinema/index.m3u8
 
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
