@@ -237,7 +237,82 @@ https://tigerhub-bd.vercel.app/Kidz-Zone/Spiderman/tracks-v1a1/mono.ts.m3u8
 https://tigerhub-bd.vercel.app/Kidz-Zone/Looney-Tunes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, group-title="E.I.🇧🇩", 24/7 Smurfs
 https://tigerhub-bd.vercel.app/Kidz-Zone/Smurfs/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1, group-title="E.I.🇧🇩",Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",RongeenTv
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",ZB Cartoon 
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",SNB Cinema 
+https://live-stream.utkalbongo.com/utkalbongo/stream11/hls/snbcinemalive.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Oxygen Music
+https://tplay.live/originals/oxygen-music/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Bengali Beats 
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Om Bangla 
+https://tplay.live/originals/om-bangla/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Ilm TV 
+https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Motu Patlu 
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Ninja Hattori 
+https://tplay.live/playlist/kids/ninja-hattori/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Doraemon
+https://tplay.live/playlist/kids/doraemon/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Oggy and the Cockroaches 
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Gopal Bhar 
+https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Bantul The Great 
+https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Humayun Ahmed 
+https://tplay.live/playlist/mix/bangla-kirtan/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",
+Bangla Movies https://tplay.live/playlist/movies/bangla-movies/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",
+Bollywood Movies https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",
+Dubbed Movies https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",
+T Play Special https://tplay.live/playlist/music/tplay-special/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",
+T Series Songs https://tplay.live/playlist/music/t-series/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",
+Dance Performance https://tplay.live/playlist/music/dance-performance/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Coke Studio Bangla 
+https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Bhojpuri Songs 
+https://tplay.live/playlist/music/bhojpuri/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Adnan Sami 
+https://tplay.live/playlist/music/adnan-sami/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Bangla Kirtan 
+https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",Zibo
+https://ziboflow.ott-king.top:8080/zibo/index.m3u8
+#EXTINF:-1, group-title= "E.I.🇧🇩",SRKTV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTM3U
 
@@ -7647,90 +7722,6 @@ http://pl.online24.pm/play/4226/C0D18CDEC14EAF8/video.m3u8
 http://pl.online24.pm/play/4227/C0D18CDEC14EAF8/video.m3u8
 
 
-
-
-
-#EXTM3U
-
-#########🇧🇩E.I. Special🇧🇩#########
-
-
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Hindi Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Dubbed Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Bangla Waz
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Bangla Kirtan
-https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Bantul The Great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF:-1, group-title="🇧🇩E.I. Special🇧🇩",Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",RongeenTv
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",ZB Cartoon 
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",SNB Cinema 
-https://live-stream.utkalbongo.com/utkalbongo/stream11/hls/snbcinemalive.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Oxygen Music
-https://tplay.live/originals/oxygen-music/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Bengali Beats 
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Om Bangla 
-https://tplay.live/originals/om-bangla/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Ilm TV 
-https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Motu Patlu 
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Ninja Hattori 
-https://tplay.live/playlist/kids/ninja-hattori/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Doraemon
-https://tplay.live/playlist/kids/doraemon/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Oggy and the Cockroaches 
-https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Gopal Bhar 
-https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Bantul The Great 
-https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Humayun Ahmed 
-https://tplay.live/playlist/mix/bangla-kirtan/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",
-Bangla Movies https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",
-Bollywood Movies https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",
-Dubbed Movies https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",
-T Play Special https://tplay.live/playlist/music/tplay-special/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",
-T Series Songs https://tplay.live/playlist/music/t-series/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",
-Dance Performance https://tplay.live/playlist/music/dance-performance/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Coke Studio Bangla 
-https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Bhojpuri Songs 
-https://tplay.live/playlist/music/bhojpuri/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Adnan Sami 
-https://tplay.live/playlist/music/adnan-sami/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Bangla Kirtan 
-https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",Zibo
-https://ziboflow.ott-king.top:8080/zibo/index.m3u8
-#EXTINF:-1, group-title= "🇧🇩E.I. Special🇧🇩",SRKTV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 
