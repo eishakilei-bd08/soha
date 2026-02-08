@@ -2806,7 +2806,6 @@ https://edge2.roarzone.info:444/roarzone/ext/bijoy-tv/index.m3u8?token=1d49ea67b
 
 
 
-
 #EXTM3U
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA", BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -2968,14 +2967,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", MTR Sports-1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 group-title="FM-Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png", Radio Bangla Net
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
-#EXTINF:-1 group-title="FM-Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png", BBC Bangla
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1 group-title="FM-Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png", Radio GoonGoon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
-#EXTINF:-1 group-title="FM-Radio" tvg-logo="https://spicefmbd.com/logospice.png", Spice FM
-https://stream.spicefmbd.com/stream.m3u8
 
 
 
@@ -14971,6 +14962,16 @@ http://66.45.232.131:9994/stream.mp3
 
 #EXTINF:-1, group-title="RADIO",Big FM (92.7)
 http://sc-bb.1.fm:8017/?listen
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png", Radio Bangla Net
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png", BBC Bangla
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/goongoon-hd-sound.png", Radio GoonGoon
+https://audio.streamcast.xyz/radio/8000/radio.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://spicefmbd.com/logospice.png", Spice FM
+https://stream.spicefmbd.com/stream.m3u8
+
 
 EXTINF:-1, tvg-id="ce5789db-3110-4d90-a4fc-a8cc7c32a6a6" tvg-logo="https://s3.aynaott.com/storage/d51be74cd5c23e19cb7e8c81029c2af9" group-title="RADIO",Spice FM
 https://stream.spicefmbd.com/stream.m3u8
