@@ -369,79 +369,74 @@ http://streaming.sattvgo.com.br/HBO_POP_HD/index.m3u8
 http://streaming.sattvgo.com.br/HBO_MUNDI_HD/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩" HBO SIGNATURE HD
 http://streaming.sattvgo.com.br/HBO_SIGNATURE/index.m3u8
-#EXTINF:-1,HBO XTREME HD
+#EXTINF:-1,group-title="E.I.🇧🇩", HBO XTREME HD
 http://streaming.sattvgo.com.br/HBO_EXTREME_HD/index.m3u8
-#EXTINF:-1,SPACE HD
+#EXTINF:-1,group-title="E.I.🇧🇩", SPACE HD
 http://streaming.sattvgo.com.br/SPACE_HD/index.m3u8
-#EXTINF:-1,MEGAPIX HD
+#EXTINF:-1,group-title="E.I.🇧🇩", MEGAPIX HD
 http://streaming.sattvgo.com.br/MEGAPIX/index.m3u8
-#EXTINF:-1,CINEMAX
+#EXTINF:-1,group-title="E.I.🇧🇩", CINEMAX
 http://streaming.sattvgo.com.br/CINEMAX/index.m3u8
-#EXTINF:-1,Warner TV HD
+#EXTINF:-1,group-title="E.I.🇧🇩", Warner TV HD
 http://streaming.sattvgo.com.br/WARNER_HD/index.m3u8
-#EXTINF:-1,TCM HD
+#EXTINF:-1,group-title="E.I.🇧🇩", TCM HD
 http://streaming.sattvgo.com.br/TCM_HD/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1,group-title="E.I.🇧🇩", TNT HD
 http://streaming.sattvgo.com.br/TNT_HD/index.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1,group-title="E.I.🇧🇩", TLC HD
 http://streaming.sattvgo.com.br/TLC_HD/index.m3u8
-#EXTINF:-1,FASHION TV HD
+#EXTINF:-1,group-title="E.I.🇧🇩", FASHION TV HD
 http://streaming.sattvgo.com.br/FASHION_TV_HD/index.m3u8
-
-#EXTINF:-1,SBT HD
+#EXTINF:-1,group-title="E.I.🇧🇩", SBT HD
 http://streaming.sattvgo.com.br/SBT_HD/index.m3u8
-#EXTINF:-1,HISTORY HD
+#EXTINF:-1,group-title="E.I.🇧🇩", HISTORY HD
 http://streaming.sattvgo.com.br/HISTORY_HD/index.m3u8
-#EXTINF:-1,HISTORY 2 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", HISTORY 2 HD
 http://streaming.sattvgo.com.br/H2_HD/index.m3u8
-#EXTINF:-1,HGTV HD
+#EXTINF:-1,group-title="E.I.🇧🇩", HGTV HD
 http://streaming.sattvgo.com.br/HGTV_HD/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
+#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY CHANNEL HD
 http://streaming.sattvgo.com.br/DISCOVERY_HD/index.m3u8
-#EXTINF:-1,ID HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ID HD
 http://streaming.sattvgo.com.br/ID_HD/index.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
+#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY SCIENCE HD
 http://streaming.sattvgo.com.br/DISCOVERY_SCIENCE_HD/index.m3u8
-#EXTINF:-1,DISCOVERY THEATER HD
+#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY THEATER HD
 http://streaming.sattvgo.com.br/DISCOVERY_THEATER_HD/index.m3u8
-#EXTINF:-1,DISCOVERYTURBO HD
+#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERYTURBO HD
 http://streaming.sattvgo.com.br/DISCOVERY_TURBO_HD/index.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ANIMAL PLANET HD
 http://streaming.sattvgo.com.br/ANIMAL_PLANET_HD/index.m3u8
-#EXTINF:-1,CNBC HD
+#EXTINF:-1,group-title="E.I.🇧🇩", CNBC HD
 http://streaming.sattvgo.com.br/CNBC/index.m3u8
-#EXTINF:-1,DISCOVERY KIDS HD
+#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY KIDS HD
 http://streaming.sattvgo.com.br/DISCOVERY_KIDS_HD/index.m3u8
-
-#EXTINF:-1,BAND SPORTS HD
+#EXTINF:-1,group-title="E.I.🇧🇩", BAND SPORTS HD
 http://streaming.sattvgo.com.br/BAND_SPORTS_HD/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN HD
 http://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 2 HD
 http://streaming.sattvgo.com.br/ESPN2_HD/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 3 HD
 http://streaming.sattvgo.com.br/ESPN3_HD/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 4 HD
 http://streaming.sattvgo.com.br/ESPN4_HD/index.m3u8
-#EXTINF:-1,ESPN 5 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 5 HD
 http://streaming.sattvgo.com.br/ESPN5_HD/index.m3u8
-#EXTINF:-1,ESPN 6 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 6 HD
 http://streaming.sattvgo.com.br/ESPN6_HD/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN HD
 http://streaming.sattvgo.com.br/ESPN1/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 2 HD
 http://streaming.sattvgo.com.br/ESPN2/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 3 HD
 http://streaming.sattvgo.com.br/ESPN3/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 4 HD
 http://streaming.sattvgo.com.br/ESPN4/index.m3u8
-#EXTINF:-1,ESPN 5 HD
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 5 HD
 http://streaming.sattvgo.com.br/ESPN5/index.m3u8
-#EXTINF:-1,ESPN 6
+#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 6
 http://streaming.sattvgo.com.br/ESPN6/index.m3u8
-
-lnk.bio/iptvpulse
-
 
 
 ############Ip#################
