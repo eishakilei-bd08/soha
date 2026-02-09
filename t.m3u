@@ -347,6 +347,74 @@ https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-id="c7b00628-bc52-4609-be0a-ad02a16e4c04" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="E.I.🇧🇩",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"TVE HD
+http://streaming.sattvgo.com.br/TVE/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩" BAND HD
+http://streaming.sattvgo.com.br/BAND_HD/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩" A&E HD
+http://streaming.sattvgo.com.br/AE_HD/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩" AXN HD
+http://streaming.sattvgo.com.br/AXN_HD/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"HBO HD
+http://streaming.sattvgo.com.br/HBO/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"HBO2 HD
+http://streaming.sattvgo.com.br/HBO2/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"HBO+ PLUS HD
+http://streaming.sattvgo.com.br/HBO_PLUS/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"HBO Family HD
+http://streaming.sattvgo.com.br/HBO_FAMILY/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩" HBO Pop HD
+http://streaming.sattvgo.com.br/HBO_POP_HD/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"HBO Mundı HD
+http://streaming.sattvgo.com.br/HBO_MUNDI_HD/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩" HBO SIGNATURE HD
+http://streaming.sattvgo.com.br/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://streaming.sattvgo.com.br/HBO_EXTREME_HD/index.m3u8
+#EXTINF:-1,SPACE HD
+http://streaming.sattvgo.com.br/SPACE_HD/index.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://streaming.sattvgo.com.br/MEGAPIX/index.m3u8
+#EXTINF:-1,CINEMAX
+http://streaming.sattvgo.com.br/CINEMAX/index.m3u8
+#EXTINF:-1,Warner TV HD
+http://streaming.sattvgo.com.br/WARNER_HD/index.m3u8
+#EXTINF:-1,TCM HD
+http://streaming.sattvgo.com.br/TCM_HD/index.m3u8
+#EXTINF:-1,TNT HD
+http://streaming.sattvgo.com.br/TNT_HD/index.m3u8
+#EXTINF:-1,TLC HD
+http://streaming.sattvgo.com.br/TLC_HD/index.m3u8
+#EXTINF:-1,FASHION TV HD
+http://streaming.sattvgo.com.br/FASHION_TV_HD/index.m3u8
+
+#EXTINF:-1,SBT HD
+http://streaming.sattvgo.com.br/SBT_HD/index.m3u8
+#EXTINF:-1,HISTORY HD
+http://streaming.sattvgo.com.br/HISTORY_HD/index.m3u8
+#EXTINF:-1,HISTORY 2 HD
+http://streaming.sattvgo.com.br/H2_HD/index.m3u8
+#EXTINF:-1,HGTV HD
+http://streaming.sattvgo.com.br/HGTV_HD/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://streaming.sattvgo.com.br/DISCOVERY_HD/index.m3u8
+#EXTINF:-1,ID HD
+http://streaming.sattvgo.com.br/ID_HD/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://streaming.sattvgo.com.br/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://streaming.sattvgo.com.br/DISCOVERY_THEATER_HD/index.m3u8
+#EXTINF:-1,DISCOVERYTURBO HD
+http://streaming.sattvgo.com.br/DISCOVERY_TURBO_HD/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://streaming.sattvgo.com.br/ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:-1,CNBC HD
+http://streaming.sattvgo.com.br/CNBC/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://streaming.sattvgo.com.br/DISCOVERY_KIDS_HD/index.m3u8
+
+
+
 
 ############Ip#################
 
