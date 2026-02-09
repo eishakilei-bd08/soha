@@ -499,10 +499,6 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 tvg-id="a8b5e07e-b775-415f-b71f-9391bacc9e30" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="KIDS😺",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="a36167ba-c4a4-422a-91c6-594228b8cae4" tvg-logo="https://s3.aynaott.com/storage/61c87bda9e538dd52b3ef654e85a11ff" group-title="KIDS😺",Forever Kids
-https://tvsen6.aynascope.net/ForeverKids/index.m3u8?e=1770107431&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=52d7da64f850c6d996e05c8f830bca35
-#EXTINF:-1 tvg-id="210c516d-b1d2-4e76-9402-b1ba3e44440a" tvg-logo="https://s3.aynaott.com/storage/43975e2ff1bbd629d5ae9676baf6e55e" group-title="KIDS😺",kids Cartoon Movies
-https://fifabangladesh.site/?id=210c516d-b1d2-4e76-9402-b1ba3e44440a
 #EXTINF:-1 tvg-id="79242874-bae7-449f-aec0-2bfe9593c694" tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="KIDS😺",Kids Pang TV
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="d8909fcb-c413-48f5-b31b-54cbee95dd4e" tvg-logo="https://s3.aynaott.com/storage/45d94f96cdc5a444bc4969af940fe294" group-title="KIDS😺",M NET Kids
@@ -649,7 +645,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 EXTINF:-1 tvg-name="Motu Patlu" group-title="KIDS😺",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Doraemon" group-title="KIDS",Doraemon
+#EXTINF:-1 tvg-name="Doraemon" group-title="KIDS😺",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 EXTINF:-1 group-title="KIDS😺" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
