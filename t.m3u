@@ -413,6 +413,34 @@ http://streaming.sattvgo.com.br/CNBC/index.m3u8
 #EXTINF:-1,DISCOVERY KIDS HD
 http://streaming.sattvgo.com.br/DISCOVERY_KIDS_HD/index.m3u8
 
+#EXTINF:-1,BAND SPORTS HD
+http://streaming.sattvgo.com.br/BAND_SPORTS_HD/index.m3u8
+#EXTINF:-1,ESPN HD
+http://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://streaming.sattvgo.com.br/ESPN2_HD/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://streaming.sattvgo.com.br/ESPN3_HD/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://streaming.sattvgo.com.br/ESPN4_HD/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://streaming.sattvgo.com.br/ESPN5_HD/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://streaming.sattvgo.com.br/ESPN6_HD/index.m3u8
+#EXTINF:-1,ESPN HD
+http://streaming.sattvgo.com.br/ESPN1/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://streaming.sattvgo.com.br/ESPN2/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://streaming.sattvgo.com.br/ESPN3/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://streaming.sattvgo.com.br/ESPN4/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://streaming.sattvgo.com.br/ESPN5/index.m3u8
+#EXTINF:-1,ESPN 6
+http://streaming.sattvgo.com.br/ESPN6/index.m3u8
+
+lnk.bio/iptvpulse
 
 
 
