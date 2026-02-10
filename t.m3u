@@ -487,7 +487,16 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="Makka TV" group-title="E.I.🇧🇩",Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",Wild Tv
+https://d1tm3cz23db55z.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/827618ef-dc56-4139-bf56-3375098553cb/1.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Roongeen Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/f598e5f3-54ad-43b6-bb00-8f921936980b/0.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Star jalsa
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",NTV
+https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩"Akash Ath
+https://tvsen1.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 
 
 
