@@ -38,11 +38,11 @@ https://tvsen1.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩",Duronto
 https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="E.I.🇧🇩",Channel i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="E.I.🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="E.I.🇧🇩",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="E.I.🇧🇩",Bengali Betas
 https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="E.I🇧🇩" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="E.I.🇧🇩",ATN Bangla
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="E.I.🇧🇩" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="E.I.🇧🇩",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="247-hindi-movies" tvg-name="24/7 Hindi Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/star_gold.png" group-title="E.I.🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Bollywood_pataka_high_res_logo.jpg?20160319184711" group-title="E.I.🇧🇩",24/7 Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -70,11 +70,11 @@ https://tplay.live/out/news/bbc-news/index.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_AATH_Logo_%282022%29.png/250px-Sony_AATH_Logo_%282022%29.png" group-title="E.I.🇧🇩",Sony Aath
 https://mrzplayin.fun/roarzon/stream.php?id=86ccc06d72b98d2e40d91bebe766fe96&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="E.I.",Hum TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="E.I.🇧🇩",Hum TV
 https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ary_Digital_Logo.png/330px-Ary_Digital_Logo.png" group-title="E.I.🇧🇩",Ary Digital
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://www.aajentertainment.tv/_img/logo.png" group-title="E.I.",AAJ Entertainment
+#EXTINF:-1 tvg-logo="https://www.aajentertainment.tv/_img/logo.png" group-title="E.I.🇧🇩",AAJ Entertainment
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ur/f/f4/Green_Entertainment_logo.jpg?20230702081523" group-title="E.I.🇧🇩",Green Entertainment
 https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
