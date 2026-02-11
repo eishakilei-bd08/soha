@@ -2365,34 +2365,6 @@ https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-id="7d81cb6f-d9f2-4d87-adf3-84e6fcc65983" tvg-logo="https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8" group-title="Latest",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="596e39ca-a957-4029-bbc6-55e89dc5d4d4" tvg-logo="https://s3.aynaott.com/storage/f00eda9194eb13e8ef1d1387889173bf" group-title="Religious",RTV Islam
-https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:-1 tvg-id="11b82c1f-aeeb-45b3-85b0-0a753604a2bd" tvg-logo="https://s3.aynaott.com/storage/30a09b00515134c1fb1af96892a878a2" group-title="Religious",Al-Zahar TV Turkic
-https://tvsen6.aynascope.net/AlZaharTVTurkic/index.m3u8?e=1770107449&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=b5b7f334d1b8ccf0bb5f8d84ffb8610c
-#EXTINF:-1 tvg-id="b0684b5d-0e56-4429-8f64-55d8c18fcc1c" tvg-logo="https://s3.aynaott.com/storage/eb1964ab22fe95d4012c46198ffcf4c3" group-title="Religious",Iqra Bangla
-https://tvsen5.aynascope.net/iqrabangla/index.m3u8?e=1770107449&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f2a08b3ef680be111badcad3127ed587
-#EXTINF:-1 tvg-id="2eb119c5-7864-421a-a153-8d6b7b372e9b" tvg-logo="https://s3.aynaott.com/storage/9c1532f532f291a6b5d6d9b5faf041ce" group-title="Religious",TV ONE
-https://tvsen5.aynascope.net/tvone/index.m3u8?e=1770107450&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=38b03dc8d9ebe90c598af0dbed59ccf3
-#EXTINF:-1 tvg-id="dd837351-ae92-4ce1-b5d4-1ceece83accf" tvg-logo="https://s3.aynaott.com/storage/5442b2655aca6398b26ba539f396565a" group-title="Religious",Peace TV Urdu HD
-https://tvsen6.aynascope.net/PeaceTVUrduHD/index.m3u8?e=1770107450&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=81cb752c218ff94ac3a3efecfeceaf9a
-#EXTINF:-1 tvg-id="9b1539aa-d73b-4310-8809-d44b37995e6d" tvg-logo="https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7" group-title="Religious",Channel Win
-https://cdn-4.pishow.tv/live/229/master.m3u8
-#EXTINF:-1 tvg-id="72e3bc27-72a7-4c93-8953-66218fa7c51d" tvg-logo="https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e" group-title="Religious",Deen TV
-https://tvsen7.aynascope.net/deen/index.m3u8?e=1770107450&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=39c612e29d9b041b58e8fff3732a976f
-#EXTINF:-1 tvg-id="9feb93f4-0ffa-4877-b619-0870644562c4" tvg-logo="https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce" group-title="Religious",Eman Channel
-https://tvsen6.aynascope.net/eman/index.m3u8?e=1770107450&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=18385b35effd0c1c671b025a81a899a5
-#EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-logo="https://s3.aynaott.com/storage/d2931b5004650553852d954c78cb1333" group-title="Religious",Quran
-https://fifabangladesh.site/?id=202995ff-6d89-4f7e-9bcb-ab36cf530a17
-#EXTINF:-1 tvg-id="feb40b2a-e10d-45d2-9e89-786f7d29ab2c" tvg-logo="https://s3.aynaott.com/storage/10952fc9847d5c448196e2391eff1e46" group-title="Religious",SUNNAH
-https://fifabangladesh.site/?id=feb40b2a-e10d-45d2-9e89-786f7d29ab2c
-#EXTINF:-1 tvg-id="8846b2aa-7f7f-4d5e-965e-42bed0fdf092" tvg-logo="https://s3.aynaott.com/storage/5b8848e0ec2d5cd133fadef42317dec5" group-title="Religious",TAQBEER
-https://tvsen7.aynascope.net/takbeer/index.m3u8?e=1770107451&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=4185e57e102f1ac1d5125533b4e2de65
-#EXTINF:-1 tvg-id="32acaaeb-2b3b-4979-98d9-b45deecde3ec" tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039" group-title="Religious",MADANI TV
-https://tvsen7.aynascope.net/MadaniTV/index.m3u8?e=1770107451&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=7bb1998e9fc62a0ea0660de27a392834
-#EXTINF:-1 tvg-id="3eadcf2b-f425-4555-b080-5c4ec5224708" tvg-logo="https://s3.aynaott.com/storage/09817ae293eb16b79015ce66c48accbd" group-title="Religious",Hadi TV
-https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-#EXTINF:-1 tvg-id="edc93090-78ee-4af8-9d81-8c4a70ae632d" tvg-logo="https://s3.aynaott.com/storage/e0d54d73e6b9cf211cd760650467e596" group-title="Urdhu",Geo ENT
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="525df3f4-ce22-4008-be5d-e25410fd7248" tvg-logo="https://s3.aynaott.com/storage/1767a29ab2a18975e84cc9aee178681d" group-title="Music",Dream Turk
 https://tvsen6.aynascope.net/DreamTurk/index.m3u8?e=1770107452&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=bf7f55de4e3df96dc2ba3128ce1ce90e
 #EXTINF:-1 tvg-id="9cf16121-07d4-48c1-9f36-14ee8b7e3f31" tvg-logo="https://s3.aynaott.com/storage/4aabe2bad793305adec08094f30af6b7" group-title="Music",Ekin Turk
