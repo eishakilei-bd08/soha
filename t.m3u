@@ -210,13 +210,6 @@ http://103.151.60.204/ZAHIR_EN8_90_110_P5/video.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩", SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo=" ", Maasranga
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo=" ",Star News HD 🇧🇩
-http://64.120.94.23/play/aFTJ_G2urcXpHTp_dTpWGzOOeQxI-_DQA2-hRR9LDa3jeCUdpF4_cynbW5Blfq3Z/ts
-#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo=" ", NTV TV UK
-https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo=" ",BTV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo=" ",DBC টিভি 🇧🇩 
@@ -255,27 +248,27 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo=" ", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Gopal Bhar
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",24/7 Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Motu Patlu
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",24/7 Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Shinchan
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",24/7 Shinchan
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",4/7 Doraemon
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",4/7 Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Sony Aath
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩", Sony Aath
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Kolkata Movies
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Kolkata Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Bollywood Movies
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Bollywood Movies
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Jio Chinema
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Jio Chinema
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Catoons
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Catoons
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Dorymon
+#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Dorymon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 
