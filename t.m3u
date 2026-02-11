@@ -2365,32 +2365,17 @@ https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-id="7d81cb6f-d9f2-4d87-adf3-84e6fcc65983" tvg-logo="https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8" group-title="Latest",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="525df3f4-ce22-4008-be5d-e25410fd7248" tvg-logo="https://s3.aynaott.com/storage/1767a29ab2a18975e84cc9aee178681d" group-title="Music",Dream Turk
-https://tvsen6.aynascope.net/DreamTurk/index.m3u8?e=1770107452&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=bf7f55de4e3df96dc2ba3128ce1ce90e
-#EXTINF:-1 tvg-id="9cf16121-07d4-48c1-9f36-14ee8b7e3f31" tvg-logo="https://s3.aynaott.com/storage/4aabe2bad793305adec08094f30af6b7" group-title="Music",Ekin Turk
-https://tvsen6.aynascope.net/EkinTurk/index.m3u8?e=1770107452&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=f5c1be6c55532146feebd9af97b27352
-#EXTINF:-1 tvg-id="ce1252de-2d9b-4f2f-b601-2ee995a13371" tvg-logo="https://s3.aynaott.com/storage/3805e9880d459a49b31c122d13473299" group-title="Music",NR1
-https://fifabangladesh.site/?id=ce1252de-2d9b-4f2f-b601-2ee995a13371
+
 #EXTINF:-1 tvg-id="bdf309a5-d732-45d8-989a-5ad5defd0224" tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="Music",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="67d12ffa-059f-4d79-a4e5-b36104d0af06" tvg-logo="https://s3.aynaott.com/storage/370815c239b8b274264792c6da50a639" group-title="Music",Dhoom Music Bangla
 https://tvsen6.aynascope.net/dhoom/index.m3u8?e=1770107452&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=2f608be2833096383414349db968f359
 #EXTINF:-1 tvg-id="8b852c92-0157-4099-8352-b49723129558" tvg-logo="https://s3.aynaott.com/storage/bf29f05ce8cd71bc14dd5db02fc632fd" group-title="Music",World Muzzik
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-id="3b0c8ed6-af02-479c-9135-1609e891e40e" tvg-logo="https://s3.aynaott.com/storage/618adfb5d15792d033f2e1dd9f8c52e3" group-title="Documentary",Sochi Live HD
-https://fifabangladesh.site/?id=3b0c8ed6-af02-479c-9135-1609e891e40e
+
 #EXTINF:-1 tvg-id="6db89c8a-a26b-47fe-8643-6f2abd219ab4" tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="Documentary",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Star Channels",Star Jalsha HD
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1770107454&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=87c2738cec830c6a1b090c607960fe3f
-#EXTINF:-1 tvg-id="74524e79-5f3a-4824-8202-b9e346acb9a4" tvg-logo="https://s3.aynaott.com/storage/cb91d6750648d5fd4a51c7cb6ff9eeed" group-title="Star Channels",Star Plus HD
-https://tvsen7.aynascope.net/sphdbd/index.m3u8?e=1770107454&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9f5d45d7974b0a4a157d6e7c6472ac59
-#EXTINF:-1 tvg-id="25059629-bb42-48d2-bcbc-8aa5c14e7f85" tvg-logo="https://s3.aynaott.com/storage/f24e50516ccf6b3e94a4ca749ccb3533" group-title="Movie",Persiana Kore
-https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="9b638e91-1eaa-4f60-8d7a-13268a62bd39" tvg-logo="https://s3.aynaott.com/storage/9882913a8d68aa99c0501b64749d6320" group-title="Movie",ABN
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-id="ad3d7b22-47d4-40e2-9b9f-753039e5a1ab" tvg-logo="https://s3.aynaott.com/storage/af7957c9a719fa90c83034d3873433df" group-title="Türkiye",Yüksek Sosyete
-https://fifabangladesh.site/?id=ad3d7b22-47d4-40e2-9b9f-753039e5a1ab
+
 #EXTINF:-1 tvg-id="4e74c2fe-7685-4716-8cfc-ff742280f904" tvg-logo="https://s3.aynaott.com/storage/21992f5e8529a9d2a94b6edf917dbd8f" group-title="Weather",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="8b15f84b-674b-420e-843a-47c71d0c15e2" tvg-logo="https://s3.aynaott.com/storage/6dd20ecde19ea3f6b6cf6c040701973e" group-title="Weather",Fox Weather
