@@ -632,12 +632,6 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 #EXTINF:-1,group-title="KIDS😺" tvg-id="toonami.aftermath" tvg-logo="https://i.pinimg.com/564x/e5/65/b0/e565b090b34dc756072aff0584f6cbab.jpg",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1,group-title="KIDS😺" tvg-id="ToonzKids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/logo_20231219_223312_67.png",ToonzKids
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-#EXTINF:-1,group-title="KIDS😺" tvg-id="ToonzKidsAtfal" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-atfal/logo_20231219_223251_61.png",ToonzKids Atfal
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-arabic/master.m3u8
-#EXTINF:-1,group-title="KIDS😺" tvg-id="ToonzKidsnios" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-ninos/logo_20231219_223332_60.png",ToonzKids niños
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 #EXTINF:-1,group-title="KIDS😺" tvg-id="TVSuldeMinas.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6BzhoO6x2b6h6L7aw5tfSWZLwzwnlAPhhQ1hHCPEEOYA=s72-c-k-c0x00ffffff-no-rj",TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1,group-title="KIDS😺" tvg-id="WildNature" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/logo_20250401_214215_70.png",Wild Nature
@@ -652,13 +646,8 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-http://103.140.254.2:3500/live/816.m3u8
-
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Junior
-http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
 http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney International HD
@@ -668,10 +657,6 @@ http://103.182.170.32:8888/play/a04g
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Minimax 
-
-
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick HD+
 
