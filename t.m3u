@@ -2426,15 +2426,16 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Akash Go" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Akash%20Go.jpg?raw=true" group-title="Bangla🇧🇩",Akash Go
-https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true" group-title="Bangla🇧🇩",BTV
+
+#########SIYAM VAI❤️‍🔥##########
+
+#EXTINF:-1 tvg-id="122" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:1 tvg-name="BTV News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_News.jpg?raw=true" group-title="Bangla🇧🇩",BTV News
+#EXTINF:1 tvg-name="BTV News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_News.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",BTV News
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
-#EXTINF:1 tvg-name="BTV CTG" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_CTG.jpg?raw=true" group-title="Bangla🇧🇩",BTV CTG
+#EXTINF:1 tvg-name="BTV CTG" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_CTG.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",BTV CTG
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-#EXTINF:1 tvg-name="SongSod TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangsod.jpg?raw=true" group-title="Bangla🇧🇩",SongSod TV
+#EXTINF:1 tvg-name="SongSod TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangsod.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",SongSod TV
 https://www.btvlive.gov.bd/live/undefined/SG/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jamuna%20Tv.jpg?raw=true" group-title="Bangla🇧🇩",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
