@@ -1,11 +1,11 @@
 #EXTM3U
 #########E.I.🇧🇩###########
 
-#EXTINF:-1, group-title="E.I.🇧🇩", Antarjal 
+#EXTINF:-1,group-title="E.I.🇧🇩", Antarjal 
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1,group-title="E.I.🇧🇩",SRKTV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Deepto TV HD
+#EXTINF:-1,group-title="E.I.🇧🇩",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
@@ -49,7 +49,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NICK HINDI 
 http://103.180.212.191:3500/live/545.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",NICK TELEGU
+#EXTINF:-1,group-title="E.I.🇧🇩",NICK TELEGU
 http://103.180.212.191:3500/live/1342.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NICK MARATHI
 http://103.180.212.191:3500/live/1340.m3u8
@@ -71,7 +71,7 @@ http://103.180.212.191:3500/live/544.m3u8
 http://103.180.212.191:3500/live/542.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Discovery Turbo
 http://103.180.212.191:3500/live/541.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",DD Hindi
+#EXTINF:-1,group-title="E.I.🇧🇩",DD Hindi
 http://103.180.212.191:3500/live/540.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",DD Tamil 
 http://103.180.212.191:3500/live/539.m3u8
