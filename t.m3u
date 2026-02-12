@@ -882,26 +882,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768170137/ei/Oc5jaaLBD82LsfIP-siOkAc/ip/172.184.214.224/id/y2XHG6n_6xw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AW-iu_rYBCesgNugwLQ4EDDUInx2aztX8JsKIt9dq64GUCKfLzuPycWF27SIp_JjMSVOLVkDFQ/spc/q5xjPHP7wsxTHGmZCWEVcQxRiXz1Q5UZqD3FG9-3QmFz_YNAKDEQBDrvsf-OBLbGwuI/vprv/1/go/1/ns/Idr4dtyvJXUQbZH55ClptvQR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/pWOpOmsK8bUcOknDqQ1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKGzoSZW1B9o9EYu8-uRk0iOybiUqTGdra7VBxil9R9nAiAnnuXtoPcX5cinVIHUhJ5ok8sldofmyD0a76lVMlgfUQ%3D%3D/file/index.m3u8
 #EXTINF:-1,group-title="KIDS😺" tvg-id="YouTube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mme5GlHmFNnSrrGhurc8y-IRauHMAkCUQGbAF_k2CbzCs=s160-c-k-c0x00ffffff-no-rj",0.(YT) Curious George Official
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768170125/ei/LM5jadDrPIGYsfIPgo2akAw/ip/172.184.214.224/id/KJgUjBnLwIM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AW-iu_pzW74R60883EggL6dnQ8XjadP95n6SYRwxJD5SXI99G4Gi8EJsxBZyLVzl1evgHe-vGw/spc/q5xjPCdyUuBpVCms-NtmA7M6ILiCzBTwRpamwuhypiM4pz4XviiikG2QDhHz4zFL3Ok/vprv/1/go/1/ns/DyHOSVcD_meVdeJeDWWJ71oR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/F2CMlThvN90QqNCEBHf/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPm0F02qJ38ISq4uSjSfcgwx45l1ZwKj5zTE0rAWgpWSAiAfL4JmySE_Njaza6cVxlJkdtmYFH0nH9Cr6OwR20p5KA%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺",Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺",Moto Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺",Kid Screation
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Rongeen tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="KIDS😺",ZB Kartun
-https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Nursary Rhymes
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Nursary Rhymes-2
@@ -1329,14 +1310,6 @@ http://103.178.78.151:7505/play/a0v1/index.m3u8
 http://103.167.255.18:8085/play/a0nf/index.m3u8
 #EXTINF:-1 tvg-name="PBS Kids" group-title="KIDS😺",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-name="Motu Zio" group-title="KIDS😺",Motu Zio
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-name="ZB Cartoon" group-title="KIDS😺",ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺",দূরন্ত টিভি
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="KIDS😺" tvg-logo="https://uplo_logo.png",Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS😺",Spacetoon Arabic (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
@@ -1400,44 +1373,7 @@ https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="KIDS😺",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="Gopal Bhar" group-title="KIDS😺",Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Rongeen TV" group-title="KIDS😺",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺",Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺",Moto Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺",Kid Screation
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Rongeen tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS😺",ZB Kartun
-https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Nursary Rhymes
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Nursary Rhymes-2
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_en.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Nursary Rhymes-3
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Tonz kids
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS😺",Hungama Kids
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="KIDS😺",BBC Cbeebies
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="KIDS😺",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="KIDS😺",Duck TV
-https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="KIDS😺",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="KIDS😺",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="KIDS😺",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS😺",Cartoon Network
 http://opplex.org:8080/live/36254571/3526987/150478.ts
