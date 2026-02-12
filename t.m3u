@@ -11008,13 +11008,13 @@ http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f5
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8?hdnts=st%3D1770292824~exp%3D1770314424~acl%3D%21%2A%2F120723%2Fsmil%3Addindiahd.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_194_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_194_-1~hmac%3De07025f0f151aa2f28f7303155839ba539918d3c11f8db8108353c7f6a5afeb3
 
-#EXTINF:-1 tvg-id="1" tvg-chno="207" tvg-name="ndtv-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png" group-title="ASIAN ", NDTV 24x7
+#EXTINF:-1 tvg-id="1" tvg-chno="207" tvg-name="ndtv-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png" group-title="ASIAN", NDTV 24x7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8?hdnts=st%3D1770292825~exp%3D1770314425~acl%3D%21%2A%2Fv1%2Fvglive-sk-401405%2F0194a671d8dd1ebd416a3e0a8a4524%2F0194a67abb941ebd47043cd206ba4f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_1_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_1_-1~hmac%3D688d18e81724d1fd632c1e1f7438fe220a5fc339a91d7f3a635c53f412f2fbb0
 
-#EXTINF:-1 tvg-id="213" tvg-chno="208" tvg-name="mirror-now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png" group-title="ASIAN ", Mirror Now
+#EXTINF:-1 tvg-id="213" tvg-chno="208" tvg-name="mirror-now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png" group-title="ASIAN", Mirror Now
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
@@ -11164,7 +11164,7 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/maste
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8?hdnts=st%3D1770292842~exp%3D1770314442~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-753641%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_39_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_39_-1~hmac%3Db2d3930d998df0a8fb8f0faca5f59a2676725189e9b7c070d62ae5c1dd939776
 
-#EXTINF:-1 tvg-id="29" tvg-chno="21" tvg-name="zee-up-uk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png" group-title="ASIAN ", Zee UP UK
+#EXTINF:-1 tvg-id="29" tvg-chno="21" tvg-name="zee-up-uk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png" group-title="ASIAN", Zee UP UK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
