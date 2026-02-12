@@ -732,8 +732,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="KIDS😺",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Creation
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest?cb=20210423103847",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book
@@ -744,18 +742,8 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",BOOMERANG
 http://cord-cutter.net:8080/live/70453597/56651433/14741.ts
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png",Baby TV
-http://168.181.122.234:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVOKids_2022.svg/revision/latest/scale-to-width-down/300?cb=20221021133348",tvo Kids
-https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://seeklogo.com/images/C/ctc-kids-logo-D35CD4BEFF-seeklogo.com.png",CTC Kids
-http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/J0N5K3m8/Background-Eraser-20240628-152035070.png",Animax
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
-#EXTINF:-1 group-title="KIDS😺" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/images-removebg-preview%20(2).png",LD Anime
-http://tv.cloudcdn.me:80/live.ts?channelId=129416&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺", Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS😺", Moto Patlu
@@ -766,30 +754,14 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.imgur.com/swM1L4e.png", Hungama Kids
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vvcckpkW/4d9f95ffa96d.jpg" group-title="KIDS😺",CHUMBAK TV 📺(Kids)
-https://cdn-1.pishow.tv/live/1451/master.m3u8
-#EXTINF:1 tvg-name="Duronto Tv" tvg-logo="https://i.ibb.co.com/xqyP9fWP/IMG-20250808-081232.jpg" group-title="KIDS😺",Duronto Tv 📺(Kids)
-#http://tv.bdiptv.store/live/restreauuX58/refstream/109.m3u8
-http://103.122.252.100:8080/DURONTO-TV/index.m3u8
+
 #EXTINF:1 tvg-name="SRKTV BANGLA 📺" tvg-logo="https://i.ibb.co/VYS3Fbtj/images-8.jpg" group-title="KIDS😺",SRKTV BANGLA 📺(Kids)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/bM1nKXrh/images-4.jpg" group-title="KIDS😺",Nick Bangla 📺(Kids)
-http://tv.bdiptv.store/live/restreauuX58/refstream/96.m3u8
-#EXTINF:1 tvg-name="Sonic Bangla" tvg-logo="https://i.ibb.co/V0Nv281L/IMG-20250715-020945-060.jpg" group-title="KIDS😺",Sonic Bangla 📺(Kids)
-http://tv.bdiptv.store/live/restreauuX58/refstream/242.m3u8
-#EXTINF:1 tvg-name="Nick Hindi" tvg-logo="https://i.ibb.co/CKtZz8M1/images.png" group-title="KIDS😺",Nick Hindi 📺(Kids)
 
-#EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co/DFnsWGd/Screenshot-2025-07-15-02-03-25-523-com-android-chrome-edit.jpg" group-title="KIDS😺",Sonic Hindi 📺(Kids)
-
-#EXTINF:1 tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="KIDS😺",Disney Channel_HD 📺 (kids)
-https://stream.himelop-pro.top/vm/disneyop.m3u8
-#EXTINF:1 tvg-name="Disney Hindi HD" tvg-logo="https://i.ibb.co.com/7xDwTqRr/images-4.jpg" group-title="KIDS😺",Disney Hindi_sd 📺 (kids)
 
 #EXTINF:1 tvg-name="Gubbare" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="KIDS😺",Gubbare 📺(Kids)
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:1 tvg-name="POGO HINDI 📺" tvg-logo="https://i.ibb.co/CpJHCfk1/IMG-20250715-093043-868.jpg" group-title="KIDS😺",POGO HINDI 📺(Kids)
-http://app.hughag.store/api/d2586d604e/playlist.m3u8
-#EXTINF:-1 tvg-id="548" tvg-name="nickjr" tvg-logo="https://i.ibb.co/4cp5D14/IMG-20250801-192009-777.jpg" group-title="KIDS😺",NickJr Hindi 📺(Kids)
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/RWVWqNG/images.jpg" group-title="KIDS😺",CARTOON NETWORK 📺(Kids)
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
