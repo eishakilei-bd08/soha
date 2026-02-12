@@ -4681,24 +4681,6 @@ https://knews.livebox.co.in/youtubehls/live.m3u8
 https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.logoeps.net/wp-content/uploads/2016/12/al-jazeera-logo.png",AL Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/1280px-MSNBC_2015-2021_logo.svg.png",MSNBC
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=855331&extension=ts
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/766px-WION_news_Logo.svg.png",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/800px-Global_News.svg.png",Global News (Canada)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/328f4948534229.Y3JvcCw2NTksNTE2LDAsNzY.png",92 News HD
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png",Lahore News
-https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-
 
 
 
@@ -4749,11 +4731,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi Tv
 http://208.86.19.13:81/514.stream/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
