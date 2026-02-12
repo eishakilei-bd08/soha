@@ -1677,9 +1677,40 @@ https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://uplo_logo.png" group-title="KIDS😺",Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha and the Bear" tvg-logo="" group-title="KIDS😺",24/7 Masha and the Bear
+http://opplex.org:8080/live/36254571/3526987/301506.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Little Baby Bum" tvg-logo="" group-title="KIDS😺",24/7 Little Baby Bum
+http://opplex.org:8080/live/36254571/3526987/301507.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Boss Baby Back in Business" tvg-logo="" group-title="KIDS😺",24/7 The Boss Baby Back in Business
+http://opplex.org:8080/live/36254571/3526987/301508.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="KIDS😺",24/7 Peppa Pig
+http://opplex.org:8080/live/36254571/3526987/301509.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blippi" tvg-logo="" group-title="KIDS😺",24/7 Blippi
+http://opplex.org:8080/live/36254571/3526987/301510.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gabby_s Dollhouse" tvg-logo="" group-title="KIDS😺",24/7 Gabby_s Dollhouse
+http://opplex.org:8080/live/36254571/3526987/301511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches Hindi" tvg-logo="" group-title="KIDS😺",Oggy and the Cockroaches Hindi
+http://opplex.org:8080/live/36254571/3526987/308282.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="KIDS😺",24/7 Chhota Bheem
+http://opplex.org:8080/live/36254571/3526987/315401.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="KIDS😺",24/7 Tom & Jerry
+http://opplex.org:8080/live/36254571/3526987/329247.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="KIDS😺",24/7 Scooby-Doo
+http://opplex.org:8080/live/36254571/3526987/329248.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Booba" tvg-logo="" group-title="KIDS😺",24/7 Booba
+http://opplex.org:8080/live/36254571/3526987/340803.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS SONGS HINDI" tvg-logo="" group-title="KIDS😺",24/7 KIDS SONGS HINDI
+http://opplex.org:8080/live/36254571/3526987/340802.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus | Nursery Rhymes" tvg-logo="" group-title="KIDS😺",24/7 BabyBus | Nursery Rhymes
+http://opplex.org:8080/live/36254571/3526987/340804.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOV HINDI" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS😺",24/7 KIDS | MOV HINDI
+http://opplex.org:8080/live/36254571/3526987/362998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS😺",24/7 KIDS | MOVIES
+http://opplex.org:8080/live/36254571/3526987/362999.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 01" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS😺",24/7 KIDS | MOVIES ENG 01
+http://opplex.org:8080/live/36254571/3526987/363000.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 02" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS😺",24/7 KIDS | MOVIES ENG 02
+http://opplex.org:8080/live/36254571/3526987/363001.ts
 
 #EXTM3U 
 
@@ -6246,48 +6277,6 @@ https://drive.usercontent.google.com/download?id=1G_gzXBBYJj48uHkGOjzFB5RgQWca_N
 
 
 
-
-
-
-
-💩
-
-
-#EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha and the Bear" tvg-logo="" group-title="KIDS",24/7 Masha and the Bear
-http://opplex.org:8080/live/36254571/3526987/301506.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Little Baby Bum" tvg-logo="" group-title="KIDS",24/7 Little Baby Bum
-http://opplex.org:8080/live/36254571/3526987/301507.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Boss Baby Back in Business" tvg-logo="" group-title="KIDS",24/7 The Boss Baby Back in Business
-http://opplex.org:8080/live/36254571/3526987/301508.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="KIDS",24/7 Peppa Pig
-http://opplex.org:8080/live/36254571/3526987/301509.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Blippi" tvg-logo="" group-title="KIDS",24/7 Blippi
-http://opplex.org:8080/live/36254571/3526987/301510.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gabby_s Dollhouse" tvg-logo="" group-title="KIDS",24/7 Gabby_s Dollhouse
-http://opplex.org:8080/live/36254571/3526987/301511.ts
-#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches Hindi" tvg-logo="" group-title="KIDS",Oggy and the Cockroaches Hindi
-http://opplex.org:8080/live/36254571/3526987/308282.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="KIDS",24/7 Chhota Bheem
-http://opplex.org:8080/live/36254571/3526987/315401.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="KIDS",24/7 Tom & Jerry
-http://opplex.org:8080/live/36254571/3526987/329247.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="KIDS",24/7 Scooby-Doo
-http://opplex.org:8080/live/36254571/3526987/329248.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Booba" tvg-logo="" group-title="KIDS",24/7 Booba
-http://opplex.org:8080/live/36254571/3526987/340803.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS SONGS HINDI" tvg-logo="" group-title="KIDS",24/7 KIDS SONGS HINDI
-http://opplex.org:8080/live/36254571/3526987/340802.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus | Nursery Rhymes" tvg-logo="" group-title="KIDS",24/7 BabyBus | Nursery Rhymes
-http://opplex.org:8080/live/36254571/3526987/340804.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOV HINDI" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOV HINDI
-http://opplex.org:8080/live/36254571/3526987/362998.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES
-http://opplex.org:8080/live/36254571/3526987/362999.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 01" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES ENG 01
-http://opplex.org:8080/live/36254571/3526987/363000.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 02" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES ENG 02
-http://opplex.org:8080/live/36254571/3526987/363001.ts
 #EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="MUSIC",Zoom TV
 http://opplex.org:8080/live/36254571/3526987/66190.ts
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="MUSIC",9xm
