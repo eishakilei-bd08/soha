@@ -6,28 +6,7 @@
 
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports T20
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="E.I.🇧🇩",star sports 1
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=b8aa0255271fc61eee1b5ea9c31efcae76673b52-bf2d6e66ec17d52c59de349e148bfb69-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="E.I.🇧🇩",star sports 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=e66d18837472e422d1bc76aafc38a079630d6355-988430506424cf5d4e2607acfa507d53-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/20.png" group-title="E.I.🇧🇩",sony ten 1
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=7809e9b29ad7518842631cef80f8fb9ccca916b7-1d26752a95a40fe62807d4febf691cba-1770992502-1770988902
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/21.png" group-title="E.I.🇧🇩",sony ten 2
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=8bb8e62aea8270e94c373ec851c860d778443a1e-8905bb3b91429eb0550a13157c45ba27-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/22.png" group-title="E.I.🇧🇩",sony ten 3
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=dd10220deeca1bebd5370466475cfec398b0a892-de81e130e1b9abe13233253e76e5e8f9-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/24.png" group-title="E.I.🇧🇩",sony six
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=cb8a1bb84b0880f136c08f39b757b6b52cc4d6ba-a2b6eb37f88ee1c22fb4706229cccc03-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/27.png" group-title="E.I.🇧🇩",star sports select 1
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?token=cd8a12febb146d815644160705404d0fc96f7131-18927c57c03fdda4a59cf631c03bf947-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="E.I.🇧🇩",star sports select 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-2/index.m3u8?token=89387693a41fb37e35021bb4fff546195504638d-6748445a6c9408a7dd070b916f37984b-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="E.I.🇧🇩",euro sports
-https://edge2.roarzone.info:8444/roarzone/edge3/euro-sport-hd/index.m3u8?token=142a2c241c4a0af7423bd971a48b31799c928324-959fbbe6c9c3eba6eb993d1ca27cf766-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/dubai-sports.png" group-title="E.I.🇧🇩",dubai sports
-https://edge2.roarzone.info:8444/roarzone/bk/dubai-sports/index.m3u8?token=1faf3d1a007d6758f7275ac1013c50b9b1335232-ddd57b50cc47845f8376c0e73ee4a5e7-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/ten_cricket.png" group-title="E.I.🇧🇩",ten cricket
-https://edge2.roarzone.info:8444/roarzone/edge3/sony-ten-cricket/index.m3u8?token=f562923816135df619b910c7b19b2d0914bc7ae2-acdb476c69a3663dbfa3a4f159ce0f44-1770992501-1770988901
+
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/75.png" group-title="E.I.🇧🇩",star gold select
 https://edge2.roarzone.info:8444/roarzone/bk/72/index.m3u8?token=686f1b9da87e557fc2f98ce9cf28dc0114168b81-01d055c69b2e49db6ba01e1d12dc9bcd-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/38.png" group-title="E.I.🇧🇩",sony tv
