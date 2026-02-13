@@ -7,16 +7,12 @@
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports T20
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/75.png" group-title="E.I.🇧🇩",star gold select
-https://edge2.roarzone.info:8444/roarzone/bk/72/index.m3u8?token=686f1b9da87e557fc2f98ce9cf28dc0114168b81-01d055c69b2e49db6ba01e1d12dc9bcd-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/38.png" group-title="E.I.🇧🇩",sony tv
 https://edge2.roarzone.info:8444/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=f470974b21f6bcf07a26043e48131ee1baead0dc-ce05b18d7c0171264228ac64c1989ff0-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonymax.png" group-title="E.I.🇧🇩",sony max
 https://edge2.roarzone.info:8444/roarzone/edge3/sony-max/index.m3u8?token=fa82d73173a2c175e4cbc825e8e1892315a74562-52962653418549701081126c9afd9d88-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonymaxhd.png" group-title="E.I.🇧🇩",sony max hd
-https://edge2.roarzone.info:8444/roarzone/edge3/sony-max-hd/index.m3u8?token=9a2f22821378e50ef30f031dc9814233c38ec9ef-5bc0d55a2363d70e00e5ca0b9c73e0cd-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/68.png" group-title="E.I.🇧🇩",colors
-https://edge2.roarzone.info:8444/roarzone/bk/68/index.m3u8?token=f134d8fc02844857715de9a4b5d3e520ca051b66-00c8f0d2afab3df560040f907fbbc6af-1770992501-1770988901
+https://edge2.roarzone.info:8444/roarzone/edge3/sony-max-hd/index.m3u8?token=9a2f22821378e50ef30f031dc9814233c38ec9ef-5bc0d55a2363d70e00e5ca0b9c73e0cd-177099250-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonymax2.png" group-title="E.I.🇧🇩",sony max 2
 https://edge2.roarzone.info:8444/roarzone/edge3/sony-max-2/index.m3u8?token=c7b1495911bb6977622cd3d75c8420aa2ad11f42-1651c3733fe1626be1f142e703a58ce4-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/40.png" group-title="E.I.🇧🇩",zee tv
