@@ -95,16 +95,6 @@ https://edge2.roarzone.info:8444/roarzone/edge3/ekattor-tv/index.m3u8?token=913b
 https://edge2.roarzone.info:8444/roarzone/edge3/independent-tv/index.m3u8?token=b229ab49e1d41df0847d37d498dc0f4eb7b8c422-b3766faf51540fab2be90eb2844d653b-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/86.png" group-title="E.I.🇧🇩",movie bangla tv
 https://edge2.roarzone.info:8444/roarzone/edge3/movie-bangla/index.m3u8?token=d4138309a45c60667593919c4ea8e5d2ca6e9b9b-46828d40a79fbdb2541d99f5987b0c7f-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/18.png" group-title="E.I.🇧🇩",news24
-https://edge2.roarzone.info:8444/roarzone/bk/18/index.m3u8?token=e04ade8f8dc30eabfc3830140adc8bf190fa935e-dc18f696690e2c3253f7dd1456a3460b-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/54.png" group-title="E.I.🇧🇩",ntv
-https://edge2.roarzone.info:8444/roarzone/bk/54/index.m3u8?token=1981d64bdbb0f31c08a73d335ee60f86f0085fc6-b704ba945a7ab417ee905be5d0ecab72-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/14.png" group-title="E.I.🇧🇩",rtv
-https://edge2.roarzone.info:8444/roarzone/bk/14/index.m3u8?token=46c4bfb347a4b9b9c04a05be5d77dc6e97c074ff-6d9fb37e7c22a4f6b96108800f165b05-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/15.png" group-title="E.I.🇧🇩",sa tv
-https://edge2.roarzone.info:8444/roarzone/bk/15/index.m3u8?token=ddfa06d1a36d26e41da606ba54ad094a760de0dd-71c7efce9beca20253ffb8749ef3e641-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/88.png" group-title="E.I.🇧🇩",sangsad tv
-https://edge2.roarzone.info:8444/roarzone/bk/88/index.m3u8?token=97f43c321c03487ffdacd44c6677e63c4cd002eb-f1b84b5459d82649f70950964fbf8f6a-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/ekhon-tv.jpg" group-title="E.I.🇧🇩",ekhon
 https://edge2.roarzone.info:8444/roarzone/edge3/ekhon-tv/index.m3u8?token=d3a29d436a49295c2399ed432cea12a51f97b66b-4dedcfdb2908ecba0e3b8d1bd6980fb9-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/bijoy-tv.jpg" group-title="E.I.🇧🇩",bijoy-tv
