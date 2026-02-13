@@ -89,16 +89,9 @@ https://edge2.roarzone.info:8444/roarzone/edge3/jamuna-tv/index.m3u8?token=a164a
 https://edge2.roarzone.info:8444/roarzone/edge3/channel-s/index.m3u8?token=a1c6bdc57f27afc3b18b7f8e56398bc251961464-08c8ffc32023b6f80cc3857803bb53f3-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/17.png" group-title="E.I.🇧🇩",somoy tv
 https://edge2.roarzone.info:8444/roarzone/edge3/somoy-tv/index.m3u8?token=59aa4a9f7b7789ab19fcb7f015d4395479898885-45c54fe8319509c89dcfe10e319cb976-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/65.png" group-title="E.I.🇧🇩",ekushy tv
-https://edge2.roarzone.info:8444/roarzone/bk/65/index.m3u8?token=4246925a43ee5351b15b2afa55a8ecc483e66a5f-d75a623583b372121a43096f705acfd1-1770992501-1770988901
+
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/62.png" group-title="E.I.🇧🇩",asian tv
-https://edge2.roarzone.info:8444/roarzone/edge3/asian-tv/index.m3u8?token=95b5ac282a04a1f229ed33734c9ce2ffb05f4454-3552fa264f3d73afde4517366cd3c58e-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/2.png" group-title="E.I.🇧🇩",atn bangla
-https://edge2.roarzone.info:8444/roarzone/bk/2/index.m3u8?token=9ca76855645c856174df1c933026077035a66d53-f7b30e5ddb2576286a41e67553247f69-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/49.png" group-title="E.I.🇧🇩",atn news
-https://edge2.roarzone.info:8444/roarzone/edge2/atn-news/index.m3u8?token=d573e073117e111411366935ff2701d675200cee-f6d74408b5e6a260526d0bf6a753e0d9-1770992501-1770988901
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/3.png" group-title="E.I.🇧🇩",banglavision tv
-https://edge2.roarzone.info:8444/roarzone/edge2/banglavision/index.m3u8?token=08b9e80072f44d6eafcad6808aa8a0dca2ce4ee9-d2170f1f9309352a9467a34490743fa3-1770992501-1770988901
+
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/global-tv.png" group-title="E.I.🇧🇩",global tv
 https://edge2.roarzone.info:8444/roarzone/edge3/global-tv/index.m3u8?token=817aab8a283b181a160c2d3c36b223ebd5d4aed7-6374737cc0ffdec5fabc9f3980326077-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/16.png" group-title="E.I.🇧🇩",ananda tv
