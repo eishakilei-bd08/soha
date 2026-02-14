@@ -2287,20 +2287,14 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",9X Tashan
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/c18ba53f-d825-4f26-971c-65ec6ab892cc/0.m3u8
-#EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/HxPhL5Lr/Showven.jpg",ATN Music
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/mono.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/de456a2b-b6f5-4afe-a222-5d2d6e885526/0.m3u8
-#EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",B4u Music
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.imgur.com/rEhhYpe.png",Baraza Music TV
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.imgur.com/rEhhYpe.png",Baraza Music TV
 https://eco.streams.ovh:8081/barazatv/index.m3u8
-#EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.imgur.com/rEhhYpe.png",Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/tC3qfCTK/ATN-Music.jpg",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.imgur.com/MkFsM39.png",Joo Music
@@ -2312,14 +2306,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/pLG976s5/Sangeet-Bangla.jpg",Saga Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/5e027b28-fb0e-49cc-9962-44babcc450ce/0.m3u8
-
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",30A Music
 https://30a-tv.com/music.m3u8
-
 #EXTINF:-1 tvg-id="6a3da04b-dacc-441f-9549-71da39b5af07" tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Music🎼",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
