@@ -1,6 +1,7 @@
 #EXTM3U
 #########E.I.🇧🇩###########
-
+#EXTINF:-1,group-title="E.I.🇧🇩",T20
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/38.png" group-title="E.I.🇧🇩",sony tv
 https://edge2.roarzone.info:8444/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=f470974b21f6bcf07a26043e48131ee1baead0dc-ce05b18d7c0171264228ac64c1989ff0-1770992501-1770988901
