@@ -224,8 +224,16 @@ http://103.180.212.191:3500/live/898.m3u8
 http://103.180.212.191:3500/live/899.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Surya
 http://103.180.212.191:3500/live/900.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩,SANJHA TV
+#EXTINF:-1,group-title="E.I.🇧🇩",SANJHA TV
 http://103.180.212.191:3500/live/904.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Z News 
+http://103.180.212.191:3500/live/871.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",EUROSPORT
+http://103.180.212.191:3500/live/875.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",TIME NOW WORLD 
+http://103.180.212.191:3500/live/876.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",OSCAR Movies 
+http://103.180.212.191:3500/live/883.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1, group-title"E.I.🇧🇩",Cartoon Box
