@@ -2322,21 +2322,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",30A Music
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="0fc15069-e437-4138-a1bd-f62aaa93773e" tvg-logo="https://s3.aynaott.com/storage/7e67b75dd21f29985a544f21f8f5a8e0" group-title="Music🎼",9x Jhakaas
-https://tvsen6.aynascope.net/9X_Jhakaas/index.m3u8?e=1770107436&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=300cb51da63d7b05070e2f0e215c1297
-#EXTINF:-1 tvg-id="93d08244-7eb4-4294-80b5-43030f41ca9f" tvg-logo="https://s3.aynaott.com/storage/8fb5a75cdb00b465703c4952f4eaaac6" group-title="Music🎼",9XM
-https://tvsen6.aynascope.net/9xm/index.m3u8?e=1770107437&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=265ebae52fab98e5234e6bb4a8b75c68
-#EXTINF:-1 tvg-id="631ca0d6-474b-41ad-9ffc-24adc9931731" tvg-logo="https://s3.aynaott.com/storage/62a667c60e95b0d8e0a0c4d70275a7fc" group-title="Music🎼",Manoranjan Movies
-https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1770107437&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=ed2439750e15455f0416500228f617f6
-#EXTINF:-1 tvg-id="a0ff33aa-aee8-4fe3-a391-42bbb7cbacec" tvg-logo="https://s3.aynaott.com/storage/ec0191729a03669fda8ba55c7ba1d4f2" group-title="Music🎼",Mastiii Music
-https://tvsen6.aynascope.net/mastimusic/index.m3u8?e=1770107437&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e0c0ec68111d11f2fd2f2e484d3b50a9
+
 #EXTINF:-1 tvg-id="6a3da04b-dacc-441f-9549-71da39b5af07" tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Music🎼",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id="da617cc0-9209-434c-9156-0f9387182a3f" tvg-logo="https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869" group-title="Music🎼",9x Jalwa
-https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1770107437&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=26a66a4a16fea98a34001fd18122bb34
-#EXTINF:-1 tvg-id="dbefbb0b-b2e0-4e34-8108-8852d53ee766" tvg-logo="https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2" group-title="Music🎼",9X Tashan
-https://tvsen6.aynascope.net/9X_Tashan/index.m3u8?e=1770107437&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=7073f4e473a9a72974de39b96ae23ee7
-
 
 
 
