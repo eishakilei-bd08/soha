@@ -238,22 +238,6 @@ http://103.180.212.191:3500/live/883.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1, group-title"E.I.🇧🇩",Cartoon Box
 https://tigerhub-bd.vercel.app/Kidz-Zone/Cartoon-Box/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩,SRKTV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", SONY ATH
-http://103.151.60.204/ZAHIR_EN8_90_110_P6/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", National Geographic Bangla
-http://103.151.60.204/ZAHIR_EN8_90_110_P7/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Star Jalsa Hd
-http://103.151.60.204/ZAHIR_EN8_90_110_P1/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Animal Planet Hd
-http://103.151.60.204/ZAHIR_EN8_90_110_P2/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Z Bangla
-http://103.151.60.204/ZAHIR_EN8_90_110_P3/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Sun Bangla
-http://103.151.60.204/ZAHIR_EN8_90_110_P4/video.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩", Colors Bangla HD
-http://103.151.60.204/ZAHIR_EN8_90_110_P5/video.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩", Arabica TV 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩", SRK TV 
@@ -555,32 +539,22 @@ https://tplay.live/playlist/music/adnan-sami/index.m3u8
 https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
 #EXTINF:-1, group-title="E.I.🇧🇩",Zibo
 https://ziboflow.ott-king.top:8080/zibo/index.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",SRKTV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩",Star Gold
 http://103.99.249.139/stargold/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",Star Plus
 http://103.99.249.139/starplus/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",Star Jalsha
 http://103.99.249.139/starjalsha/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",Jalsha Movies
 http://103.99.249.139/jalshamovies/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",And Pictures
 http://103.99.249.139/andpictures/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",Sony Max
 http://103.99.249.139/sonymax/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",Sony Sab
 http://103.99.249.139/sonysab/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",Zee TV
 http://103.99.249.139/zeetv/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩",Zee Cinema
 http://103.99.249.139/zeecinema/index.m3u8
 EXTINF:-1 tvg-logo=" " group-title="E.I.🇧🇩",Arabica TV
