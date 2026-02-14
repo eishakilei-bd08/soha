@@ -214,6 +214,8 @@ http://103.180.212.191:3500/live/785.m3u8
 http://103.180.212.191:3500/live/895.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SUN Tv
 http://103.180.212.191:3500/live/894.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SUN TV HD
+http://103.180.212.191:3500/live/896.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SUN Music tamil
 http://103.180.212.191:3500/live/898.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SUN Movies
