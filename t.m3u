@@ -10,14 +10,6 @@ https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T20
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="E.I.🇧🇩",star sports 1
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=232f41e3b50949c4d1b3e535b531873a3ca07c7b-d13df3008a6c58eb8798cb124745143e-1771142106-1771138506
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="E.I.🇧🇩",Star Sports 1 HD
-https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1771142460&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3411480dee1cd692122c11a8fac08407
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="E.I.🇧🇩",star sports 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=a028079dce898160af7250620c24612d0b508335-888cc4cee9b1b045a725d7fdd48c7d0d-1771142106-1771138506
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="E.I.🇧🇩",STAR SPORTS 2 HD
-https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1771142485&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=135b3fc977ff211e665fabb09d7a18b3
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/27.png" group-title="E.I.🇧🇩",star sports select 1
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?token=402206df67e1bb16fe2d0864e2bd00df6b1e28df-d0dd234305dfa90f97af7fd6b9cb3620-1771142106-1771138506
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="E.I.🇧🇩",star sports select 2
