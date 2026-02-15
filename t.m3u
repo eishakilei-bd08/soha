@@ -7,15 +7,15 @@ http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T20
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 
-EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/75.png" group-title="hindi",star gold
+EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/75.png" group-title="E.I.🇧🇩",star gold
 https://edge2.roarzone.info:8444/roarzone/edge2/star-gold/index.m3u8?token=aa9fa49724fdd31aad69fd07aaad5bc37c9efd43-6a44ecef7a55c34902584ea8283167a1-1771142106-1771138506
 #EXTINF:-1 tvg-name="Star Gold 2 HD" group-title="India",Star Gold 2 HD
 http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" group-title="India",Star Gold HD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Star Channels",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="E.I.🇧🇩",Star Jalsha HD
 https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1771142641&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=de96236883c1cce71b8bb31b415b65dc
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/cb91d6750648d5fd4a51c7cb6ff9eeed" group-title="Star Channels",Star Plus HD
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/cb91d6750648d5fd4a51c7cb6ff9eeed" group-title="E.I.🇧🇩",Star Plus HD
 https://tvsen7.aynascope.net/sphdbd/index.m3u8?e=1771142642&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=26fcfb26fc56ce2487eb2d2a8b309be2
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=232f41e3b50949c4d1b3e535b531873a3ca07c7b-d13df3008a6c58eb8798cb124745143e-1771142106-1771138506
