@@ -105,10 +105,10 @@ https://edge2.roarzone.info:8444/roarzone/edge3/movie-bangla/index.m3u8?token=d4
 https://edge2.roarzone.info:8444/roarzone/edge3/ekhon-tv/index.m3u8?token=d3a29d436a49295c2399ed432cea12a51f97b66b-4dedcfdb2908ecba0e3b8d1bd6980fb9-1770992501-1770988901
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/bijoy-tv.jpg" group-title="E.I.🇧🇩",bijoy-tv
 https://edge2.roarzone.info:8444/roarzone/edge3/bijoy-tv/index.m3u8?token=a9f2fc8f11b84f2577127c058767452d2f8ce655-f25e13a20cb7fdd1b47a48846b9521d1-1770992501-1770988901
-
-
-
-
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/34.png" group-title="E.I.🇧🇩",zee bangla
+https://edge2.roarzone.info:8444/roarzone/edge3/zee-bangla/index.m3u8?token=1ed69ce41e68b2432e75c5c3d613b2a2a83aeca5-d0297bb88170de27155f4c63b5c40079-1771134569-1771130969
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/34.png" group-title="E.I.🇧🇩",zee bangla
+https://edge2.roarzone.info:8444/roarzone/edge3/zee-bangla/index.m3u8?token=eec3f0928fd7ce8673d74e126d289b2f6d747c99-9ce93e79a4390e469e3e3ab4ed420713-1771138331-1771134731
 
 
 
