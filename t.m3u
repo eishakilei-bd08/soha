@@ -810,9 +810,9 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #######KIDS😺########
 
 
-EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kIDS😺",sony yay
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="KIDS😺",sony yay
 https://edge2.roarzone.info:8444/roarzone/edge3/sony-yay/index.m3u8?token=99b6962e5de04f01c712d33dff122d7eee2164ac-4b1a169063136dcad55c89745b3bf845-1771138331-1771134731
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kIDS😺",sony yay
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="KIDS😺",sony yay
 https://edge2.roarzone.info:8444/roarzone/edge3/sony-yay/index.m3u8?token=49e4eb1c938354a39b6d222603fd52f9f9bf2283-8b82f6ca44f903998f989cc289983e36-1771142106-1771138506
 
 #EXTINF:-1 group-title="KIDS😺" audio-track="Eng", JimJam
