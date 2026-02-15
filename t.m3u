@@ -48,7 +48,10 @@ https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1771142453&u=78be6644-0a65-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd" group-title="Sports",Talk Sport
 https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1771142465&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=786f8cf4642e55ccf396dc73f570c6fe
 
-
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png" group-title="US Sports",Willow Cricket FHD
+https://a1xs.vip/40000042
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1771142474&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bcee61ad5ce261eae113f41751e08868
 
 
 
