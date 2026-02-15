@@ -812,6 +812,12 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTM3U
 #######KIDS😺########
 
+
+EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kIDS😺",sony yay
+https://edge2.roarzone.info:8444/roarzone/edge3/sony-yay/index.m3u8?token=99b6962e5de04f01c712d33dff122d7eee2164ac-4b1a169063136dcad55c89745b3bf845-1771138331-1771134731
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kIDS😺",sony yay
+https://edge2.roarzone.info:8444/roarzone/edge3/sony-yay/index.m3u8?token=49e4eb1c938354a39b6d222603fd52f9f9bf2283-8b82f6ca44f903998f989cc289983e36-1771142106-1771138506
+
 #EXTINF:-1 group-title="KIDS😺" audio-track="Eng", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="a8b5e07e-b775-415f-b71f-9391bacc9e30" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="KIDS😺",Dios Te Ve Kids
