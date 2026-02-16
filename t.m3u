@@ -1,8 +1,6 @@
 #EXTM3U
 #########E.I.🇧🇩###########
 
-
-
 #EXTINF:-1 tvg-logo="none" group-title="E.I.🇧🇩",ASTRO
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1 tvg-name="StarSports 1 HD" group-title="E.I.🇧🇩",StarSports 1 HD
