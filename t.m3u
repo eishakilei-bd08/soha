@@ -2383,14 +2383,6 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 #EXTINF:-1 tvg-id="909428fa-8473-43b2-aad5-23cf86b0d829" tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928" group-title="Sports",Bleav Football
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="93c7e57d-e666-488a-aec9-a339a7e5eb74" tvg-logo="https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5" group-title="Sports",Fox Sports 2
-https://tvsen7.aynascope.net/foxsports2/index.m3u8?e=1770107407&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=370893e621a8d7a7bf7e4cecf0a5baa6
-#EXTINF:-1 tvg-id="f064e069-8861-43d5-ac79-828b029a50a1" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
-https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1770107408&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=fbb26ec5fb23af964730916502a77680
-#EXTINF:-1 tvg-id="f1e1b6c8-9a1b-492d-bdf9-b63295e6073e" tvg-logo="https://s3.aynaott.com/storage/f7bf8f587bc7838bcce89a8730712119" group-title="Sports",Sports 18
-https://fifabangladesh.site/?id=f1e1b6c8-9a1b-492d-bdf9-b63295e6073e
-#EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Sports",Bein Sports
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="10bb1341-2aa8-4be2-8a25-76a75f5a3ee7" tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="Sports",BT Sports 2
 https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1770107408&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=726874a9f6d60210072f9825bd7b4023
 #EXTINF:-1 tvg-id="e263cd7f-45e9-4bc6-a350-bf968eb51b14" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",Espn
