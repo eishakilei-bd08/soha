@@ -2434,56 +2434,7 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1" tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Hindi",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-id="960d0db1-3409-49b7-87da-61fe83fa2d8b" tvg-logo="https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc" group-title="Hindi",Manoranjan TV
-https://tvsen6.aynascope.net/ManoranjanTV/index.m3u8?e=1770107438&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=e98825923341aab40da39fc7e0bf00ae
-#EXTINF:-1 tvg-id="30c01099-08c9-45d3-91b2-572ca4c173eb" tvg-logo="https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5" group-title="Hindi",Network 10
-https://tvsen6.aynascope.net/Network10/index.m3u8?e=1770107438&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=46790940a3bc4250de00bc100421109b
-#EXTINF:-1 tvg-id="8377452f-fbc7-4780-8bd2-6db42ac285c0" tvg-logo="https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6" group-title="Hindi",Republic TV Bharat
-https://tvsen6.aynascope.net/RepublicTVBharat/index.m3u8?e=1770107438&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=29c0d0d583d386fbe07d9264d9830307
-#EXTINF:-1 tvg-id="d7541d99-14a5-4775-b90f-8681070ba80a" tvg-logo="https://s3.aynaott.com/storage/296b530024a470f52313692636810e04" group-title="Hindi",Rongeen TV
-https://fifabangladesh.site/?id=d7541d99-14a5-4775-b90f-8681070ba80a
-#EXTINF:-1 tvg-id="3c57401b-76ef-486e-8c7b-b3eff2f3e0e6" tvg-logo="https://s3.aynaott.com/storage/0812a2b26b02dbe7b39e9dd61bd14d8d" group-title="Hindi",Movie Today
-https://fifabangladesh.site/?id=3c57401b-76ef-486e-8c7b-b3eff2f3e0e6
-#EXTINF:-1 tvg-id="cca69f06-02d4-4b39-aad9-f24688b81d0d" tvg-logo="https://s3.aynaott.com/storage/d63eff8864579b144c097c549ec0470a" group-title="Hindi",Dhamaka Movies
-https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1770107439&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=a84eeba9e6ba19bd2c0efc702535e42d
-#EXTINF:-1 tvg-id="0b0235db-e5b4-48d9-95bc-30a7e3228947" tvg-logo="https://s3.aynaott.com/storage/2d12bf4f5dad8918427df0162d0e1184" group-title="Hindi",Sony TV HD
-https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1770107439&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=5521b3c7d9d6dd9be473680b7905606e
-#EXTINF:-1 tvg-id="e6084a77-7e9c-457f-88e9-31d2254d2f61" tvg-logo="https://s3.aynaott.com/storage/f18c93dc62764e4461f5de2a022d2b8a" group-title="Hindi",And Flix HD
-https://fifabangladesh.site/?id=e6084a77-7e9c-457f-88e9-31d2254d2f61
-#EXTINF:-1 tvg-id="22f09081-19f6-4d52-a525-29045a6fa25c" tvg-logo="https://s3.aynaott.com/storage/36f9f0ad6f9af516fba621e89f612a45" group-title="Hindi",Sony SAB
-https://fifabangladesh.site/?id=22f09081-19f6-4d52-a525-29045a6fa25c
-#EXTINF:-1 tvg-id="6fe8cee1-f638-4f9e-bb55-c28784799da3" tvg-logo="https://s3.aynaott.com/storage/953ccd00214b0d4613af8a30b3e4a2da" group-title="Hindi",Sony BBC
-https://fifabangladesh.site/?id=6fe8cee1-f638-4f9e-bb55-c28784799da3
-#EXTINF:-1 tvg-id="85353ec3-79c0-4e60-a75d-09a3a541d28d" tvg-logo="https://s3.aynaott.com/storage/7ef7ebb2e5cc9ae977681ddac5262103" group-title="Hindi",Sony PAL
-https://fifabangladesh.site/?id=85353ec3-79c0-4e60-a75d-09a3a541d28d
-#EXTINF:-1 tvg-id="b16ce52b-6067-415f-804b-cf96a47aea52" tvg-logo="https://s3.aynaott.com/storage/a9786c1d9de5e6862279624c8c15f2f3" group-title="Hindi",Sony YAY
-https://fifabangladesh.site/?id=b16ce52b-6067-415f-804b-cf96a47aea52
-#EXTINF:-1 tvg-id="93224a3d-ce4f-4457-b34c-88b2175bd03a" tvg-logo="https://s3.aynaott.com/storage/aa43830d49a2274281144c16060b0eeb" group-title="Hindi",Sony MAX 2
-https://fifabangladesh.site/?id=93224a3d-ce4f-4457-b34c-88b2175bd03a
-#EXTINF:-1 tvg-id="6e3b1ff7-bd93-4925-bba1-800d5ab0730c" tvg-logo="https://s3.aynaott.com/storage/fc58e95c34beebfc807e9a22a3409f8f" group-title="Hindi",Sony AATH
-https://fifabangladesh.site/?id=6e3b1ff7-bd93-4925-bba1-800d5ab0730c
-#EXTINF:-1 tvg-id="06e5c2bd-6981-4110-9b3c-3686b3087d89" tvg-logo="https://s3.aynaott.com/storage/d8ee25ef67c391b4027f78a2f00adc53" group-title="Hindi",Sony MAX
-https://fifabangladesh.site/?id=06e5c2bd-6981-4110-9b3c-3686b3087d89
-#EXTINF:-1 tvg-id="2f8edbf3-9856-426c-a17f-174bb41f67f4" tvg-logo="https://s3.aynaott.com/storage/854d9b7f6c3274c5aa9a257452b9abbf" group-title="Hindi",Sony PIX
-https://fifabangladesh.site/?id=2f8edbf3-9856-426c-a17f-174bb41f67f4
-#EXTINF:-1 tvg-id="b04b3742-e2a1-4d56-8b3e-2b2154766ada" tvg-logo="https://s3.aynaott.com/storage/96b8590054894d15f4f7ced1919b658f" group-title="Hindi",Sony TEN 1
-https://fifabangladesh.site/?id=b04b3742-e2a1-4d56-8b3e-2b2154766ada
-#EXTINF:-1 tvg-id="53b34289-f9ac-456b-b934-e380f5ec684f" tvg-logo="https://s3.aynaott.com/storage/8ab8956c9d9128f39ef21487a38f47a3" group-title="Hindi",Sony TEN2
-https://tvsen3.aynascope.net/HsatAP9H/index.m3u8
-#EXTINF:-1 tvg-id="82e2a77e-38f9-438b-80de-da3aa7e5cf61" tvg-logo="https://s3.aynaott.com/storage/e1208722b5fa731872536173c3636c06" group-title="Hindi",Zee Cinema
-https://fifabangladesh.site/?id=82e2a77e-38f9-438b-80de-da3aa7e5cf61
-#EXTINF:-1 tvg-id="42cbbb02-3573-4d3c-b4c3-34b4bda4115f" tvg-logo="https://s3.aynaott.com/storage/1ab516efb2929f1feb448fe9cd52c4a1" group-title="Hindi",Zee Action
-https://fifabangladesh.site/?id=42cbbb02-3573-4d3c-b4c3-34b4bda4115f
-#EXTINF:-1 tvg-id="ae006a57-1f88-4436-9acc-dd86bc0339a7" tvg-logo="https://s3.aynaott.com/storage/c4dd1933df5df7bf5d385e360f02c9a3" group-title="Hindi",Zee Bollywood
-https://fifabangladesh.site/?id=ae006a57-1f88-4436-9acc-dd86bc0339a7
-#EXTINF:-1 tvg-id="cd847504-8ebf-43ad-8beb-b53d80befb4b" tvg-logo="https://s3.aynaott.com/storage/c79b782d70458866537715e5ac842123" group-title="Hindi",& Pictures
-https://tvsen6.aynascope.net/andpictureshd/index.m3u8?e=1770107441&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=bd4673895f1e820f89f3df8142fe1564
-#EXTINF:-1 tvg-id="0e168ab9-1a05-4030-8b18-e7ff2342f7da" tvg-logo="https://s3.aynaott.com/storage/e6bd71c6cb9dec76ca78409beeacabb7" group-title="Hindi",& TV
-https://fifabangladesh.site/?id=0e168ab9-1a05-4030-8b18-e7ff2342f7da
-#EXTINF:-1 tvg-id="3d238aba-0b7f-4516-a6d6-c563e5814dbd" tvg-logo="https://s3.aynaott.com/storage/8bbc1a645fb65f85edfb0db03e7e4aff" group-title="Hindi",Zee TV
-https://fifabangladesh.site/?id=3d238aba-0b7f-4516-a6d6-c563e5814dbd
-#EXTINF:-1 tvg-id="acc55af3-9678-4714-b67c-5d734f5b8a5b" tvg-logo="https://s3.aynaott.com/storage/bb1e93cd63ca86130fe6f66393b7497b" group-title="Hindi",Zoom TV
-https://live.zoomnews.info/live/Zoom_playlist.m3u8
+
 #EXTINF:-1 tvg-id="4d5c3f29-c835-4920-8fa0-c0bafeaa31ed" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-id="97bad0e5-0210-4380-802c-12ce3b01f775" tvg-logo="https://s3.aynaott.com/storage/e6bd71c6cb9dec76ca78409beeacabb7" group-title="Hindi",&TV
