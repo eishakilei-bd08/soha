@@ -5,18 +5,12 @@
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T-Sports
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,group-title="E.I.🇧🇩",T20
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1,group-title="E.I.🇧🇩",FOOTBALL 
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Star Sports-1 Hindi" group-title="E.I.🇧🇩",Star Sports-1 Hindi
 https://starsportshindiii.pages.dev/360p.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png" group-title="E.I.🇧🇩",Willow Cricket FHD
 https://a1xs.vip/40000042
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="E.I.🇧🇩",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1771142474&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bcee61ad5ce261eae113f41751e08868
-
 #EXTINF:-1 tvg-logo="none" group-title="E.I.🇧🇩", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="StarJalsha HD" group-title="E.I.🇧🇩",StarJalsha HD
@@ -27,8 +21,6 @@ http://103.229.254.25:7001/play/a0d0/index.m3u8
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SONY LIVE
 http://103.180.212.191:3500/live/891.m3u8
-
-
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
