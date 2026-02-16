@@ -7910,11 +7910,6 @@ http://178.23.88.55/Sport1/index.m3u8
 http://178.23.88.55/Nova_Sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwbHWYY7/livesports.png" group-title="Football",Eurosport_2
 http://178.23.88.55/Eurosport_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",ТНТ4 International
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",ТНТ International
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery HD
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
