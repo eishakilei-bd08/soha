@@ -28,7 +28,8 @@ http://103.229.254.25:7001/play/a0dd/index.m3u8
 http://103.180.212.191:3500/live/891.m3u8
 
 
-
+#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png",Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 
@@ -4112,20 +4113,10 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png",Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto Tv
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://rajdhani.tv/assets/images/logo-3.png",Rajdhani Tv
-https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNmGMVx_q7pm7uc7-VHAbIkfISrgD1osEnA&s",Time Tv USA
-https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png",Me Tv
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaSYkEDvTEcvHrCnhwFcglj03M5dD9mIZlQ&s",Probashinews24
-http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
-#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png",Channel 24
-https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
-#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
-https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8 
+
+
+
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png",RTA Sports BD VS AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
