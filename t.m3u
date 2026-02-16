@@ -2412,22 +2412,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-id="0e1fb643-581b-40c5-bb62-1277a6a75ebf" tvg-logo="https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb" group-title="Sports",MORE THEN SPORTS TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="e0fe84eb-7d80-468c-8b1a-80fcaabf5629" tvg-logo="https://s3.aynaott.com/storage/38eb63a8019020c7508f126dfdc52120" group-title="Sports",ORIGIN SPORTS
-https://fifabangladesh.site/?id=e0fe84eb-7d80-468c-8b1a-80fcaabf5629
-#EXTINF:-1 tvg-id="5a010510-7f4f-491e-9f74-8438d5154202" tvg-logo="https://s3.aynaott.com/storage/5960aaf94efbce43d46c928eea3e1786" group-title="Sports",Sports Connect
-https://fifabangladesh.site/?id=5a010510-7f4f-491e-9f74-8438d5154202
-#EXTINF:-1 tvg-id="1d07a144-9c0f-4cfd-86f0-70cca1837f23" tvg-logo="https://s3.aynaott.com/storage/8cdfc82f17255fc347420b66fa340e9a" group-title="Sports",DAZN Women's Football
-https://fifabangladesh.site/?id=1d07a144-9c0f-4cfd-86f0-70cca1837f23
-#EXTINF:-1 tvg-id="033bbb18-00b9-4e7b-997b-9c738191be1d" tvg-logo="https://s3.aynaott.com/storage/bd9cb4eb67efbaa1818027aaa853ec50" group-title="Sports",CBS Sports HQ
-https://fifabangladesh.site/?id=033bbb18-00b9-4e7b-997b-9c738191be1d
-#EXTINF:-1 tvg-id="9b959c71-2276-44cb-9146-6a094d0649fe" tvg-logo="https://s3.aynaott.com/storage/bdcc9fb3f2916bce31a8fbaca9b7a847" group-title="Sports",Sportsman Channel
-https://fifabangladesh.site/?id=9b959c71-2276-44cb-9146-6a094d0649fe
-#EXTINF:-1 tvg-id="a3b44c1f-3086-4f46-a533-c34a55a30eb9" tvg-logo="https://s3.aynaott.com/storage/18c597586bf79247ee64d0f1b731baaa" group-title="Sports",Sky Sports Cricket HD
-https://fifabangladesh.site/?id=a3b44c1f-3086-4f46-a533-c34a55a30eb9
-#EXTINF:-1 tvg-id="bd578c46-5bce-409a-986d-376c85f20fc1" tvg-logo="https://s3.aynaott.com/storage/84ba7f5e1d4d98c09ed9519750de4da9" group-title="Sports",Super Premier HD
-https://fifabangladesh.site/?id=bd578c46-5bce-409a-986d-376c85f20fc1
-#EXTINF:-1 tvg-id="8e4fe384-51a5-454f-82b4-5e693739b716" tvg-logo="https://s3.aynaott.com/storage/37c199a90dc63a790d2e2710835318c7" group-title="Sports",Tigo Sports
-https://fifabangladesh.site/?id=8e4fe384-51a5-454f-82b4-5e693739b716
+
 #EXTINF:-1 tvg-id="0d69c371-f79e-40f8-8952-01be9e9cdb03" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9" group-title="Sports",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="d4ccf1ce-494f-4775-8017-c68107aa7c0c" tvg-logo="https://s3.aynaott.com/storage/02492d36cce4eb0cc125a01da9640a24" group-title="Sports",Antena Sports
