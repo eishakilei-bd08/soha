@@ -2397,28 +2397,12 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3b238911-d385-406a-b936-07550f30a4f3" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="Sports",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-id="71e96376-d08c-4314-b2d6-449ff40a90b0" tvg-logo="https://s3.aynaott.com/storage/4429e88eac56b0c7c7274ce36db967d8" group-title="Sports",Bahrain Sports 2
-https://tvsen6.aynascope.net/BahrainSports2/index.m3u8?e=1770107413&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=9dc775d5688b84b713da9725c3fd9bca
-#EXTINF:-1 tvg-id="e897cca2-8086-42cc-a492-e1f3e4d9aed9" tvg-logo="https://s3.aynaott.com/storage/833148a9228c3a12ef0effc8f265cf1f" group-title="Sports",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="54d1a43e-e26f-4a03-96b2-5911148617ae" tvg-logo="https://s3.aynaott.com/storage/aa0f071d143bf06ab94478b7cc2a4589" group-title="Sports",FanDuel Sports Network
-https://fifabangladesh.site/?id=54d1a43e-e26f-4a03-96b2-5911148617ae
+
 #EXTINF:-1 tvg-id="9f230f21-7a07-4b80-b845-77f9327ddad3" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086" group-title="Sports",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="e9c383b6-72cd-4825-b815-b388e8a7a5d9" tvg-logo="https://s3.aynaott.com/storage/1f08174ace89c73d3d4d8b72dd4601a4" group-title="Sports",Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ac46078-2bf0-4998-a021-37b459e09fba" tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="Sports",STAR SPORTS 2 HD
-https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1770107414&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=0bf5b890e9c4e9f260f7424a576dd825
-#EXTINF:-1 tvg-id="6669abd2-841b-4f76-8641-5ff355da7b8c" tvg-logo="https://s3.aynaott.com/storage/b736df0db29ccf8dad040bca51fd60df" group-title="Sports",Sports TV
-https://fifabangladesh.site/?id=6669abd2-841b-4f76-8641-5ff355da7b8c
-#EXTINF:-1 tvg-id="3905a25f-3d40-43a7-a6e9-62a2739ebe86" tvg-logo="https://s3.aynaott.com/storage/847e01ffbd07895a180471863e650c13" group-title="Sports",OAN Sports
-https://fifabangladesh.site/?id=3905a25f-3d40-43a7-a6e9-62a2739ebe86
-#EXTINF:-1 tvg-id="d2152bbb-64e0-4822-826b-60853ca1d056" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6" group-title="Sports",WOF 1
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="b7696339-88ae-4db8-af9d-ab2af8b7036b" tvg-logo="https://s3.aynaott.com/storage/a40c4dfd9f527fee2e72160f1766a32c" group-title="Sports",AfroSports Nigeria
-https://fifabangladesh.site/?id=b7696339-88ae-4db8-af9d-ab2af8b7036b
-#EXTINF:-1 tvg-id="aa54e0d5-31e1-4b39-b140-3e4b76756d45" tvg-logo="https://s3.aynaott.com/storage/f0789f6c3a89f3cf2d09f2cf7fbfb0af" group-title="Sports",CBC Sports
-https://fifabangladesh.site/?id=aa54e0d5-31e1-4b39-b140-3e4b76756d45
+
 #EXTINF:-1 tvg-id="862bc1f4-6430-4198-87c5-fa040776c1c7" tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="38b0853b-8333-4387-bd86-8437073a1c49" tvg-logo="https://s3.aynaott.com/storage/370762bb5582389fb52469931cdcd357" group-title="Sports",Pro Sports International
