@@ -8738,29 +8738,6 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
-http://87.255.35.150:18296/
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-http://66.102.120.18:8000/play/a005
-
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max
-https://bongoflixbd.top/test/live.php?id=sony_max&e=.m3u8
-
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
-https://bongoflixbd.top/test/live.php?id=sonymax_2&e=.m3u8
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
-http://103.175.242.10:8080/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
-https://bongoflixbd.top/test/live.php?id=zee_tv_hd&e=.m3u8
-
-
-#EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-
-
-
 
 #EXTM3U 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
