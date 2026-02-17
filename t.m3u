@@ -8,6 +8,8 @@
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NAGORIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Star Sport 2
+http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-name="StarSports 1 HD" group-title="E.I.🇧🇩",StarSports 1 HD
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T-Sports
@@ -31,6 +33,25 @@ http://103.180.212.191:3500/live/891.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+
+#EXTINF:-1,group-title="E.I.🇧🇩",COLORS
+http://103.99.249.139/colors/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SONY SAB
+http://103.99.249.139/sonysab/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SONY MAX
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",STAR GOLD
+http://103.99.249.139/stargold/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",ZEE CINEMA
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SONY TEN
+http://103.99.249.139/sonyten3/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",SONY YAY
+http://103.99.249.139/sonyyay/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",ANIMAL PLANET
+http://103.99.249.139/animalplanet/index.m3u8
+
+
 
 #EXTINF:-1 group-title="sports"  tvg-logo="https://goaltv.ca/st#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/102.png",T Sports
 https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=e7b18b2014f2a46ce542a75bee55602b22008beb-dfbb3e3054964cba62888238d8ab4a4c-1771273907-1771263107
