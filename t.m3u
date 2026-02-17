@@ -8169,8 +8169,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp" group-title="WAVES OTT",NDTV INDIA
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp" group-title="WAVES OTT",NEWS 24 THINK FIRST
-https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/master_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1518387989NEWS_NATION.webp" group-title="WAVES OTT",NEWS NATION
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp" group-title="WAVES OTT",NEWS 18 INDIA
@@ -8193,14 +8192,12 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp" group-title="WAVES OTT",B4U MOVIES
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp" group-title="WAVES OTT",DABANNG
-https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1372479421Frame_1597877905.webp" group-title="WAVES OTT",DD BHARATI
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp" group-title="WAVES OTT",DD NATIONAL HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/659096870E_24.webp" group-title="WAVES OTT",E24 MUSIC
-https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp" group-title="WAVES OTT",GANGAUR TV
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="WAVES OTT",MAIBOLI
