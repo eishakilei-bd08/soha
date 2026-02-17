@@ -27,8 +27,6 @@ https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
 http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" group-title="E.I.🇧🇩",Star Gold HD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",SONY LIVE
-http://103.180.212.191:3500/live/891.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
@@ -67,8 +65,6 @@ https://edge2.roarzone.info:444/roarzone/edge3/zee-cinema-hd/index.m3u8?token=f5
 https://edge2.roarzone.info:444/roarzone/edge3/zee-bollywood/index.m3u8?token=195d884ae63164f203d2dfb8b06481be9c1ff4cf-1c80a732d63a4320cb5412d2388872fe-1771273907-1771263107
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/90.png",Zee Action
 https://edge2.roarzone.info:444/roarzone/edge3/zee-action/index.m3u8?token=4042180c883162c88d9fb26f1264263766374f41-d965889191cb8dbd983e50337edd7327-1771273907-1771263107
-#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/67.png",Star Plus
-https://edge2.roarzone.info:444/roarzone/bk/67/index.m3u8?token=1114476b8a9063d14e268cded35f94b04a4bdd3d-6df2912e31cc7ff1d1bfc54b6ee3591f-1771273907-1771263107
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/74.png",And TV HD
 https://edge2.roarzone.info:444/roarzone/edge3/tv-hd/index.m3u8?token=c1f9de2954efe14e87e3d9697684f5455ad7170c-da24c8a29d47b0f6b6f3bd9c34f7f703-1771273907-1771263107
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/100.png",And Pictures
