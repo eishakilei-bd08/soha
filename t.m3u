@@ -2130,13 +2130,13 @@ http://103.229.254.25:7001/play/a063/index.m3u8
 #EXTM3U
 ##########Music🎼#########
 
-
-
-#EXTINF:-1,group-title="E.I.🇧🇩",ZOOM MUSIC 
+#EXTINF:-1,group-title="Music🎼",Music India 
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1,group-title="Music🎼",ZOOM MUSIC 
 http://103.175.73.12:8080/live/153/153_0.m3u
-#EXTINF:-1,group-title="E.I.🇧🇩",OXM
+#EXTINF:-1,group-title="Music🎼",OXM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",BAU Music 
+#EXTINF:-1,group-title="Music🎼",BAU Music 
 http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Music🎼", Benguli Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
