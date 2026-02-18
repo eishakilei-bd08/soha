@@ -855,6 +855,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1,group-title="KIDS😺",SUPER HUNGAMA
 http://103.175.73.12:8080/live/128/128_0.m3u8
+#EXTINF:-1,group-title="KIDS",NICK HINDI
+http://103.175.73.12:8080/live/121/121_0.m3u8
 #EXTINF:-1 tvg-name="ZB Kartun" group-title="KIDS😺",ZB Kartun
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="KIDS😺" audio-track="Eng", JimJam
