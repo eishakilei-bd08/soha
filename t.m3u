@@ -98,8 +98,6 @@ https://edge2.roarzone.info:444/roarzone/edge3/sony-aath/index.m3u8?token=ef8ecb
 https://edge2.roarzone.info:444/roarzone/edge3/cartoon-network-hd/index.m3u8?token=01bec6baeaa235bd182653963f99ea8877a0e0fb-2fcf9c6113e48bf1432ed20f1785d2f0-1771273907-1771263107
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network.webp",Cartoon Network
 https://edge2.roarzone.info:444/roarzone/edge3/cartoon-network/index.m3u8?token=4cade4c6321ca0ff6891c3ef49d41dd7095c9a41-d9e49f56df1e45dc84a2b7fcc842fc6a-1771273907-1771263107
-#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/55.png",Nick
-https://edge2.roarzone.info:444/roarzone/bk/55/index.m3u8?token=6518d51938cd1741cf637f66c003d0d23c3c0fec-c21e59eaf2c29be59ecbae14c0ddb1fc-1771273907-1771263107
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/pogo.png",POGO
 https://edge2.roarzone.info:444/roarzone/edge3/pogo/index.m3u8?token=bccc8074b6dd7349fc6ccb2f26ddc0f4d2a8eee1-520123c2c7e48a32dd357aee40a33944-1771273907-1771263107
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/discoverykids.png",Discovery Kids
