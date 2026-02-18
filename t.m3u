@@ -842,11 +842,13 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 
 
-
-
 #EXTM3U
 #######KIDS😺########
 
+
+
+#EXTINF:-1 tvg-name="ZB Kartun" group-title="KIDS😺",ZB Kartun
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="KIDS😺" audio-track="Eng", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="a8b5e07e-b775-415f-b71f-9391bacc9e30" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="KIDS😺",Dios Te Ve Kids
@@ -3219,8 +3221,6 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 
 #EXTINF:-1 tvg-name="R Plus Gould" group-title="Indian-Bangla",R Plus Gould
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
-#EXTINF:-1 tvg-name="ZB Kartun" group-title="Kids",ZB Kartun
-https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-name="ZB Cinema" group-title="Indian-Bangla",ZB Cinema
