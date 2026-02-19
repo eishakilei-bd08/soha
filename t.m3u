@@ -3342,8 +3342,6 @@ https://7pal.short.gy/prsport1
 
 
 
-#EXTINF:-1 tvg-name="BhiChannel" group-title="Indian Bangla",BhiChannel
-http://15.235.185.236/hls/bhi.m3u8
 
 #EXTINF:-1 tvg-name="Colors Cineplex HD" group-title="Hindi",Colors Cineplex HD
 https://cdn-2.pishow.tv/live/228/228_1.m3u8
@@ -4173,9 +4171,8 @@ https://cdn-4.pishow.tv/live/1499/1499_2.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla🇮🇳",R Plus Gould
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
-
-
-
+#EXTINF:-1 tvg-name="BhiChannel" group-title="Indian Bangla🇮🇳",BhiChannel
+http://15.235.185.236/hls/bhi.m3u8
 
 
 
