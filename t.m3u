@@ -2382,20 +2382,11 @@ https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="6a3da04b-dacc-441f-9549-71da39b5af07" tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Music🎼",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music🎼",YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music🎼",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png" group-title="Music🎼",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="Music🎼",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music🎼",B4U Music
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png" group-title="Music🎼",Zoom
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
-#EXTINF:-1,group-title="Music🎼",Ox Jalwa
-http://103.180.212.191:3500/live/450.m3u8
+
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Music🎼",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="Music🎼" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",ATN Music
