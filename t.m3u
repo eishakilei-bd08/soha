@@ -2789,8 +2789,6 @@ https://cdn-1.pishow.tv/live/235/master.m3u8
 https://www.tbn24.com/live-tv-stream/20201_.m3u8
 #EXTINF:1 tvg-name="Discovery kids" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Kids.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Discovery kids
 
-#EXTINF:1 tvg-name="Pogo" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Pogo.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Pogo
-
 #EXTINF:1 tvg-name="Gubbare" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Gubbare.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:1 tvg-name="Animal planet Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Animal%20planet.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Animal planet
@@ -2826,28 +2824,14 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:1 tvg-name="Me Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Me%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Me Tv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Mon%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Mon tv 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Amar%20Digital.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Amar Digita
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Amar%20Bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Amar Bangla
 
 #EXTINF:1 tvg-name="Probasi Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Probashi%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Probasi Tv 
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sun%20bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Sun Bangla
-
-#EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/And%20&%20TV.jpg?raw=true" tvg-chno="-tv" group-title="SIYAM VAI❤️‍🔥",& TV (And TV)
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla+%20plus.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla+ plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:1 tvg-name="HUM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/HUMTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-
-
-#EXTINF:1 tvg-id="578" tvg-name="History TV18 HD (HINDI)" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/History%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",History TV18
-
-
-
 
 #EXTINF:-1 tvg-name="Hindi movies" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Hindi movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -2873,10 +2857,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Salam%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Salaam Tv
-
-#EXTINF:-1 tvg-name="A Sports" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/A%20sport.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",A sports
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Madani%20channel%20bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",MADANI CHANNEL
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
