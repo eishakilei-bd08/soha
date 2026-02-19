@@ -2,8 +2,7 @@
 #########E.I.🇧🇩###########
 
 
-#EXTINF:1 tvg-name="T Sports" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Sports.jpg?raw=true" group-title="E.I.🇧🇩",T Sports
-https://sonamul3535.vercel.app/T-sport.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="E.I.🇧🇩",2026
 http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star Sport 2
