@@ -2440,35 +2440,35 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
-EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/DwLsr7XP/DBC-News.png" group-title="Bangla🇧🇩",DBC News
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/DwLsr7XP/DBC-News.png" group-title="SIYAM VAI❤️‍🔥",DBC News
 https://sonamul3535.vercel.app/DBC-News.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Satv.jpg?raw=true" group-title="Bangla🇧🇩",SA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Satv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",SA TV
 https://sonamul3535.vercel.app/SATV.m3u8
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="Bangla🇧🇩",Bijoy TV
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bijoy TV
 https://sonamul3535.vercel.app/Bijoy-Tv.m3u8
-#EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="Bangla🇧🇩",G TV
+#EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",G TV
 https://sonamul3535.vercel.app/G-TV.m3u8
-#EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="Bangla🇧🇩",Anananda Tv
+#EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="SIYAM VAI❤️‍🔥",Anananda Tv
 https://sonamul3535.vercel.app/Ananda-Tv.m3u8
-#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="Bangla🇧🇩",Boishakhi tv
+#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Boishakhi tv
 https://sonamul3535.vercel.app/Boishakhi.m3u8
-#EXTINF:-1 tvg-name="NEWS 24" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/News24.jpg?raw=true" group-title="Bangla🇧🇩",NEWS 24
+#EXTINF:-1 tvg-name="NEWS 24" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/News24.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",NEWS 24
 https://sonamul3535.vercel.app/News-24.m3u8
-#EXTINF:1 tvg-name="MY TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Mytv.jpg?raw=true" group-title="Bangla🇧🇩",MY TV
+#EXTINF:1 tvg-name="MY TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Mytv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",MY TV
 https://sonamul3535.vercel.app/My-Tv.m3u8
-#EXTINF:-1 tvg-id="channel9" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Channel9.jpg?raw=true" group-title="Bangla🇧🇩",Channel 9
+#EXTINF:-1 tvg-id="channel9" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Channel9.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Channel 9
 https://sonamul3535.vercel.app/Channel-9.m3u8
-#EXTINF:-1 tvg-id="global" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Global%20Tv.jpg?raw=true" group-title="Bangla🇧🇩",Global TV
+#EXTINF:-1 tvg-id="global" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Global%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Global TV
 https://sonamul3535.vercel.app/Global-Tv.m3u8
-#EXTINF:-1 tvg-id="mohonatv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Mohona%20tv.jpg?raw=true" group-title="Bangla🇧🇩",Mohona TV
+#EXTINF:-1 tvg-id="mohonatv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Mohona%20tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Mohona TV
 https://sonamul3535.vercel.app/Mohona-Tv.m3u8
-#EXTINF:-1 tvg-id="Asian" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Acian%20tv.jpg?raw=true" group-title="Bangla🇧🇩",Asian TV
+#EXTINF:-1 tvg-id="Asian" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Acian%20tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Asian TV
 https://sonamul3535.vercel.app/Asian-Tv.m3u8
-#EXTINF:-1 tvg-id="RTv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/RTV.jpg?raw=true" group-title="Bangla🇧🇩",RTV
+#EXTINF:-1 tvg-id="RTv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/RTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",RTV
 https://sonamul3535.vercel.app/Rtv.m3u8
-#EXTINF:-1 tvg-name="DESH TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Desh%20TV.jpg?raw=true" group-title="Bangla🇧🇩",DESH TV
+#EXTINF:-1 tvg-name="DESH TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Desh%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",DESH TV
 https://sonamul3535.vercel.app/Desh-tv.m3u8
-#EXTINF:1 tvg-name="Bangla TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20TV.jpg?raw=true" group-title="Bangla🇧🇩",Bangla TV
+#EXTINF:1 tvg-name="Bangla TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla TV
 https://sonamul3535.vercel.app/Bangla-tv.m3u8
 
 
