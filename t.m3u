@@ -2137,8 +2137,6 @@ http://103.229.254.25:7001/play/a063/index.m3u8
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1,group-title="Music🎼",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1,group-title="Music🎼",ZOOM MUSIC 
-http://103.175.73.12:8080/live/153/153_0.m3u
 #EXTINF:-1,group-title="Music🎼",OX jalwa
 http://103.175.73.12:8080/live/161/161_0.m3u8
 #EXTINF:-1,group-title="Music🎼",OXM
@@ -2151,36 +2149,12 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
 #EXTINF:-86 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Music🎼", Music India
 https://cdn-2.pishow.tv/live/226/226_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png"group-title="Music🎼", 8X music
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="Music🎼", Mtv Beats
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music🎼", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="bdf309a5-d732-45d8-989a-5ad5defd0224" tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="Music🎼",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="YRF Music HD" group-title="Music🎼",YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="B4u Music" group-title="Music🎼",B4u Music
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts
-#EXTINF:-1 tvg-name="30AMusic" group-title="Music🎼",30AMusic
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-name="LoveDoes" group-title="Music🎼",LoveDoes
-https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
-#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="Music🎼",Zoom TV
-http://opplex.org:8080/live/36254571/3526987/66190.ts
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="Music🎼",9xm
-http://opplex.org:8080/live/36254571/3526987/66192.ts
-#EXTINF:-1 tvg-id="" tvg-name="B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="Music🎼",B4u Music
-http://opplex.org:8080/live/36254571/3526987/66203.ts
-#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="Music🎼",9x Jalwa
-http://opplex.org:8080/live/36254571/3526987/66226.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV BEAT" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="Music🎼",MTV BEAT
-http://opplex.org:8080/live/36254571/3526987/66273.ts
-#EXTINF:-1 tvg-id="" tvg-name="YRF MUSIC" tvg-logo="" group-title="Music🎼",YRF MUSIC
-http://opplex.org:8080/live/36254571/3526987/383530.ts
-#EXTINF:-1 tvg-id="" tvg-name="SHOWBOX MUSIC" tvg-logo="" group-title="Music🎼",SHOWBOX MUSIC
-http://opplex.org:8080/live/36254571/3526987/383529.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="pun: Pittara TV" tvg-logo="" group-title="Music🎼",Pittara TV
 http://opplex.org:8080/live/36254571/3526987/66285.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="Music🎼",Sangeet Bangla
