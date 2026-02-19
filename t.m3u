@@ -2438,58 +2438,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:1 tvg-name="SRKTV BANGLA" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/SrkTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",SRKTV Bangla
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/DBC%20News.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",DBC News
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EkhonTv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Ekhon Tv
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bijoytv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bijoy TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="G TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",G TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="Anananda Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Anandotv.png?raw=true" group-title="SIYAM VAI❤️‍🔥",Anananda Tv
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Boisakhi.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Boishakhi tv
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="Green TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Green%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Green TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="NEWS 24" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/News24.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",NEWS 24
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="MY TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Mytv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",MY TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="channel9" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Channel9.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Channel 9
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Global%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Global TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="mohonatv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Mohona%20tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Mohona TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="Asian" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Acian%20tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Asian TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/RTV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",RTV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="DESH TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Desh%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",DESH TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Bangla TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Bangla TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sananda%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Sananda Tv
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tv%20One.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",TV ONE
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Deen%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Deen TV UK
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Iqro%20Bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",IQRA BANGLA
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Islamic%20Bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",ISLAMIC BANGLA
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="Azan TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Azan%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Azan TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="Ten TV Prime" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Ten%20TV%20Prime.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Ten TV Prime
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-name="Star News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20News.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Star News
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="zoom1" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zoom.jpg?raw=true" tvg-chno="zoom" group-title="SIYAM VAI❤️‍🔥",Zoom
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8|referer=https://www.jagobd.com
-
 #EXTINF:1 tvg-name="T Sports" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Sports.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",T Sports
 #https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
