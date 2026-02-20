@@ -29,7 +29,8 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 
 
-
+#EXTINF:-1,group-title="E.I.🇧🇩",NEWS 24 HD
+http://103.96.235.18:9090/sports2/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
