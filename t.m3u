@@ -10065,29 +10065,6 @@ https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8?hdnts=st%3D17
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-ENGLISH-TV-SPA_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8?hdnts=st%3D1770292937~exp%3D1770314537~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-ENGLISH-TV-SPA_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa5e9aebd-1df4-4e56-be4f-33a891756f9b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_66_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_66_-1~hmac%3D755b87a00cc3b372230b22cb4908f7a35c64829ed7b520b43c81f18d933863ac
 
-#EXTINF:-1 tvg-id="251" tvg-chno="327" tvg-name="turito-iit-jee" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png" group-title="ASIAN", Turito IIT JEE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thiit.smil/playlist.m3u8?hdnts=st%3D1770292938~exp%3D1770314538~acl%3D%21%2A%2F181224%2Fsmil%3Aymcc12thiit.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_251_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_251_-1~hmac%3Db98f989ce06a6eea954209b36a58d43efd4ff0567bcadd471c2e3610696c66a2
-
-#EXTINF:-1 tvg-id="252" tvg-chno="328" tvg-name="turito-neet" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png" group-title="ASIAN", Turito NEET
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st%3D1770292938~exp%3D1770314538~acl%3D%21%2A%2F181224%2Fsmil%3Aymcc12thneet.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_252_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_252_-1~hmac%3Df5b91700f4e938659c01b187e12cf6095867fb2c42dab80cb7eeeaf9e013306b
-
-#EXTINF:-1 tvg-id="178" tvg-chno="432" tvg-name="t-sat-nipuna" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png" group-title="ASIAN", T-SAT Nipuna
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/110923/smil:tsatnipuna.smil/playlist.m3u8?hdnts=st%3D1770292939~exp%3D1770314539~acl%3D%21%2A%2F110923%2Fsmil%3Atsatnipuna.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_178_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_178_-1~hmac%3D134331a72ddc557105ceb91aaa4f572e2e1d1a3fdee0b5369796ed9b67e5fba0
-
-#EXTINF:-1 tvg-id="193" tvg-chno="433" tvg-name="t-sat-vidya" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png" group-title="ASIAN", T-SAT Vidya
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppirecloriginvt.akamaized.net/110923/smil:tsatvidya1.smil/playlist.m3u8?hdnts=st%3D1770292939~exp%3D1770314539~acl%3D%21%2A%2F110923%2Fsmil%3Atsatvidya1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_193_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.161.77.162_yuppfast_2_channel_193_-1~hmac%3D20751f8a6a5784c4635beaa9fd4fbd3cf85ce27c908f94d123ebc859d17c0d43
 
 #EXTINF:-1 tvg-id="276" tvg-chno="323" tvg-name="space-series" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png" group-title="ASIAN", SPACE SERIES
 #KODIPROP:inputstream=inputstream.adaptive
