@@ -2608,9 +2608,6 @@ https://cdn-1.pishow.tv/live/235/master.m3u8
 https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:1 tvg-name="B4U KADAK" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/B4U%20Kaddak.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
-
-#EXTINF:1 tvg-name="The Q" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/The%20QTv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",The Q
-https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Hindi%20Hits.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Hindi Hits
 https://mumt01.tangotv.in/HINDIHITS/index.m3u8
 #EXTINF:-1 tvg-name="ALL TIME MOVIES" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/All%20Time%20Movies.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",ALL TIME MOVIES
@@ -2710,9 +2707,6 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:1 tvg-name="T Series" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-name="Magic Bangla" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Magic%20Bangla.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Magic Bangla
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EnterTen%20Bangla%202.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Enter10Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:1 tvg-name="Tara Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tara%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Tara Tv
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:1 tvg-name="Me Tv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Me%20TV.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Me Tv
