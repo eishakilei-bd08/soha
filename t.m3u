@@ -3950,8 +3950,7 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
@@ -3983,11 +3982,6 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://103.182.170.32:8888/play/a046
 https://ultrashort.info/5yLqax
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/d1PgMzVF/Star-Jalsha.jpg",Star Jalsha
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -4059,41 +4053,15 @@ https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD (Ads Only) 
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-
 #EXTINF:-1 group-title="Indian Bangla🇮🇳", tvg-id="", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE BANGLA Chinema
 https://edge2.roarzone.info:8444/roarzone/bk/29/index.m3u8?token=bbf9e82ed18fb6c23e50e8543261ce2f9b08f187-1dee36755c473f2cd081c30fb10c9b1e-1768160191-1768156591
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-
-
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/1e4516fa-023a-4807-8e3d-479b346b4a62/2.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Akash Aath
 https://cdn-4.pishow.tv/live/969/969_1.m3u8
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/ZRvqBZrC/Amar-Bangla.jpg",Amar Bangla
-
-
-#EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Amar Bangla Digital
-
-
 #EXTINF:-1 group-title="Indian Bangla🇮🇳" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
@@ -4136,8 +4104,6 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian Bangla🇮🇳",Jalsha Movies SD
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian Bangla🇮🇳",Zee Bangla HD
-https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian Bangla🇮🇳",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian Bangla🇮🇳",Colors Bangla
@@ -4168,8 +4134,6 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-1 tvg-name="BhiChannel" group-title="Indian Bangla🇮🇳",BhiChannel
 http://15.235.185.236/hls/bhi.m3u8
-
-
 
 
 
