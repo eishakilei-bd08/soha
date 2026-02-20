@@ -2554,37 +2554,14 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Star Gold
 http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
-
 #EXTINF:1 tvg-name="Star Gold" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Gold.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Star Gold
 http://103.229.254.25:7001/play/a0df/index.m3u8
 #EXTINF:1 tvg-id="550" tvg-name="Discovery kids" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Kids.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Discovery kids
 http://103.229.254.25:7001/play/a0dg/index.m3u8
 #EXTINF:1 tvg-id="559" tvg-name="Pogo" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Pogo.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Pogo
 http://103.229.254.25:7001/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-id="756" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20Bangla%20HD.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",colors_bangla_hd
-http://imnoob.site/new.php?id=JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD-audio_108035_ben=108000-video=662800.m3u8
-
-#EXTINF:-1 tvg-id="279" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rishtey.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",rishtey
-http://imnoob.site/new.php?id=JC_ColorsRishtey/JCHLS/JC_ColorsRishtey-audio_98835_hin=98800-video=658800.m3u8
-http://103.175.73.12:8080/live/12/12_0.m3u8
-#EXTINF:-1 tvg-id="1777" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20Hd.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",cineplex_hd
-http://imnoob.site/new.php?id=JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD-audio_98835_hin=98800-video=658800.m3u8
-http://103.175.73.12:8080/live/37/37_0.m3u8
-#EXTINF:-1 tvg-id="1763" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20Bollywood.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",cineplex_bollywood
-http://imnoob.site/new.php?id=JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood-audio_98835_hin=98800-video=658800.m3u8
-https://raw.githubusercontent.com/sonamul4545/Channel_logo-s/refs/heads/main/2.No%20Signal%20Apps%20change.mp4
-#EXTINF:-1 tvg-id="1450" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20superhit.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",cineplex_superhits
-http://imnoob.site/new.php?id=JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit-audio_98835_hin=98800-video=658800.m3u8
-http://103.175.73.12:8080/live/14/14_0.m3u8
-#EXTINF:-1 tvg-id="1145" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/MTV%20HD.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",mtv_hd
-http://imnoob.site/new.php?id=JC_MTVHD/JCHLS/JC_MTVHD-audio_98835_eng=98800-video=658800.m3u8
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6582/index.m3u8
-#EXTINF:1 tvg-id="1998" tvg-name="Star Sports" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Sports.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Star Sports
-http://imnoob.site/new.php?id=2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0-audio_98838_hin=98800-video=658800.m3u8
-http://103.229.254.25:7001/play/a0dn/index.m3u8
 #EXTINF:1 tvg-name="SAMAY KOLKATA" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/SamayKolkata.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",SAMAY KOLKATA
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rangeen%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Rongeen Tv
 https://cdn-4.pishow.tv/live/1029/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Khushboo%20Tv.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Khushboo 
