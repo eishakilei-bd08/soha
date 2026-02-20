@@ -2555,29 +2555,12 @@ https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Star Gold
 http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
 
-
 #EXTINF:1 tvg-name="Star Gold" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Gold.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Star Gold
 http://103.229.254.25:7001/play/a0df/index.m3u8
-
-#EXTINF:1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20Hindi.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Nick Hindi
-http://imnoob.site/new.php?id=JC_NickSD/JCHLS/JC_NickSD-audio_108041_hin=108000-video=662800.m3u8
-http://103.175.73.12:8080/live/121/121_0.m3u8
-#EXTINF:1 tvg-id="515" tvg-name="Sonic Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sonic%20Hindi.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Sonic Hindi
-http://imnoob.site/new.php?id=JC_SonicNick/JCHLS/JC_SonicNick-audio_108041_hin=108000-video=662800.m3u8
-http://103.175.73.12:8080/live/124/124_0.m3u8
-#EXTINF:1 tvg-id="548" tvg-name="nickjr hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20jr.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",NickJr
-http://imnoob.site/new.php?id=JC_NickJr/JCHLS/JC_NickJr-audio_98836_eng=98800-video=658800.m3u8
-http://103.175.73.12:8080/live/125/125_0.m3u8
-http://103.229.254.25:7001/play/a0di/index.m3u8
 #EXTINF:1 tvg-id="550" tvg-name="Discovery kids" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Kids.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Discovery kids
 http://103.229.254.25:7001/play/a0dg/index.m3u8
 #EXTINF:1 tvg-id="559" tvg-name="Pogo" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Pogo.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Pogo
 http://103.229.254.25:7001/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-id="573" tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="SIYAM VAI❤️‍🔥",Discovery Bangla
-http://cdnd.sonyplex.com:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20HD.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",colors_hd
-http://imnoob.site/new.php?id=JC_ColorsHD/JCHLS/JC_ColorsHD-audio_98835_hin=98800-video=658800.m3u8
-http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="756" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20Bangla%20HD.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",colors_bangla_hd
 http://imnoob.site/new.php?id=JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD-audio_108035_ben=108000-video=662800.m3u8
 
