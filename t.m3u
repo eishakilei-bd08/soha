@@ -2544,9 +2544,6 @@ http://103.175.73.12:8080/live/56/56_0.m3u8
 http://103.175.73.12:8080/live/57/57_0.m3u8
 #EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zoom.jpg?raw=true" tvg-chno="zoom" group-title="SIYAM VAI❤️‍🔥",Zoom
 http://103.175.73.12:8080/live/153/153_0.m3u8
-#EXTINF:-1
-#EXTINF:-1 group-title="SIYAM VAI❤️‍🔥" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Aath.jpg?raw=true",Sony Aat VIP
-http://cdnd.sonyplex.com:8090/hls/SonyAtth.m3u8
 #EXTINF:1 tvg-name="Travelxp" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tavelxp.jpg?raw=true" group-title="SIYAM VAI❤️‍🔥",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SIYAM VAI❤️‍🔥" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
