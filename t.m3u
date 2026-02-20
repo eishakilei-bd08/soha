@@ -34,17 +34,17 @@ http://103.96.235.18:9090/sports2/index.m3u8
 
 
 
-#EXTINF:-1,group-title="E.I.🇧🇩",
+#EXTINF:-1,group-title="E.I.🇧🇩",JAMUNA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",
+#EXTINF:-1,group-title="E.I.🇧🇩",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",
+#EXTINF:-1,group-title="E.I.🇧🇩",CHANNEL 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",
+#EXTINF:-1,group-title="E.I.🇧🇩",INDEPENDENT
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",
+#EXTINF:-1,group-title="E.I.🇧🇩",EKATTOR
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",
+#EXTINF:-1,group-title="E.I.🇧🇩",ATN News 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",
 https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
