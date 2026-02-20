@@ -6,8 +6,7 @@
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="E.I.🇧🇩", SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="E.I.🇧🇩",2026
-http://163.61.227.29:8000/play/a05l/index.m3u8
+
 #EXTINF:-1,group-title="E.I.🇧🇩",Star Sport 2
 http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-name="StarSports 1 HD" group-title="E.I.🇧🇩",StarSports 1 HD
