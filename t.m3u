@@ -27,12 +27,6 @@ http://103.229.254.25:7001/play/a0d0/index.m3u8
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",71 HD
-http://103.96.235.18:9090/sports3/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",NEWS 24 HD
-http://103.96.235.18:9090/sports2/index.m3u8
 
 
 
@@ -864,6 +858,10 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.t
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="30AMusic" group-title="E.I.🇧🇩",30AMusic
 https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Makka TV" group-title="E.I.🇧🇩",Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Wild Tv
