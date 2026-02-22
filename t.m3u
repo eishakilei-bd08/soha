@@ -70,16 +70,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-
-
-
-
 #EXTINF:-1,group-title="E.I.🇧🇩",MAX1
 http://103.175.73.12:8080/live/164/164_0.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",ZING
 http://103.175.73.12:8080/live/154/154_0.m3u8
-
 #EXTINF:-1,group-title="E.I.🇧🇩",COLORS
 http://103.99.249.139/colors/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SONY SAB
@@ -96,7 +90,6 @@ http://103.99.249.139/sonyten3/index.m3u8
 http://103.99.249.139/sonyyay/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",ANIMAL PLANET
 http://103.99.249.139/animalplanet/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/38.png",Sony TV
 https://edge2.roarzone.info:444/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=ca133d1b22c9504ba58f49886f2557eab6df34c9-da6635bd4d4ee696804052d56526a445-1771273907-1771263107
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://tvassets.roarzone.info/images/sonymax.png",Sony Max
