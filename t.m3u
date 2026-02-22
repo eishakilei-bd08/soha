@@ -713,27 +713,27 @@ https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-id="c7b00628-bc52-4609-be0a-ad02a16e4c04" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="E.I.🇧🇩",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩"TVE HD
+#EXTINF:-1,group-title="E.I.🇧🇩",TVE HD
 http://streaming.sattvgo.com.br/TVE/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" BAND HD
+#EXTINF:-1,group-title="E.I.🇧🇩", BAND HD
 http://streaming.sattvgo.com.br/BAND_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" A&E HD
+#EXTINF:-1,group-title="E.I.🇧🇩", A&E HD
 http://streaming.sattvgo.com.br/AE_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" AXN HD
+#EXTINF:-1,group-title="E.I.🇧🇩", AXN HD
 http://streaming.sattvgo.com.br/AXN_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩"HBO HD
+#EXTINF:-1,group-title="E.I.🇧🇩",HBO HD
 http://streaming.sattvgo.com.br/HBO/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩"HBO2 HD
+#EXTINF:-1,group-title="E.I.🇧🇩",HBO2 HD
 http://streaming.sattvgo.com.br/HBO2/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩"HBO+ PLUS HD
+#EXTINF:-1,group-title="E.I.🇧🇩",HBO+ PLUS HD
 http://streaming.sattvgo.com.br/HBO_PLUS/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩"HBO Family HD
+#EXTINF:-1,group-title="E.I.🇧🇩",HBO Family HD
 http://streaming.sattvgo.com.br/HBO_FAMILY/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" HBO Pop HD
+#EXTINF:-1,group-title="E.I.🇧🇩", HBO Pop HD
 http://streaming.sattvgo.com.br/HBO_POP_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩"HBO Mundı HD
+#EXTINF:-1,group-title="E.I.🇧🇩",HBO Mundı HD
 http://streaming.sattvgo.com.br/HBO_MUNDI_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩" HBO SIGNATURE HD
+#EXTINF:-1,group-title="E.I.🇧🇩", HBO SIGNATURE HD
 http://streaming.sattvgo.com.br/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩", HBO XTREME HD
 http://streaming.sattvgo.com.br/HBO_EXTREME_HD/index.m3u8
@@ -878,8 +878,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-name="Bollywood Movies" group-title="E.I.🇧🇩",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-name="4/7 Doraemon" group-title="E.I.🇧🇩",24/7 Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 tvg-id="4e74c2fe-7685-4716-8cfc-ff742280f904" tvg-logo="https://s3.aynaott.com/storage/21992f5e8529a9d2a94b6edf917dbd8f" group-title="E.I.🇧🇩",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="8b15f84b-674b-420e-843a-47c71d0c15e2" tvg-logo="https://s3.aynaott.com/storage/6dd20ecde19ea3f6b6cf6c040701973e" group-title="E.I.🇧🇩",Fox Weather
