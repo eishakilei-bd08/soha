@@ -2866,6 +2866,8 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 ###############BD🇧🇩#############
 
+#EXTINF:-1,group-title="BD🇧🇩",Z Bangla
+http://103.175.73.12:8080/live/373/373_0.m3u8
 #EXTINF:-1,group-title="BD🇧🇩",Discovery Bangla 
 http://103.229.254.25:7001/play/a0dr/index.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BD🇧🇩", BTV
