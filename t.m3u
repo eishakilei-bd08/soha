@@ -36,6 +36,38 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star Gold
 http://103.175.73.12:8080/live/40/40_0.m3u8
 
+
+
+
+#EXTINF:-1,group-title="E.I.🇧🇩", Bangla TV HD
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Bhi Channel
+http://15.235.185.236/hls/bhi.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Global TV
+http://116.204.149.16/globaltv/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Maasranga TV
+http://116.204.149.16/maasranga/index.m3u8
+
+http://116.204.149.16/cartoon_network/index.m3u8
+
+http://116.204.149.16/bbc_news/index.m3u8
+
+#EXTINF:-1,group-title="E.I.🇧🇩", Star Jalsha HD
+http://103.182.170.32:8888/play/a046
+
+#EXTINF:-1,group-title="E.I.🇧🇩", MADANI TV FHD
+http://203.18.159.115/MADANITVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Bangla TV HD
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Bhi Channel
+http://15.235.185.236/hls/bhi.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", GLOBAL TV
+http://116.204.149.16/globaltv/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Maasranga TV
+http://116.204.149.16/maasranga/index.m3u8
+
+
+
 #EXTINF:-1,group-title="E.I.🇧🇩",JAMUNA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SOMOY TV
