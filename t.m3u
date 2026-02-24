@@ -47,7 +47,7 @@ http://15.235.185.236/hls/bhi.m3u8
 http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩", Maasranga TV
 http://116.204.149.16/maasranga/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",CN
 http://116.204.149.16/cartoon_network/index.m3u8
 
 http://116.204.149.16/bbc_news/index.m3u8
