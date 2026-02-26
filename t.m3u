@@ -1,6 +1,8 @@
 #EXTM3U
 #########E.I.🇧🇩###########
 
+#EXTINF:-1,group-title="E.I.🇧🇩",T-SPORTS
+http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T Sports
 http://103.158.133.62:8080/live/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T SPORTS HD
