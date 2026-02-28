@@ -928,7 +928,9 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="0158eec7-6eb2-4dac-83ac-78da727c3134" tvg-logo="https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d" group-title="E.I.🇧🇩",Discover Pikstan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-
+#EXTM3U 
+#######ROARZONE#########
+https://raw.githubusercontent.com/siam3310/roarzone-test/refs/heads/main/playlist.m3u
 
 
 #EXTM3U
