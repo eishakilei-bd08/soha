@@ -15,7 +15,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-name="StarSports 1 HD" group-title="E.I.🇧🇩",StarSports 1 HD
 http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",T20
+#EXTINF:-1,group-title="E.I.🇧🇩",Sky Sport 
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-name="Star Sports-1 Hindi" group-title="E.I.🇧🇩",Star Sports-1 Hindi
 https://starsportshindiii.pages.dev/360p.m3u8
@@ -31,27 +31,25 @@ http://103.229.254.25:7001/play/a0dd/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star Gold
 http://103.175.73.12:8080/live/40/40_0.m3u8
-
-
-Colors 
+#EXTINF:-1,group-title="E.I.🇧🇩",COLORS
 http://103.99.249.139/colors/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",SONY SAB
 http://103.99.249.139/sonysab/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",SONY MAX
 http://103.99.249.139/sonymax/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",STAR GOLD
 http://103.99.249.139/stargold/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",ZEE Cinema
 http://103.99.249.139/zeecinema/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",Sony ten
 http://103.99.249.139/sonyten3/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",STARS SPORT 
 http://103.99.249.139/starsport1/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",STAR Sport 
 http://103.99.249.139/starsport2/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",Sony Yay
 http://103.99.249.139/sonyyay/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",Animal Planet 
 http://103.99.249.139/animalplanet/index.m3u8
 
 #EXTINF:-1,group-title="E.I.🇧🇩", Bangla TV HD
@@ -64,7 +62,7 @@ http://116.204.149.16/globaltv/index.m3u8
 http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",CN
 http://116.204.149.16/cartoon_network/index.m3u8
-
+#EXTINF:-1,group-title="E.I.🇧🇩",BBC news 
 http://116.204.149.16/bbc_news/index.m3u8
 
 #EXTINF:-1,group-title="E.I.🇧🇩", Star Jalsha HD
