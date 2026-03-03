@@ -17,6 +17,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star Sport 2
 http://103.99.249.139/starsport2/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",STARS SPORT 
+http://103.99.249.139/starsport1/index.m3u8
 #EXTINF:-1 tvg-name="StarSports 1 HD" group-title="E.I.🇧🇩",StarSports 1 HD
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Sky Sport 
@@ -43,10 +45,6 @@ http://103.99.249.139/stargold/index.m3u8
 http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Sony ten
 http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",STARS SPORT 
-http://103.99.249.139/starsport1/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",STAR Sport 
-http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Sony Yay
 http://103.99.249.139/sonyyay/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Animal Planet 
