@@ -94,12 +94,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",MAX1
-http://103.175.73.12:8080/live/164/164_0.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",ZING
-http://103.175.73.12:8080/live/154/154_0.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",COLORS
-http://103.99.249.139/colors/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SONY SAB
 http://103.99.249.139/sonysab/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SONY MAX
