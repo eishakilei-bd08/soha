@@ -2863,6 +2863,8 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 ###############BD🇧🇩#############
 
+#EXTINF:-1,group-title="BD🇧🇩",DISCOVERY Bangla
+http://103.112.62.174:8080/Discovery_bangla/index.m3u8
 #EXTINF:-1,group-title="BD🇧🇩",Z Bangla
 http://103.175.73.12:8080/live/373/373_0.m3u8
 #EXTINF:-1,group-title="BD🇧🇩",Discovery Bangla 
