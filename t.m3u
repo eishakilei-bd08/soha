@@ -4,6 +4,13 @@
 
 #EXTINF:-1,group-title="E.I.🇧🇩",T
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",T sports 
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport 2
 http://103.175.242.10:8080/starsports2/index.m3u8
