@@ -15,22 +15,8 @@ http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a0dn/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport 2
 http://103.175.242.10:8080/starsports2/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",GTV
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="E.I.🇧🇩", SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Star Sport
-http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Star Sport 2
-http://103.99.249.139/starsport2/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",STARS SPORT 
-http://103.99.249.139/starsport1/index.m3u8
-#EXTINF:-1 tvg-name="StarSports 1 HD" group-title="E.I.🇧🇩",StarSports 1 HD
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Sky Sport 
-https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1 tvg-name="Star Sports-1 Hindi" group-title="E.I.🇧🇩",Star Sports-1 Hindi
-https://starsportshindiii.pages.dev/360p.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport hindi
 http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2 HD" group-title="E.I.🇧🇩",Star Gold 2 HD
