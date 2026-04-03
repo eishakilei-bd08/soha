@@ -3,10 +3,6 @@
 
 
 
-#EXTINF:-1,group-title="E.I.🇧🇩",VIP TV📺
-http://59.152.99.22:9999/live/channel1/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Cinema📺
-http://103.161.153.165:8000/play/a00l/index.m3u8
 
 #EXTINF:-1,group-title="E.I.🇧🇩",T
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
@@ -80,6 +76,11 @@ http://103.99.249.139/zeecinema/index.m3u8
 http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SONY YAY
 http://103.99.249.139/sonyyay/index.m3u8
+
+#EXTINF:-1,group-title="E.I.🇧🇩",VIP TV📺
+http://59.152.99.22:9999/live/channel1/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Cinema📺
+http://103.161.153.165:8000/play/a00l/index.m3u8
 #EXTINF:-1, group-title="E.I.🇧🇩" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi Tv
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩", Antarjal 
