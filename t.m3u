@@ -64,19 +64,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",SONY SAB
-http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",SONY MAX
-http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",STAR GOLD
-http://103.99.249.139/stargold/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",ZEE CINEMA
-http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",SONY TEN
-http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",SONY YAY
-http://103.99.249.139/sonyyay/index.m3u8
-
 #EXTINF:-1,group-title="E.I.🇧🇩",VIP TV📺
 http://59.152.99.22:9999/live/channel1/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Cinema📺
