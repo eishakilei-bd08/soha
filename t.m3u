@@ -156,8 +156,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Cinema📺
-http://103.161.153.165:8000/play/a00l/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩", Antarjal 
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1,group-title="E.I.🇧🇩",SRKTV 
