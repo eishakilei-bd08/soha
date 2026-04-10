@@ -14,10 +14,6 @@ http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 http://180.94.28.28:8097/Jamuna-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MAASRANGA TV HD.png" group-title="Bangla",MAASRANGA TV
 http://180.94.28.28:8097/Maasranga-tv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Nagorik TV .png" group-title="Bangla",NAGORIK TV
-http://180.94.28.28:8097/Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Somoy TV.png" group-title="Bangla",SOMOY TV
-http://180.94.28.28:8097/Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Gazi TV.png" group-title="Bangla",GAZI TV
 http://180.94.28.28:8097/GAZI-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ekattur.png" group-title="Bangla",EKATTOR TV
