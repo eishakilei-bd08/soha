@@ -70,6 +70,8 @@ http://180.94.28.28:8097/NAT-GEO-BANGLA/index.fmp4.m3u8
 
 #EXTINF:-1,group-title="E.I.🇧🇩",SOMOY TV
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,PSL
 https://pslurdu.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1,FOotball
