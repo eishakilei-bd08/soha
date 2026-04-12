@@ -5,9 +5,6 @@
 
 
 
-
-
-#EXTM3U 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="Bangla",BTV
 http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jamuna Tv.png" group-title="Bangla",JAMUNA TV
@@ -32,7 +29,7 @@ http://180.94.28.28:8097/CHANNEL-9/index.fmp4.m3u8
 http://180.94.28.28:8097/DEEPTO-TV/index.fmp4.m3u8 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DBC News.png" group-title="Bangla",DBC NEWS
 http://180.94.28.28:8097/DBC-NEWS/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Independent TV.png" group-title="Bangla",INDEPENDENT TV
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Independent TV.png" group-title="Bangla",INDEPENDENT
 http://180.94.28.28:8097/Independent-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Rtv .png" group-title="Bangla",RTV
 http://180.94.28.28:8097/RTV/index.fmp4.m3u8
