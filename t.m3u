@@ -8,8 +8,8 @@
 http://172.16.29.3:8090/hls/tsportshd.m3u8
 
 
-
-
+#EXTINF:-1,FAILARMY
+https://jmp2.uk/plex-64305451fc3be5947773c339-5f170d62b898490041b4936e.m3u8
 #EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png",Deepto Tv
