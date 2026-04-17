@@ -81,7 +81,6 @@ http://180.94.28.28:8097/Duronto-TV/index.fmp4.m3u8
 http://180.94.28.28:8097/DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/National Geography.png" group-title="Other",NAT GEO BANGLA
 http://180.94.28.28:8097/NAT-GEO-BANGLA/index.fmp4.m3u8
-
 #EXTINF:-1,group-title="E.I.🇧🇩",SOMOY TV
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
@@ -96,8 +95,6 @@ https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w5722
 http://103.180.212.191:3500/live/740.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T sports 
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Nagorik 
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport 1
 http://103.229.254.25:7001/play/a0dn/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport 2
@@ -135,7 +132,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="-",9X
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
-
 #EXTINF:-1 group-title="-",Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="-",Sonic Heghok
