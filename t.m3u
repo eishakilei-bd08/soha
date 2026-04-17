@@ -15,8 +15,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
-
-#EXTM3U 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="Bangla",BTV
 http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jamuna Tv.png" group-title="Bangla",JAMUNA TV
