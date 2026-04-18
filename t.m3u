@@ -2,8 +2,8 @@
 #########E.I.🇧🇩###########
 
 
-
-
+#EXTINF:-1,IPL
+http://202.70.146.135:8000/play/a00a/index.m3u8
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports❤️‍🔥❤️‍🔥❤️‍🔥
 http://172.16.29.3:8090/hls/tsportshd.m3u8
 
