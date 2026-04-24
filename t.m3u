@@ -2,39 +2,27 @@
 #########E.I.🇧🇩###########
 
 
+
+
+
+
+
 #EXTINF:-1,IPL
 http://202.70.146.135:8000/play/a00a/index.m3u8
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports❤️‍🔥❤️‍🔥❤️‍🔥
 http://172.16.29.3:8090/hls/tsportshd.m3u8
-
-
-#EXTINF:-1,FAILARMY
+#EXTINF:-1,FAILARMY😁
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f170d62b898490041b4936e.m3u8
 #EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png",Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
 #EXTINF:-1 ,Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
 https://ekusheyserver.com/etvlivesn.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE0MGVkOTEtYTQzMC00ZGQ5LWEzN2ItZGNkMTgzOTg3MDI2XkEyXkFqcGdeQXVyMTMyMTM0Mzcz._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Tofan
-https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
 https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv
-#EXTINF:-1 tvg-logo="" group-title="Bangla Movies",Fimele 4
-https://ia902902.us.archive.org/30/items/female-4-2024-bengali-bongo-720p/Female%204%20%282024%29%20Bengali%20Bongo%20720p.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bangla Movies",Jodi Kintu Tobuo
-http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/Bangla/BD/Jodi%20Kintu%20Tobuo%20(2021)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-logo="" group-title="Bangla Movies",Antarjal
-http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
-
-
 #EXTINF:-1,group-title="E.I.🇧🇩",SOMOY TV
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
