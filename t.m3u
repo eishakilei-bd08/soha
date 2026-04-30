@@ -278,28 +278,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="E.I.🇧🇩",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",24/7 Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",24/7 Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",4/7 Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩", Sony Aath
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Kolkata Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Jio Chinema
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Catoons
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩",Dorymon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTM3U
 #EXTINF:-1,STAR_JOLSHA
@@ -1492,26 +1470,6 @@ http://110.39.27.47:8001/play/a00q/index.m3u8
 http://110.39.27.47:8001/play/a01o/index.m3u8
 
 
-#EXTINF:-1 tvg-id="247-hindi-movies" tvg-name="24/7 Hindi Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/star_gold.png" group-title="E.I.🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Bollywood_pataka_high_res_logo.jpg?20160319184711" group-title="E.I.🇧🇩",24/7 Hindi Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-id="247-bangla-movies" tvg-name="24/7 Bangla Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/zee_bangla_cinema.png" group-title="E.I.🇧🇩" tvg-logo="https://cdn.dribbble.com/userupload/40514087/file/original-87cf6c9d57c9fad2027a1726f99aeb1a.png?resize=752x564&vertical=center" group-title="E.I.🇧🇩",24/7 Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1 tvg-id="247-dubbed-movies" tvg-name="24/7 Dubbed Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/goldmines.png" group-title="E.I.🇧🇩" tvg-logo="https://www.thehandbook.com/cdn-cgi/image/width=600,height=600,fit=cover,q=80,format=webp/https://files.thehandbook.com/uploads/2021/02/aauvwngqodwiyvmmmril7mpe8ucpcqvogc98pyikxgpfs800-c-k-c0x00ffffff-no-rj.jpg" group-title="E.I.🇧🇩",24/7 Dubbed Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-id="247-bangla-waz" tvg-name="24/7 Bangla Waz" tvg-logo="https://iptv-org.github.io/iptv/logos/peace_tv_bangla.png" group-title="E.I.🇧🇩" tvg-logo="https://shorifart.com/wp-content/uploads/2022/11/Waz-Mahfil-Logo-Design-02-01-600x552.png" group-title="E.I.🇧🇩",24/7 Bangla Waz
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-id="247-gopal-bhar" tvg-name="24/7 Gopal Bhar" tvg-logo="https://iptv-org.github.io/iptv/logos/sony_aath.png" group-title="E.I.🇧🇩" tvg-logo="https://image.tmdb.org/t/p/original/h6lsUfpvqITz6FdjHhB16s3Bt3I.jpg" group-title="E.I.🇧🇩",24/7 Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-id="247-motu-patlu" tvg-name="24/7 Motu Patlu" tvg-logo="https://iptv-org.github.io/iptv/logos/nick_india.png" group-title="E.I.🇧🇩" tvg-logo="https://image.tmdb.org/t/p/original/cXdGXzpCpOqQNqgWQam13DL8rCy.jpg" group-title="E.I.🇧🇩",24/7 Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-id="247-shinchan" tvg-name="24/7 Shinchan" tvg-logo="https://iptv-org.github.io/iptv/logos/hungama.png" group-title="E.I.🇧🇩" tvg-logo="https://image.tmdb.org/t/p/original/qXxdCGuTXCY7jijMK5NQw7Pfvxf.jpg" group-title="E.I.🇧🇩",24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 tvg-id="247-doraemon" tvg-name="24/7 Doraemon" tvg-logo="https://iptv-org.github.io/iptv/logos/disney_channel_in.png" group-title="E.I.🇧🇩" tvg-logo="https://image.tmdb.org/t/p/original/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg" group-title="E.I.🇧🇩",24/7 Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-id="247-hindi-songs" tvg-name="24/7 Hindi Songs" tvg-logo="https://iptv-org.github.io/iptv/logos/9xm.png" group-title="E.I.🇧🇩" tvg-logo="https://pnglove.com/data/img/34_gXdJ.jpg" group-title="E.I.🇧🇩",24/7 Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF:-1 tvg-id="247-bangla-songs" tvg-name="24/7 Bangla Songs" tvg-logo="https://iptv-org.github.io/iptv/logos/sangeet_bangla.png" group-title="E.I.🇧🇩" tvg-logo="https://pnglove.com/data/img/34_gXdJ.jpg" group-title="E.I.🇧🇩",24/7 Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="E.I.🇧🇩",BBC News
 https://tplay.live/out/news/bbc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Goldmines_logo.png/1920px-Goldmines_logo.png?20250711062922" group-title="E.I.🇧🇩",GoldMines
@@ -1532,70 +1490,6 @@ https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/tracks-v1a1/mono.ts.m3u8
 https://live-hls-web-aje-fa.thehlive.com/AJE/01.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩", Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩", Moto Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="E.I.🇧🇩", Kid Screation
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩", ZB Kartun
-https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://i.imgur.com/swM1L4e.png", Hungama Kids
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Hindi Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Dubbed Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Waz
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Kirtan
-https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Bantul The Great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Doraemon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",RongeenTv
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",ZB Cartoon 
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",SNB Cinema 
-https://live-stream.utkalbongo.com/utkalbongo/stream11/hls/snbcinemalive.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Oxygen Music
-https://tplay.live/originals/oxygen-music/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Bengali Beats 
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Om Bangla 
-https://tplay.live/originals/om-bangla/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Ilm TV 
-https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Motu Patlu 
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Ninja Hattori 
-https://tplay.live/playlist/kids/ninja-hattori/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Doraemon
-https://tplay.live/playlist/kids/doraemon/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Oggy and the Cockroaches 
-https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Gopal Bhar 
-https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Bantul The Great 
-https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Humayun Ahmed 
-https://tplay.live/playlist/mix/bangla-kirtan/index.m3u8
 #EXTINF:-1, group-title= "E.I.🇧🇩",
 Bangla Movies https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1, group-title= "E.I.🇧🇩",
@@ -1646,98 +1540,7 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="c7b00628-bc52-4609-be0a-ad02a16e4c04" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="E.I.🇧🇩",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",TVE HD
-http://streaming.sattvgo.com.br/TVE/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", BAND HD
-http://streaming.sattvgo.com.br/BAND_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", A&E HD
-http://streaming.sattvgo.com.br/AE_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", AXN HD
-http://streaming.sattvgo.com.br/AXN_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",HBO HD
-http://streaming.sattvgo.com.br/HBO/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",HBO2 HD
-http://streaming.sattvgo.com.br/HBO2/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",HBO+ PLUS HD
-http://streaming.sattvgo.com.br/HBO_PLUS/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",HBO Family HD
-http://streaming.sattvgo.com.br/HBO_FAMILY/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", HBO Pop HD
-http://streaming.sattvgo.com.br/HBO_POP_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",HBO Mundı HD
-http://streaming.sattvgo.com.br/HBO_MUNDI_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", HBO SIGNATURE HD
-http://streaming.sattvgo.com.br/HBO_SIGNATURE/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", HBO XTREME HD
-http://streaming.sattvgo.com.br/HBO_EXTREME_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", SPACE HD
-http://streaming.sattvgo.com.br/SPACE_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", MEGAPIX HD
-http://streaming.sattvgo.com.br/MEGAPIX/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", CINEMAX
-http://streaming.sattvgo.com.br/CINEMAX/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", Warner TV HD
-http://streaming.sattvgo.com.br/WARNER_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", TCM HD
-http://streaming.sattvgo.com.br/TCM_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", TNT HD
-http://streaming.sattvgo.com.br/TNT_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", TLC HD
-http://streaming.sattvgo.com.br/TLC_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", FASHION TV HD
-http://streaming.sattvgo.com.br/FASHION_TV_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", SBT HD
-http://streaming.sattvgo.com.br/SBT_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", HISTORY HD
-http://streaming.sattvgo.com.br/HISTORY_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", HISTORY 2 HD
-http://streaming.sattvgo.com.br/H2_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", HGTV HD
-http://streaming.sattvgo.com.br/HGTV_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY CHANNEL HD
-http://streaming.sattvgo.com.br/DISCOVERY_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ID HD
-http://streaming.sattvgo.com.br/ID_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY SCIENCE HD
-http://streaming.sattvgo.com.br/DISCOVERY_SCIENCE_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY THEATER HD
-http://streaming.sattvgo.com.br/DISCOVERY_THEATER_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERYTURBO HD
-http://streaming.sattvgo.com.br/DISCOVERY_TURBO_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ANIMAL PLANET HD
-http://streaming.sattvgo.com.br/ANIMAL_PLANET_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", CNBC HD
-http://streaming.sattvgo.com.br/CNBC/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", DISCOVERY KIDS HD
-http://streaming.sattvgo.com.br/DISCOVERY_KIDS_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", BAND SPORTS HD
-http://streaming.sattvgo.com.br/BAND_SPORTS_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN HD
-http://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 2 HD
-http://streaming.sattvgo.com.br/ESPN2_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 3 HD
-http://streaming.sattvgo.com.br/ESPN3_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 4 HD
-http://streaming.sattvgo.com.br/ESPN4_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 5 HD
-http://streaming.sattvgo.com.br/ESPN5_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 6 HD
-http://streaming.sattvgo.com.br/ESPN6_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN HD
-http://streaming.sattvgo.com.br/ESPN1/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 2 HD
-http://streaming.sattvgo.com.br/ESPN2/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 3 HD
-http://streaming.sattvgo.com.br/ESPN3/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 4 HD
-http://streaming.sattvgo.com.br/ESPN4/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 5 HD
-http://streaming.sattvgo.com.br/ESPN5/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩", ESPN 6
-http://streaming.sattvgo.com.br/ESPN6/index.m3u8
-#EXTINF:-1 tvg-name="Horse& Country" group-title="E.I.🇧🇩",Horse& Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="MK Six" group-title="E.I.🇧🇩",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-name="NRBTV" group-title="E.I.🇧🇩",NRBTV
@@ -1805,12 +1608,6 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="47c1f346-8f50-467d-b4ba-8c6084950aa9" tvg-logo="https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19" group-title="E.I.🇧🇩",Saudia Radio
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 tvg-name="Bollywood Movies" group-title="E.I.🇧🇩",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-name="Kolkata Movies" group-title="E.I.🇧🇩",Kolkata Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1 tvg-name="Bollywood Movies" group-title="E.I.🇧🇩",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-id="4e74c2fe-7685-4716-8cfc-ff742280f904" tvg-logo="https://s3.aynaott.com/storage/21992f5e8529a9d2a94b6edf917dbd8f" group-title="E.I.🇧🇩",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="8b15f84b-674b-420e-843a-47c71d0c15e2" tvg-logo="https://s3.aynaott.com/storage/6dd20ecde19ea3f6b6cf6c040701973e" group-title="E.I.🇧🇩",Fox Weather
@@ -1822,9 +1619,7 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="0158eec7-6eb2-4dac-83ac-78da727c3134" tvg-logo="https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d" group-title="E.I.🇧🇩",Discover Pikstan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-#EXTM3U 
-#######ROARZONE#########
-https://raw.githubusercontent.com/siam3310/roarzone-test/refs/heads/main/playlist.m3u
+
 
 
 #EXTM3U
@@ -2069,41 +1864,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS😺",Tonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS😺",Hungama Kids
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="KIDS😺",Cartoon Network
-https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1768147995&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1c65b31066aae2852c9bcdf9e810dfc6
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6" group-title="KIDS😺",Disney JR
-https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1768147997&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ed88f5ecb467fc1a057e11c76328e50d
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e" group-title="KIDS😺",Nicktoons
-https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1768147998&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5f8d484d866764233e0f46f0d0e2094b
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e" group-title="KIDS😺",Nickjr
-https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1768147998&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=32316752925bc00e031c18e75d9c58df
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814" group-title="KIDS😺",3ABN Kids
-https://tvsen6.aynascope.net/3abnkids/index.m3u8?e=1768147999&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2d019e3d2b277ecc0bdafb4c59ba2ea5
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="KIDS😺",Dios Te Ve Kids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/61c87bda9e538dd52b3ef654e85a11ff" group-title="KIDS😺",Forever Kids
-https://tvsen6.aynascope.net/ForeverKids/index.m3u8?e=1768148000&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b2956635309bf3aa254c49d620d3db3
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/45d94f96cdc5a444bc4969af940fe294" group-title="KIDS😺",M NET Kids
-https://tvsen6.aynascope.net/MNetKids/index.m3u8?e=1768148003&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aa3b5d907c81f62b58d7793b726e0196
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d" group-title="KIDS😺",Moonbug Kids
-https://tvsen6.aynascope.net/MoonbugKids/index.m3u8?e=1768148003&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b664344ac4bd012d72382095e3ab32c6
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/91efc1ae410c11ccc4ab07f7221f0dad" group-title="KIDS😺",TVC Arabic Kids
-https://tvsen6.aynascope.net/TVCArabicKids/index.m3u8?e=1768148005&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=31347e0ca6345778af8a783c521934fc
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1" group-title="KIDS😺",Disney Channel
-https://tvsen7.aynascope.net/disney/index.m3u8?e=1768148005&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0ce1dfc67168935d71061950b59b4ad6
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f9b945284524683f1de8beb07ded8989" group-title="KIDS😺",Disney XD
-https://tvsen5.aynascope.net/disneyxd/index.m3u8?e=1768148006&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=be0a29aa02ab81ead145f2dab1980226
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ca9edd253c97a2c67fcd856f43a31702" group-title="KIDS😺",Family JR
-https://tvsen5.aynascope.net/familyjr/index.m3u8?e=1768148007&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b2dbb9c84fade8ef7ddb7530db344fcd
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541" group-title="KIDS😺",Nickelodeon
-https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1768148008&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1220716bb6c3ed6563aa9e6c8d706155
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be" group-title="KIDS😺",Teen Nick
-https://tvsen7.aynascope.net/teennick/index.m3u8?e=1768148008&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fa570527209953294728917e1a4ca400
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d" group-title="KIDS😺",YTV
-https://tvsen6.aynascope.net/ytv/index.m3u8?e=1768148010&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bdb23447ada28a5eb77b514b6218c52c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6" group-title="KIDS😺",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="KIDS😺",BBC Cbeebies
@@ -2721,108 +2482,14 @@ http://opplex.org:8080/live/36254571/3526987/363001.ts
 
 
 
-http://103.99.249.139/colors/index.m3u8
 
-http://103.99.249.139/sonysab/index.m3u8
 
-http://103.99.249.139/sonymax/index.m3u8
 
-http://103.99.249.139/stargold/index.m3u8
-
-http://103.99.249.139/zeecinema/index.m3u8
-
-http://103.99.249.139/sonyten3/index.m3u8
-
-http://103.99.249.139/starsport2/index.m3u8
-
-http://103.99.249.139/sonyyay/index.m3u8
-
-http://103.99.249.139/animalplanet/index.m3u8
-
-Arena Sport 1 HD
-http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
-Arena Sport 2 HD
-http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
-Arena Sport 3 HD
-http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
-Arena Sport 4 HD
-http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
-Arena Sport 5 HD
-http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
-Arena Sport 6 HD
-http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
-Arena Sport 7 HD
-http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
-Arena Sport 9 HD
-http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
-Arena Sport 10 HD
-http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
-Arena Premium 1 HD
-http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
-Arena Premium 2 HD
-http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
-Arena Premium 3 HD
-http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
-Super Sport 1 HD
-http://79.127.207.193:80/Supersport1/playlist.m3u8
-Super Sport 2 HD
-http://79.127.207.193:80/Supersport2/playlist.m3u8
-Super Sport 3 HD
-http://79.127.207.193:80/Supersport3/playlist.m3u8
-Super Sport 4 HD
-http://79.127.207.193:80/Supersport4/playlist.m3u8
-Super Sport 5 HD
-http://79.127.207.193:80/Supersport5/playlist.m3u8
-Super Sport 6 HD
-http://79.127.207.193:80/Supersport6/playlist.m3u8
-Super Sport 7 HD
-http://79.127.207.193:80/Supersport7/playlist.m3u8
-Art Sport 1 HD
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-Art Sport 2 HD
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-Art Sport 3 HD
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-Art Sport 4 HD
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-Art Sport 5 HD
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-Art Sport 6 HD
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
-Tring Sport 1 HD
-http://79.127.207.193:80/TringSport1HD/playlist.m3u8
-Tring Sport 2 HD
-http://79.127.207.193:80/TringSport2HD/playlist.m3u8
-KSport 1 HD
-http://79.127.207.193:80/KSport1/playlist.m3u8
-KSport 2 HD
-http://79.127.207.193:80/KSport2/playlist.m3u8
-KSport 3 HD
-http://79.127.207.193:80/KSport3/playlist.m3u8
-KSport 4 HD
-http://79.127.207.193:80/KSport4/playlist.m3u8
-Euro Sport 1 HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-Euro Sport 2 HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-Fight Network HD
-http://79.127.207.193:80/FightNetwork/playlist.m3u8
-RAI 1 HD
-http://79.127.207.193:80/Rai1/playlist.m3u8
-RAI 2 HD
-http://79.127.207.193:80/Rai2/playlist.m3u8
-Rai 3 HD
-http://79.127.207.193:80/Rai3/playlist.m3u8
-Rai Sport HD
-http://79.127.207.193:80/RaiSport/playlist.m3u8
 Eurosport 1 Poland HD
 http://81.15.109.89:8001/play/Eurosport1Poland
 Eurosport 2 Poland HD
 http://81.15.109.89:8001/play/Eurosport2Poland
 
-http://161.248.38.40:8000/play/a0b3/index.m3u8
-
-http://161.248.38.40:8000/play/a0at/index.m3u8
 
 URL: http://161.248.38.40:8000/play/a08v/index.m3u8
 URL: http://161.248.38.40:8000/play/a06q/index.m3u8
@@ -2831,15 +2498,6 @@ URL: http://161.248.38.40:8000/play/a074/index.m3u8
 URL: http://161.248.38.40:8000/play/a07q/index.m3u8
 
 
-
-http://161.248.38.40:8000/play/a07q/index.m3u8
-http://161.248.38.40:8000/play/a074/index.m3u8
-http://161.248.38.40:8000/play/a06z/index.m3u8
-http://161.248.38.40:8000/play/a071/index.m3u8
-http://161.248.38.40:8000/play/a06n/index.m3u8
-http://161.248.38.40:8000/play/a075/index.m3u8
-http://161.248.38.40:8000/play/a06a/index.m3u8
-http://161.248.38.40:8000/play/a08v/index.m3u8
 
 #EXTINF:-1 group-title="Ip", TEN 3 Hindi - Rs 19.00
 http://103.229.254.25:7001/play/a09q/index.m3u8
