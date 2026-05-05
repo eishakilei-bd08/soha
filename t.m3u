@@ -7075,65 +7075,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
-
-
-
-========================================================== UK Channels =================================================================================================================
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/637-bbcone.jpg",BBC One
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/860-bbctwo.jpg",BBC 2 HD
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3 CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/595-bbc4.jpg",BBC 4 Cbeebies
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/884-bbcnews.jpg",BBC News
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/645-channel4.jpg",Channel 4
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="https://www.livetvuk.com/uploads/tv/496-channel5.jpg" tvg-logo="",Channel 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://cdn.comedy.co.uk/images/channels/more4.jpg",More 4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
-
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/614-yesterday.jpg",Yesterday
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="https://tse2.mm.bing.net/th/id/OIP.CBifcJseyVMrWu8sGlLt6QHaHD?pid=Api&P=0&h=220" tvg-logo="",Film 4
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/971-itv1.jpg",ITV 1
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/646-itv2.jpg",ITV 2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/657-itv3.jpg",ITV 3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/94-itv4.jpg",ITV 4
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dgeo342-ddbfaaca-10c5-4cb0-8ec5-6d1f4241ad4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGdlbzM0Mi1kZGJmYWFjYS0xMGM1LTRjYjAtOGVjNS02ZDFmNDI0MWFkNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3OP-lbaOPZDhNlOrNanpORGpnE3D_G6uO-yLQRtp6Dc" tvg-logo="",Paramount
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Food Network
-https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
-
-
-
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Aljazeera
-https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Bloomberg
-https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",CNN
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
-#EXTINF:-1 group-title="UK Channels" tvg-id="https://www.livetvuk.com/uploads/tv/565-skynews.jpg" tvg-logo="",Sky News
-https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
-
-
-
-
-#EXTM3U 
+ 
 
 #EXTINF:-1 group-title="India" tvg-id="BhojpuriCinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png",BHOJ | Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -7352,22 +7294,6 @@ http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTM3U 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",A Sports
-https://mrgifytv.pages.dev/bpl/asports/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://103.182.170.32:8888/play/a040
 
@@ -7404,17 +7330,8 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Arena
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19128/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Football
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Basket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19134/index.m3u8
-
-
-http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",WWE
-
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/436jGs29/Bein-Sports-Xtra.jpg",Bein Sports Xtra
@@ -7450,13 +7367,6 @@ http://178.23.88.55/Nova_Sport/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
 http://178.23.88.55/Sport1/index.m3u8
 
-
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&pictures HD 
-
-
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
-
-
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",B4U Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 
@@ -7473,10 +7383,6 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
 http://103.140.254.2:3500/live/482.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Colors Cineplex Bollywood
-
-
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/B6z3dyyj/Colors-Rishtey.jpg",Colors Rishtey HD
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal
@@ -7488,7 +7394,6 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sab TV
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
