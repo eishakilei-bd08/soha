@@ -3894,24 +3894,6 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS", Star Sports-1 Hindi
-https://starsportshindiii.pages.dev/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS", Sony Sports-2 HD
-http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png", RTA SPORTS
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS", BeIN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", DD Sports
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Cowboy tv
-https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", MTR Sports-1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-
-#EXTM3U 
-
 
 
 
@@ -3998,24 +3980,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="English News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Utsav Gold
-http://45.148.145.57/IN_STU/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",A SPORTS
-http://163.61.227.29:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",FAST SPORTS
-http://163.61.227.29:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",TNT SPORTS 2
-http://178.33.239.54:8080/510/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",TNT SPORTS 3
-http://178.33.239.54:8080/511/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",M4 SPORTS
-http://dvr1.kablova.tv/M4/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",PTV SPORTS HD
-http://163.61.227.29:8000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", EURO SPORTS HD
-http://84.54.128.52:9090/play/4003/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", ESPN 7
-http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="None", Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="None",Colors Cineplex Superhits
@@ -4126,8 +4090,6 @@ http://163.61.227.29:8000/play/a02v/index.m3u8
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="None",Tara Cinema Bangla
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Padma Tv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="None",ENTER10 BANGLA
 https://cdn-4.pishow.tv/live/241/master.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="None",PTV HOME
@@ -4167,50 +4129,6 @@ http://163.61.227.29:8000/play/a064/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="None",Histoire HD
 http://151.80.18.177:86/Histoire/index.m3u8
-
-#EXTINF:-1 tvg-logo="none" group-title="Football",Bein Sports 1🎯
-https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Football",BIS HABER
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",TRT SPOR
-https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Football",PSN 1 Sports
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Football",PSN 2 Sports
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272" group-title="Football",PSN 4 Sports
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Football",PSN 5 Sports
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Bein Sports 1🎯
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Sharjah Sports 🎯
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Bein Sports 1 True Vision 🎯
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",PRO Sport International �
-https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Russia Football 1 HD 
-http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Russia Football 2 HD 
-http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Russia Football 3 HD 
-http://cdntv.online/low/9mlxywika2/57.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football", Real Madrid tv Football 
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",FIFA+
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Arena_Sport
-http://178.23.88.55/Arena_sport/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football", Sport 1 HD
-http://178.23.88.55/Sport1/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Nova_Sport
-http://178.23.88.55/Nova_Sport/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Football",Eurosport_2
-http://178.23.88.55/Eurosport_2/index.m3u8
-
 
 #EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
@@ -4270,37 +4188,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 1 (576p)
-http://103.178.78.151:7505/play/a1qd/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png" group-title="Sports",Sony Sports Ten 3 Hindi (576p)
-http://103.178.78.151:7505/play/a1pv/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5 (1080p)
-http://103.178.78.151:7505/play/a1qa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (576p)
-http://103.167.255.18:8085/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
-http://103.178.78.151:7505/play/a0ui/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
-http://103.178.78.151:7505/play/a1n9/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi HD (1080p)
-http://103.178.78.151:7505/play/a1bw/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 (576p)
-http://103.167.255.18:8085/play/a0jt/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (1080p)
-http://103.167.255.18:8085/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi (576p)
-http://103.167.255.18:8085/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi HD (1080p)
-http://103.178.78.151:7505/play/a1lw/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sports",Star Sports 3 (576p)
-http://103.167.255.18:8085/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports",Star Sports Select 1 HD (1080p)
-http://103.178.78.151:7505/play/a0w8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD (1080p)
-http://103.178.78.151:7505/play/a0w9/index.m3u8 
-
-
-#EXTM3U
+ 
 
 
 ######Indian Bangla🇮🇳#######
