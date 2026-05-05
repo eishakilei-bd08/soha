@@ -288,15 +288,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="E.I.🇧🇩",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTM3U
-#EXTINF:-1,STAR_JOLSHA
-http://172.20.3.1:3255/starjolsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_BANGLA
-http://172.20.3.1:3255/ZeeBangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,COLORS_BANGLA
 http://172.16.29.3:8090/hls/ColorsBanglaHD.m3u8
-#EXTINF:-1,SUN_BANGLA
-http://172.20.3.1:3255/SUN-BANGLA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ENTERTRAIN_BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1,SONY_AAT
@@ -305,10 +299,6 @@ http://172.16.29.3:8090/hls/SonyAtth.m3u8
 http://172.16.29.3:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1,9XM
 http://172.16.29.3:8090/hls/9xm.m3u8
-#EXTINF:-1,ZOOM_MUSIC
-http://172.20.3.1:3255/ZOOM-MUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B4U_MUSIC
-http://172.20.3.1:3255/B4UMusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JOO_MUSIC
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
 #EXTINF:-1,MUSIC_INDIA
@@ -329,14 +319,6 @@ http://172.16.29.3:8090/hls/ptvsportshd.m3u8
 http://172.16.29.3:8090/hls/StarSports1HD.m3u8
 #EXTINF:-1,STAR_SPORTS_2
 http://172.16.29.3:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1,SONY_TEN_1
-http://172.20.3.1:3255/SonyTenSports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TEN_2
-http://172.20.3.1:3255/SonyTenSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TEN_3
-http://172.20.3.1:3255/SONY-SPORTS3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TEN_4
-http://172.20.3.1:3255/SONY-SPORTS4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_TEN_5
 http://172.16.29.3:8090/hls/SonyTen3hd.m3u8
 #EXTINF:-1,WORLD_OF_FREE_SPORTS
@@ -349,12 +331,6 @@ http://172.16.29.3:8090/hls/tntsports2hd.m3u8
 http://172.16.29.3:8090/hls/tntsports3hd.m3u8
 #EXTINF:-1,BEIN_SPORTS_1
 http://172.16.29.3:8090/hls/BeinSports1ENG.m3u8
-#EXTINF:-1,BEIN_SPORTS_2
-http://172.20.3.1:3255/willow1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TEN_CRICKET
-http://172.20.3.1:3255/SonyTenCricket/tracks-v1a1/mono.m3u8
-
-
 
 
 #EXTM3U
@@ -764,40 +740,6 @@ http://103.161.153.165:8000/play/a050/index.m3u8
 http://103.161.153.165:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="-",Sudan TV
 http://103.161.153.165:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="-",T Sports_HD
-http://103.161.153.165:8000/play/tspohd/index.m3u8
-#EXTINF:-1 group-title="-",TLC HD
-http://103.161.153.165:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="-",TNT SPORTS
-http://103.161.153.165:8000/play/willowcric2/index.m3u8
-#EXTINF:-1 group-title="-",TNT SPORTS 2 HD
-http://103.161.153.165:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="-",TNT SPORTS 3 HD
-http://103.161.153.165:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="-",TNT SPORTS 4 HD
-http://103.161.153.165:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="-",TRAVEL XP_HD
-http://103.161.153.165:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL HD
-http://103.161.153.165:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="-",UTV CINEMA HD
-http://103.161.153.165:8000/play/utvc/index.m3u8
-#EXTINF:-1 group-title="-",UTV CLASSIC HD
-http://103.161.153.165:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="-",UTV GOLD HD
-http://103.161.153.165:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",UTV MAX HD
-http://103.161.153.165:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="-",UTV MOVIES HD
-http://103.161.153.165:8000/play/utvm/index.m3u8
-#EXTINF:-1 group-title="-",UTV PICTURES HD
-http://103.161.153.165:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="-",WEB SERIES HD1
-http://103.161.153.165:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="-",WILLOW CRICKET 2 HD
-http://103.161.153.165:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="-",Willow Cricket HD
-http://103.161.153.165:8000/play/willowcrichd/index.m3u8
 #EXTINF:-1 group-title="-",ZEE ACTION 
 http://103.161.153.165:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="-",ZEE BANGLA CENEMA
@@ -1079,8 +1021,6 @@ http://103.229.254.25:7001/play/a0eg/index.m3u8
 http://103.229.254.25:7001/play/a0en/index.m3u8
 #EXTINF:-1 group-title="-",THE Q
 http://103.229.254.25:7001/play/a07j/index.m3u8
-#EXTINF:-1 group-title="-",Ten Cricket
-http://103.229.254.25:7001/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="-",ThePapare 1
 http://103.229.254.25:7001/play/a0ew/index.m3u8
 #EXTINF:-1 group-title="-",ThePapare 2
@@ -1563,14 +1503,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-name="SonySab" group-title="E.I.🇧🇩",SonySab
 http://217.20.112.199:8888/sabtvhd/index.m3u8
-#EXTINF:-1 tvg-name="Star Jalsha HD" group-title="E.I.🇧🇩",Star Jalsha HD
-https://ultrashort.info/5yLqax
-#EXTINF:-1 tvg-name="SonyTV" group-title="E.I.🇧🇩",SonyTV
-http://217.20.112.199/sethd/index.m3u8
-#EXTINF:-1 tvg-name="Aakash Aath" group-title="E.I.🇧🇩",Aakash Aath
-https://ultrashort.info/Z7cEes
-#EXTINF:-1 tvg-name="Pardesi TV" group-title="E.I.🇧🇩",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8ee
 #EXTINF:-1 tvg-name="8X music" group-title="E.I.🇧🇩",8X music
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-name="Histoire HD" group-title="E.I.🇧🇩",Histoire HD
@@ -1593,8 +1525,6 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.t
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="30AMusic" group-title="E.I.🇧🇩",30AMusic
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Makka TV" group-title="E.I.🇧🇩",Makka TV
