@@ -7,6 +7,8 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies",Star Movies
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="LoveDoes" group-title="E.I.🇧🇩",বাংলা গান
+https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #EXTINF:-1,জি বাংলা
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1,BTV
@@ -1552,10 +1554,7 @@ https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-name="NRBTV" group-title="E.I.🇧🇩",NRBTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LoveDoes" group-title="E.I.🇧🇩",LoveDoes
-https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
-#EXTINF:-1 tvg-name="NagorikTV" group-title="E.I.🇧🇩",NagorikTV
-http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Colors HD" group-title="E.I.🇧🇩",Colors HD
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="E.I.🇧🇩",Gopal Bhar
