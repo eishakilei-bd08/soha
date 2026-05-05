@@ -39,7 +39,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1,IPL
 http://202.70.146.135:8000/play/a00a/index.m3u8
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports❤️‍🔥❤️‍🔥❤️‍🔥
+#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports❤️‍🔥❤️‍🔥❤️‍🔥
 http://172.16.29.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1,FAILARMY😁
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f170d62b898490041b4936e.m3u8
