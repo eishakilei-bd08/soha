@@ -9,6 +9,9 @@
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,চ্যানেল ১
 https://ultra02jibon02by1.jibon02premium.workers.dev/CHANNEL-1-BANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
+http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-name="LoveDoes" group-title="E.I.🇧🇩",বাংলা গান
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #EXTINF:-1,জি বাংলা
