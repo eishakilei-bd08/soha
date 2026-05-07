@@ -73,6 +73,8 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,চ্যানেল ১
 https://ultra02jibon02by1.jibon02premium.workers.dev/CHANNEL-1-BANGLA/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kvF6A7MpJigDiu63q8L3ZADpsqenR6S0zGG1Wj6gbA&s" group-title="PRO",Madupur News 24
+http://103.121.61.218/tmp_hls/4a47d2983c8bd392b120b627e0e1cab4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-name="LoveDoes" group-title="E.I.🇧🇩",বাংলা গান
