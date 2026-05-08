@@ -1,8 +1,10 @@
 #EXTM3U
 #########E.I.🇧🇩###########
 
-#EXTINF:-1,গান বাংলা
 
+
+#EXTINF:-1,গান বাংলা
+https://live-global-cdn-v02.sooplive.com/live-stm-01/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.UhztW5N_o79A8xDj4gWS5dlOh6zjbVSwqn6enzubxKfVN1DXyxVDqCSg49-BwH3LpTjISRjsrEjpn0nw_9vt5reWR7-v_Gy-NO59wD8dTGG596KNOvArktiUhs2eN-lrKDyMxzpbSObMCnv9IzKAeHjcGxeXnzEn4iOxWrK4mE_cRiDoCxGIL_DbsQ-AfwB0
 
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="PRO",ZEE BANGLA📺
 http://103.159.180.34:5001/live/625.m3u8
