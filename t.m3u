@@ -1127,54 +1127,7 @@ https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/tracks-v1a1/mono.ts.m3u8
 https://live-hls-web-aje-fa.thehlive.com/AJE/01.m3u8
 
 
-#EXTINF:-1, group-title= "E.I.🇧🇩",
-Bangla Movies https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",
-Bollywood Movies https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",
-Dubbed Movies https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",
-T Play Special https://tplay.live/playlist/music/tplay-special/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",
-T Series Songs https://tplay.live/playlist/music/t-series/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",
-Dance Performance https://tplay.live/playlist/music/dance-performance/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Coke Studio Bangla 
-https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Bhojpuri Songs 
-https://tplay.live/playlist/music/bhojpuri/index.m3u8
-#EXTINF:-1, group-title= "E.I.🇧🇩",Adnan Sami 
-https://tplay.live/playlist/music/adnan-sami/index.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Bangla Kirtan 
-https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
-#EXTINF:-1, group-title="E.I.🇧🇩",Zibo
-https://ziboflow.ott-king.top:8080/zibo/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Star Gold
-http://103.99.249.139/stargold/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Star Plus
-http://103.99.249.139/starplus/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Star Jalsha
-http://103.99.249.139/starjalsha/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Jalsha Movies
-http://103.99.249.139/jalshamovies/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",And Pictures
-http://103.99.249.139/andpictures/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Sony Max
-http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Sony Sab
-http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Zee TV
-http://103.99.249.139/zeetv/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Zee Cinema
-http://103.99.249.139/zeecinema/index.m3u8
-EXTINF:-1 tvg-logo=" " group-title="E.I.🇧🇩",Arabica TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="E.I.🇧🇩",DBC টিভি
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="E.I.🇧🇩",pcv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="E.I.🇧🇩",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
 #EXTINF:-1 tvg-id="c7b00628-bc52-4609-be0a-ad02a16e4c04" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="E.I.🇧🇩",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
