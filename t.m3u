@@ -39,8 +39,6 @@ https://live-global-cdn-v02.sooplive.com/live-stmc-28/auth_playlist.m3u8?aid=.A3
 
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="PRO",ZEE BANGLA📺
 http://103.159.180.34:5001/live/625.m3u8
-#EXTINF:-1,group-title="PRO",Colors Bangla
-http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="PRO",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQ2KPjTwTMWxRwfFfiomQajZdGxyjnVDkEzXFw_aTiHOocaB5B-rqIxc&s=10" group-title="PRO",Enter 10 Bangla
@@ -55,8 +53,6 @@ http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.28/images/sangeetbangla.png" group-title="PRO",SANGEET BANGLA📺
 http://172.16.29.2:8090/hls/SangeetBangla.m3u8
-#EXTINF:-1,group-title="PRO",Sananda📺
-https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1,group-title="PRO",Bangla Jago📺
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,group-title="PRO",Nandan📺
