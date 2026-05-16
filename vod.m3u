@@ -2,7 +2,71 @@
 
 
 
-
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
+http://iptv.prosto.tv:7000/ch336/video.m3u
 
 
 
