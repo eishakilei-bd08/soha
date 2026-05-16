@@ -1,5 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Алим и его ослик"
+                                                                                                                                                                                                                                                                                                                                                                                      #EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Алим и его ослик"
 https://mults.info/mp4/alim_i_ego_oslik.mp4
 #EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Василиса Микулишна"
 https://mults.info/mp4/vasilisa_mikulishna.mp4
