@@ -1,5 +1,29 @@
-#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTM3U 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$BorpasFileFormat="1" $NestedGroupsSeparator="/"
    365265f3f6e4_mgg/vod/hls/b/5000/u_sid/0/o/105449701/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Только спокойствие (2009)
 https://vs48.vcdn.biz/dd8250c2c71dd78eca7e67f0d874802a_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/105449701/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid260151475-b2000000.m3u8
 #EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 1
