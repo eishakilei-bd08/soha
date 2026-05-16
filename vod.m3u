@@ -1,1 +1,101 @@
-
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Алим и его ослик"
+https://mults.info/mp4/alim_i_ego_oslik.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Василиса Микулишна"
+https://mults.info/mp4/vasilisa_mikulishna.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Верните Рекса"
+https://mults.info/mp4/vernite_reksa.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Веселая карусель. Выпуск №19" 1988г.
+https://mults.info/mp4/karusel_19.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Веселый огород"
+https://mults.info/mp4/veselyi_ogorod.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Возвращение блудного попугая ч.3" 1988г.
+https://mults.info/mp4/vozvr_bl_popugaya_3.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Дом для леопарда"
+https://mults.info/mp4/dom_dlja_leoparda.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Дядя Степа - милиционер"
+https://mults.info/mp4/diadia_stepa_militsioner.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Жирафа и очки"
+https://mults.info/mp4/zhirafa_i_ochki.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Жихарка"
+https://mults.info/mp4/zhiharka_1977.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Заяц Коська и родничок"
+https://mults.info/mp4/zajats_koska_i_rodnichok.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Как грибы с горохом воевали"
+https://mults.info/mp4/kak_griby_s_goroxom_voevali.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Кораблик"
+https://mults.info/mp4/korablik.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Лабиринт"
+https://mults.info/mp4/labirint_podvig_teseja.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Мистер Пронька" 1991г.
+https://mults.info/mp4/pronka.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Молодильные яблоки"
+https://mults.info/mp4/molodilnye_yabloki.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Муми-Дол. В Муми-Дол приходит осень"
+https://mults.info/mp4/mumi_v_mumi_dol_prihodit_osen.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Муми-Дол. Все дело в шляпе"
+https://mults.info/mp4/mumi_vse_delo_v_shlyape.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Муми-Дол. Лето в Муми-Доле"
+https://mults.info/mp4/mumi_leto_v_mumi_dole.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Ночь перед рождеством"
+https://mults.info/mp4/noch_pered_rozhdestvom.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Огневушка-поскакушка"
+https://mults.info/mp4/ognevushka_poskakushka.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Опять двойка"
+https://mults.info/mp4/opjat_dvoyka.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Петух и краски"
+https://mults.info/mp4/petuh_i_kraski.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Последняя невеста Змея Горыныча"
+https://mults.info/mp4/poslednaja_nevesta_zmeja_gorynycha.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Приключения кузнечика Кузи (ч.1)" 1991г.
+https://mults.info/mp4/priklucheniya_kuznechika_kuzi_1.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Приключения кузнечика Кузи (ч.2)" 1991г.
+https://mults.info/mp4/priklucheniya_kuznechika_kuzi_2.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Приключения Хомы"
+https://mults.info/mp4/prikluchenia_homy.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Пришелец Ванюша ч.1" 1990г.
+https://mults.info/mp4/prishelets_vanyusha_1.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Пришелец Ванюша ч.2" 1990г.
+https://mults.info/mp4/prishelets_vanyusha_2.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Пришелец Ванюша ч.3" 1990г.
+https://mults.info/mp4/prishelets_vanyusha_3.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Ровно в три пятнадцать"
+https://mults.info/mp4/rovno_v_3_15.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Сказка о солдате"
+https://mults.info/mp4/skazka_o_soldate.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Сказка про лень"
+https://mults.info/mp4/skazka_pro_len.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Сказки для больших и маленьких"
+https://mults.info/mp4/skazki_dlya_bolshih_i_malenkih.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Тараканище"
+https://mults.info/mp4/tarakanishe.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Три дровосека"
+https://mults.info/mp4/tri_drovoseka.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Три лягушонка ч.2" 1988г.
+https://mults.info/mp4/tri_lyagushonka_2.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Три лягушонка ч.3"
+https://mults.info/mp4/tri_lyagushonka_3.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Фальшивая нота"
+https://mults.info/mp4/falshivaya_nota.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Федя Зайцев"
+https://mults.info/mp4/fedya_zaycev.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Фильм! Фильм! Фильм!"
+https://mults.info/mp4/filmfilmfilm.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Храбрый заяц"
+https://mults.info/mp4/hrabry_zayac.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Царевна-Лягушка"
+https://mults.info/mp4/tsarevna_lyagushka.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Что такое хорошо и что такое плохо"
+https://mults.info/mp4/chto_takoe_horosho.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Чуня"
+https://mults.info/mp4/chunya.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Шакаленок и верблюд"
+https://mults.info/mp4/shakalenok_i_verblud.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Шутки"
+https://mults.info/mp4/shutki.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Это что за птица?"
+https://mults.info/mp4/eto_chto_za_ptitsa.mp4
+#EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",(НЕ)идеальный мужчина (2020)
+https://kinoleha.net/load/-ne-idealqnyj-muzhchina?original
+#EXTINF:-1 group-title="↕️ 🔺PLAYLIST INFORMATION🔺INFO 🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",+✓Обновление:🔺INFO 🔴🔺↕️
+https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
