@@ -17,6 +17,10 @@ http://103.203.93.19/Action%20Movie%20(Mixed)/2026/Jana.Nayagan.2026.720p.WEB-LE
 https://aynaott.sulfuricacid.workers.dev/Fallback/tsports-hd.m3u8
 #EXTINF:-1,Rtv
 http://116.204.149.16/rtvhd/index.m3u8
+
+
+#EXTINF:-1,news21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1,UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
