@@ -27,6 +27,8 @@ https://aynaott.sulfuricacid.workers.dev/Fallback/tsports-hd.m3u8
 http://116.204.149.16/rtvhd/index.m3u8
 
 
+#EXTINF:-1,nick
+http://103.157.248.140:8000/play/a01n/index.m3u8
 #EXTINF:-1,news21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1,UNMOCHON TV
