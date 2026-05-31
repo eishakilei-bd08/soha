@@ -8,8 +8,6 @@
 
 
 
-#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="PRO",STAR SPORTS 2📺
-http://172.16.29.2:8090/hls/StarSports2HD.m3u8
 
 #EXTINF:-1,সোহা টিভি
 https://res.cloudinary.com/dklvzqeim/video/upload/v1779212928/VID-20260519-WA0021_tkbzuz.mp4
