@@ -2,8 +2,12 @@
 
 
 
-#EXTINF:-1,ইদ মোবারক 
-https://res.cloudinary.com/dc0pw6vgy/video/upload/VID-20260520-WA0003_tm0iqr.mp4
+
+
+
+#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="PRO",STAR SPORTS 2📺
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+
 #EXTINF:-1,সোহা টিভি
 https://res.cloudinary.com/dklvzqeim/video/upload/v1779212928/VID-20260519-WA0021_tkbzuz.mp4
 #EXTINF:-1,BUY EITV
@@ -124,8 +128,7 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-name="A SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="PRO",A SPORTS📺
 http://172.16.29.2:8090/hls/ASportsHD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="PRO",STAR SPORTS 2📺
-http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+
 #EXTINF:-1 tvg-name="STAR SPORTS SELECT" tvg-logo="http://172.16.29.28/images/starsportsselect1.png" group-title="PRO",STAR SPORTS SELECT📺
 http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png" group-title="PRO",STAR SPORTS SELECT 2📺
@@ -2516,3 +2519,9 @@ http://45.5.119.43:4000/play/a05o/index.m3u8
 http://200.229.147.142:8000/play/a06t/index.m3u8
 #EXTINF:-1 ,TUDN IXP
 http://200.229.147.142:8000/play/a096/index.m3u8
+
+
+
+#EXTINF:-1,ইদ মোবারক 
+https://res.cloudinary.com/dc0pw6vgy/video/upload/VID-20260520-WA0003_tm0iqr.mp4
+
