@@ -6,7 +6,8 @@
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Kjf01KRG/20260604-090015.jpg",FIFA World Cup 2026🅱️
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+http://103.158.133.62:8080/live/index.m3u8
+
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -29,8 +30,6 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/MTvHtJdm/20260604-155212.jpg",FIFA World Cup 2026 🇮🇳[coming]
 http://66.102.126.10:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/CxHgpZXW/images.jpg",BANGLADESH VS SAN MARINO
-http://103.158.133.62:8080/live/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
