@@ -64,11 +64,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/QNYVBCNw/20260604-154446.jpg",FIFA World Cup 2026 🇮🇳[coming]
-http://66.102.126.10:8000/play/a076/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
