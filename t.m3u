@@ -10,19 +10,8 @@
 
 
 
-https://raw.githubusercontent.com/mdarif2743/Cmcl-digital-mpd/refs/heads/main/README.m3u
-
-#EXTM3U
-#EXTINF:-1,Shikhor TV
-#EXTVLCOPT:http-referrer=https://hridoytv.pages.dev
-#EXTVLCOPT:http-origin=https://hridoytv.pages.dev
-https://jbd.hossainhridoy.workers.dev/shikhortv.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ShikhorTV" tvg-name="Shikhor TV" group-title="Bangla",Shikhor TV
-#EXTHTTP:{"Referer":"https://hridoytv.pages.dev","Origin":"https://hridoytv.pages.dev"}
-https://jbd.hossainhridoy.workers.dev/shikhortv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
+https://xfireflix.my.id/mac.php?id=908684.m3u8
 
 
 
