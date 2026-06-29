@@ -10,6 +10,19 @@
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
+#EXTINF:-1,BTV
+http://exp.sm-monirul.top/ultra_restream/btv/index.m3u8
+#EXTINF:-1,Somoy Tv
+http://exp.sm-monirul.top/ultra_restream/somoy_tv/index.m3u8
+#EXTINF:-1,Toffee
+http://sm-monirul.top/tof/toffee_ex/index.m3u8
+#EXTINF:-1,Bioscope
+http://exp.sm-monirul.top/ultra_restream/bioscope/index.m3u8
+#EXTINF:-1,I screen
+http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
+
+
+
 
 
 
