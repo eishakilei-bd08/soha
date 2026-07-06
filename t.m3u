@@ -8,11 +8,6 @@
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv3
 
 
-#EXTM3U
-#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/mjFZked.png",AR | beIN MAX 1 4K F
-http://live.8kultra.org:80/774d0fb4d/c4c0646db/685009
-#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/4Wd79RR.png",AR | beIN MAX 1 HD F
-http://live.8kultra.org:80/774d0fb4d/c4c0646db/685008
 #EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/WUbmV4h.png",AR | beIN MAX 1 FHD F
 http://live.8kultra.org:80/774d0fb4d/c4c0646db/685006
 #EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/7AHVKlP.png",AR | beIN MAX 1 SD F
