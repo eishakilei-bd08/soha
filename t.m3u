@@ -2,15 +2,41 @@
 
 
 
-https://raw.githubusercontent.com/eifastbd/ultra/refs/heads/main/bdm
-
-
-https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/All%20Movie.m3u
-
 
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",লে বাফার 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv3
+
+
+#EXTM3U
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/mjFZked.png",AR | beIN MAX 1 4K F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685009
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/4Wd79RR.png",AR | beIN MAX 1 HD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685008
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/WUbmV4h.png",AR | beIN MAX 1 FHD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685006
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/7AHVKlP.png",AR | beIN MAX 1 SD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685005
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/GAfh04b.png",AR | beIN MAX 2 4K F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685004
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/2t4xmkE.png",AR | beIN MAX 2 HD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685003
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/iAHqTej.png",AR | beIN MAX 2 FHD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685002
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/2WxMpfE.png",AR | beIN MAX 2 SD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685001
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/sCnC4JO.png",AR | beIN MAX 3 4K F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/685000
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/l1ljdYL.png",AR | beIN MAX 3 HD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/684999
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/Vi2Eu2D.png",AR | beIN MAX 3 FHD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/684998
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/lxBZQkN.png",AR | beIN MAX 4 4K F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/684997
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/Ox8KmqH.png",AR | beIN MAX 4 HD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/684996
+#EXTINF:-1 group-title="AR ‖ FIFA WC 2026 F" tvg-logo="https://i.imgur.com/KTAklHG.png",AR | beIN MAX 4 FHD F
+http://live.8kultra.org:80/774d0fb4d/c4c0646db/684995
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",T Sports BDIX
 http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
