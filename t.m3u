@@ -14,6 +14,8 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv3
 
 
 
+http://180.94.28.28:8097//T-Sports/index.fmp4.m3u8?token=a86bfb1e2a928aeee08fc0c58b11d209f70b23d3-b99a6977433e109d959eb367dc02d10c-1776169972-1776166372&remote=no_check_ip
+
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="PRO",BTV🇧🇩
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO",Sangsad TV🇧🇩
