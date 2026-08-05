@@ -17,8 +17,8 @@
 
 
 
-
-
+#EXTINF:-1,T-sport⚽
+http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="PRO✅",BTV🇧🇩
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="PRO✅",BTV CHATTAGRAM🇧🇩
@@ -105,7 +105,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="PRO✅",Ekhon TV🇧🇩
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/asian-tv-bd.png" group-title="PRO✅",Asian TV🇧🇩
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
