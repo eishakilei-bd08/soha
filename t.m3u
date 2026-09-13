@@ -30,8 +30,8 @@ https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.
 #EXTINF:-1 group-title="SKO💧" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein XSTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-
-
+#EXTINF:-1,star BD
+http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 #EXTINF:-1,জালসা বিডি
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 
